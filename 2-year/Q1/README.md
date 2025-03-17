@@ -1,1 +1,1 @@
-# BD CI EDA PE SO
+# [BD] [CI] [EDA] [PE] [SO] 
