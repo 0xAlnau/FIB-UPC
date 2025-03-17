@@ -1,2 +1,2 @@
 # Subjects!
-In this folder you will find subjects such as AC, BD, CI, EDA, EEE, IDI, IES, PE, SO, XC
+In this folder you will find subjects such as CI, EC, F, FM, M1, M2, PRO1, PRO2
