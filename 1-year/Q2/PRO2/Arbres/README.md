@@ -6,8 +6,6 @@ My favourite part of the subject, I liked a lot making this exercicies, I think 
         - - - - - - + - - - - - - 
         |                       |
        Is                      Tree
-
-
 - - - - + - - - -
 |               |
 A              Bin
