@@ -1,0 +1,388 @@
+VISUALFORMAT
+png
+                                  fotos
+                                    |
+                      -------------- --------------
+                     |                             |
+                  antigues                       noves
+                     |                             |
+          ----------- -----------            ------ ------
+         |                       |          |             |
+      familia                  amics     familia        amics
+         |                       |          |             |
+    ----- -----              ----       ---- ----          ----
+   |           |            |          |         |             |
+pau.jpg    nuria.png    joel.jpeg     casa    vacances     marta.png
+                                                 |
+                                           ------ ------
+                                          |             |
+                                       roma.bmp    newyork.png
+
+bmp
+                                  fotos
+                                    |
+                      -------------- --------------
+                     |                             |
+                  antigues                       noves
+                     |                             |
+          ----------- -----------            ------ ------
+         |                       |          |             |
+      familia                  amics     familia        amics
+         |                       |          |             |
+    ----- -----              ----       ---- ----          ----
+   |           |            |          |         |             |
+pau.jpg    nuria.png    joel.jpeg     casa    vacances     marta.png
+                                                 |
+                                           ------ ------
+                                          |             |
+                                       roma.bmp    newyork.png
+
+jpeg
+                                  fotos
+                                    |
+                      -------------- --------------
+                     |                             |
+                  antigues                       noves
+                     |                             |
+          ----------- -----------            ------ ------
+         |                       |          |             |
+      familia                  amics     familia        amics
+         |                       |          |             |
+    ----- -----              ----       ---- ----          ----
+   |           |            |          |         |             |
+pau.jpg    nuria.png    joel.jpeg     casa    vacances     marta.png
+                                                 |
+                                           ------ ------
+                                          |             |
+                                       roma.bmp    newyork.png
+
+gif
+                                  fotos
+                                    |
+                      -------------- --------------
+                     |                             |
+                  antigues                       noves
+                     |                             |
+          ----------- -----------            ------ ------
+         |                       |          |             |
+      familia                  amics     familia        amics
+         |                       |          |             |
+    ----- -----              ----       ---- ----          ----
+   |           |            |          |         |             |
+pau.jpg    nuria.png    joel.jpeg     casa    vacances     marta.png
+                                                 |
+                                           ------ ------
+                                          |             |
+                                       roma.bmp    newyork.png
+
+cc
+                                         programes
+                                             |
+                          ------------------- -------------------
+                         |                                       |
+                     ordenacio                               recorregut
+                         |                                       |
+            ------------- -------------                    ------ ------
+           |                           |                  |             |
+         lents                       rapids          profunditat    breadth.cc
+           |                           |                  |
+     ------ ------                 ----            ------- -------
+    |             |               |               |               |
+bubble.cc    insertion.cc    mergesort.cc    preorder.cc     postorder.cc
+
+cc
+                                         programes
+                                             |
+                          ------------------- -------------------
+                         |                                       |
+                     ordenacio                               recorregut
+                         |                                       |
+            ------------- -------------                    ------ ------
+           |                           |                  |             |
+         lents                       rapids          profunditat    breadth.cc
+           |                           |                  |
+     ------ ------                 ----            ------- -------
+    |             |               |               |               |
+bubble.cc    insertion.cc    mergesort.cc    preorder.cc     postorder.cc
+
+hh
+                                         programes
+                                             |
+                          ------------------- -------------------
+                         |                                       |
+                     ordenacio                               recorregut
+                         |                                       |
+            ------------- -------------                    ------ ------
+           |                           |                  |             |
+         lents                       rapids          profunditat    breadth.cc
+           |                           |                  |
+     ------ ------                 ----            ------- -------
+    |             |               |               |               |
+bubble.cc    insertion.cc    mergesort.cc    preorder.cc     postorder.cc
+
+a
+f.a
+
+a
+f.b
+
+a
+d
+
+b
+d
+
+a
+      d
+      |
+  ---- ----
+ |         |
+f.a       f.a
+
+b
+      d
+      |
+  ---- ----
+ |         |
+f.a       f.a
+
+a
+      d
+      |
+  ---- ----
+ |         |
+f.a       f.b
+
+b
+      d
+      |
+  ---- ----
+ |         |
+f.a       f.b
+
+a
+      d
+      |
+  ---- ----
+ |         |
+f.a        d
+
+b
+      d
+      |
+  ---- ----
+ |         |
+f.a        d
+
+a
+     d
+     |
+ ---- ----
+|         |
+d        f.b
+
+b
+     d
+     |
+ ---- ----
+|         |
+d        f.b
+
+a
+           d
+           |
+       ---- ----
+      |         |
+      d        f.a
+      |
+  ---- ----
+ |         |
+f.a       f.a
+
+a
+           d
+           |
+       ---- ----
+      |         |
+      d        f.a
+      |
+  ---- ----
+ |         |
+f.b       f.a
+
+a
+           d
+           |
+       ---- ----
+      |         |
+      d        f.a
+      |
+  ---- ----
+ |         |
+f.a       f.b
+
+a
+           d
+           |
+       ---- ----
+      |         |
+      d        f.b
+      |
+  ---- ----
+ |         |
+f.a       f.a
+
+a
+      d
+      |
+  ---- ----
+ |         |
+f.a        d
+           |
+       ---- ----
+      |         |
+     f.a       f.a
+
+a
+      d
+      |
+  ---- ----
+ |         |
+f.b        d
+           |
+       ---- ----
+      |         |
+     f.a       f.a
+
+a
+      d
+      |
+  ---- ----
+ |         |
+f.a        d
+           |
+       ---- ----
+      |         |
+     f.b       f.a
+
+a
+      d
+      |
+  ---- ----
+ |         |
+f.a        d
+           |
+       ---- ----
+      |         |
+     f.a       f.b
+
+a
+               d
+               |
+       -------- --------
+      |                 |
+      d                 d
+      |                 |
+  ---- ----         ---- ----
+ |         |       |         |
+f.a       f.a     f.a       f.a
+
+b
+               d
+               |
+       -------- --------
+      |                 |
+      d                 d
+      |                 |
+  ---- ----         ---- ----
+ |         |       |         |
+f.a       f.a     f.a       f.a
+
+a
+               d
+               |
+       -------- --------
+      |                 |
+      d                 d
+      |                 |
+  ---- ----         ---- ----
+ |         |       |         |
+f.b       f.a     f.a       f.a
+
+a
+               d
+               |
+       -------- --------
+      |                 |
+      d                 d
+      |                 |
+  ---- ----         ---- ----
+ |         |       |         |
+f.a       f.b     f.a       f.a
+
+a
+               d
+               |
+       -------- --------
+      |                 |
+      d                 d
+      |                 |
+  ---- ----         ---- ----
+ |         |       |         |
+f.a       f.a     f.b       f.a
+
+a
+               d
+               |
+       -------- --------
+      |                 |
+      d                 d
+      |                 |
+  ---- ----         ---- ----
+ |         |       |         |
+f.a       f.a     f.a       f.b
+
+a
+             d
+             |
+      ------- -------
+     |               |
+     d               d
+     |               |
+ ---- ----       ---- ----
+|         |     |         |
+d         d     d         d
+
+a
+             d
+             |
+      ------- -------
+     |               |
+     d               d
+     |               |
+ ---- ----       ---- ----
+|         |     |         |
+d         d    f.a        d
+
+a
+              d
+              |
+       ------- -------
+      |               |
+      d               d
+      |               |
+  ---- ----       ---- ----
+ |         |     |         |
+f.a        d    f.a        d
+
+a
+              d
+              |
+       ------- -------
+      |               |
+      d               d
+      |               |
+  ---- ----       ---- ----
+ |         |     |         |
+f.a        d     d        f.b
+
