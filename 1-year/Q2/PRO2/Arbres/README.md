@@ -4,4 +4,8 @@ My favourite part of the subject, I liked a lot making this exercicies, I think 
                  This
                    |
         - - - - - -+- - - - - - 
- 
+        |                     |
+       Is
+- - - - + - - - -           Tree
+|               |
+A              Bin
