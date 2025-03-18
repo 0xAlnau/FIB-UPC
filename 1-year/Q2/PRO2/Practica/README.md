@@ -4,7 +4,7 @@ This is the practice we made, it was about a boat travelling a river (it was a b
 
 To generate the httml you must:
 
-->Type ``Doxygen`` on your Linux terminal and install what it says
+->Type: ``Doxygen`` on your Linux terminal and install what it says
 
 ->Write the command: ``doxygen Doxyfile``
 
