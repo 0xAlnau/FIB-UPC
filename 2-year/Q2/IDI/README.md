@@ -1,0 +1,2 @@
+# IDI
+In this subject we start with the design of interficies and how to interact with them. Firstly they introduce us Qt5 and OpenGL, the how view matrixs work, geometric transformations, third person camera and more. 
