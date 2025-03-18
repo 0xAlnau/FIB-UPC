@@ -1,0 +1,2 @@
+# IES
+Following BD we have IES, where we don't focus that much in how to make a data base but in how to design it and understand what the client wants. We use UML diagrams, OCL language, DSS diagrams and more. 
