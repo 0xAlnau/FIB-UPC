@@ -1,0 +1,2 @@
+# Harry Potter Game
+This was the game from the Q1-2024. It was really interesting and funny, in a nutshell, we had to create BFS functions to controll wizards, that could take books to strengthen their magic power. Then, our wizards could attack other wizards from the other 3 players that made their own program. It was a tournament in the web ``Jutge.org`` and we could watch in real time who lost in each round. An incredible part of the subject.
