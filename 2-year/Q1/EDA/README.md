@@ -5,4 +5,4 @@ Graph theory also plays a significant role, where we learn to implement BFS algo
 
 Next, we study exhaustive algorithms using backtracking. Finally, we conclude with deterministic algorithms and explore NP, NP-hard, and NP-complete problems.
 
-To compile the programs I recommend using the alias ``p2++`` previously seen at PRO2. It will tell you every possible error, and even that it can be to strict, it's helpful and useful.
+To compile the programs I recommend using the alias ``p2++`` previously seen at PRO2. It will tell you every possible error, and even though it's really strict, it's helpful and useful.
