@@ -7,4 +7,8 @@ In theory classes we see how to make geometric tranformations; how the View Matr
 
 In IDI it is used Qt5.x, where x is >= 9. To compile the programs you must use the command: ``qmake-qt5`` and then type: ``make``.
 
+To be able to use ``qmake-qt5`` you must put in the ~/.bashrc file the alias: ´´alias qmake-qt5='/yourPCrouteToQt/Qt/5.15.2/gcc_64/bin/qmake'´´ in the alias section.
+
+You can acces the ~/.bashrc file by typing: ´´nano ~/.bashrc´´.
+
 
