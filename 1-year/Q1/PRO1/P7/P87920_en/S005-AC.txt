@@ -1,0 +1,11 @@
+---
+problem_id: P87920_en
+submission_id: S005
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-11-25 19:36:25+01"
+time_out: "2023-11-25 19:36:30+01"
+title: Equal to the sum of the rest (II)
+...

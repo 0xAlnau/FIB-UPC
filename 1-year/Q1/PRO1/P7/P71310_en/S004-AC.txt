@@ -1,0 +1,11 @@
+---
+problem_id: P71310_en
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-11-22 18:35:12+01"
+time_out: "2023-11-22 18:35:16+01"
+title: Scalar product
+...

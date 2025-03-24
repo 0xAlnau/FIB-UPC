@@ -1,0 +1,11 @@
+---
+problem_id: X20419_en
+submission_id: S001
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-11-27 10:07:06+01"
+time_out: "2023-11-27 10:07:11+01"
+title: Average length and most frequent letter
+...

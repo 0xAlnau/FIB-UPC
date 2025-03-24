@@ -1,0 +1,11 @@
+---
+problem_id: X41120_ca
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-11-27 17:45:05+01"
+time_out: "2023-11-27 17:45:09+01"
+title: Vector muntanyos
+...

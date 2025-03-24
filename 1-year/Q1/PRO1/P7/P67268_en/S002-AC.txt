@@ -1,0 +1,11 @@
+---
+problem_id: P67268_en
+submission_id: S002
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-11-22 10:20:04+01"
+time_out: "2023-11-22 10:20:11+01"
+title: Reverse of sequences
+...

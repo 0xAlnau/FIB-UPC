@@ -1,0 +1,11 @@
+---
+problem_id: X09467_en
+submission_id: S004
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-11-27 18:40:48+01"
+time_out: "2023-11-27 18:40:51+01"
+title: Ramps
+...
