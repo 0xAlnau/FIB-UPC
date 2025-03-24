@@ -1,0 +1,11 @@
+---
+problem_id: P85696_en
+submission_id: S008
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-12-14 08:05:20+01"
+time_out: "2023-12-14 08:05:24+01"
+title: Rational numbers (1)
+...
