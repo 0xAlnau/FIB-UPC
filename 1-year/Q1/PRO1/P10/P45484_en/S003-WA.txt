@@ -1,0 +1,11 @@
+---
+problem_id: P45484_en
+submission_id: S003
+compiler_id: Clang++17
+annotation: ~
+veredict: WA
+veredict_info: ~
+time_in: "2024-07-31 12:07:54+02"
+time_out: "2024-07-31 12:07:59+02"
+title: Magic square
+...
