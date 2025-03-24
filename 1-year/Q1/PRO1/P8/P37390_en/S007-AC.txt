@@ -1,0 +1,11 @@
+---
+problem_id: P37390_en
+submission_id: S007
+compiler_id: P1++
+annotation: ~
+veredict: AC
+veredict_info: ~
+time_in: "2023-12-04 10:01:01+01"
+time_out: "2023-12-04 10:01:05+01"
+title: Product of square matrices
+...
