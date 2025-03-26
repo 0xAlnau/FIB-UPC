@@ -1,0 +1,51 @@
+###############################################################################
+# NOM: 
+# COGNOMS: 
+###############################################################################
+
+
+
+a) Quin percentatge de fallades s'ha produït a la MC quan s'executa tot el
+   codi?
+
+   =>
+
+
+
+b) Algunes iteracions del bucle for extern tenen més fallades. Quines són? A què
+   és degut això? Expliqueu què causa aquesta diferènca de comportament.
+
+   => (aprox. 40 paraules)
+
+
+
+c) De vegades, canviar el grau d'associativitat de la cache (mantenint la mida
+   de bloc i la capacitat total) aporta un benefici en el nombre d'encerts i
+   fallades. És el cas d'aquest programa? Justifiqueu-ho.
+
+   => (aprox. 40 paraules)
+
+
+
+d) Quin és el mínim nombre de fallades que podeu aconseguir només canviant el
+   grau d'associativitat? Quin és el grau d'associativitat més petit que ho
+   aconsegueix? Quin és el guany en la taxa d'encerts respecte al comportament
+   previ?
+
+   => Nombre de fallades (mínim): 
+   => Grau d'associativitat (mínim): 
+   => Guany: 
+
+
+
+e) Quin és el mínim nombre de fallades que podeu aconseguir canviant el grau
+   d'associativitat i la mida de bloc, mantenint la mida total de la MC? Quin és
+   el guany en la taxa d'encerts respecte al comportament previ? Expliqueu
+   perquè canviar la mida del bloc (i el grau l'associativitat) afecta al nombre
+   de fallades en aquest programa i quin fenomen aprofiteu.
+
+   => Nombre de fallades (mínim): 
+   => Grau d'associativitat (mínim): 
+   => Mida del bloc (en bytes): 
+   => Guany: 
+   => (aprox. 40 paraules)

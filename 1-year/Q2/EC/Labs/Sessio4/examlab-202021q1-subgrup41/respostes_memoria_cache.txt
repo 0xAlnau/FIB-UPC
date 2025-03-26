@@ -1,0 +1,35 @@
+#*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+# COGNOM1:
+# COGNOM2:
+# NOM:
+#*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+
+
+a) (0,5 punts)  
+    Quants blocs ocupa V: 
+    Quants blocs ocupa M: 
+    Quin número de bloc de la cache pot contenir tant elements de V com de M: 
+    Indica quins elements de V i M es mapegen en el mateix número de bloc de la cache.
+        Elements de V (llista d’elements): 
+        Elements de M (llista d’elements): 
+
+
+b) (1 punt) 
+    Quin és el percentatge d'encert d'aquets programa en aquesta cache: 
+    Quantes fallades de cache són causades per accessos a V per lectura: 
+    Quantes fallades de cache són causades per accessos a M per lectura: 
+    Quantes fallades de cache són causades per accessos a V per escriptura: 
+
+
+c) (0,5 punts) 
+    Quins tipus de localitat tenen els accessos a V (Espacial, temporal, Espacial i temporal): 
+    Quins tipus de localitat tenen els accessos a M (Espacial, temporal, Espacial i temporal): 
+
+
+d) (1 punt)
+     El mínim nombre de fallades s’obté amb la combinació: 
+        Grau d’associativitat (núm de vies) A: 
+        Mida del bloc (núm de words) B: 
+        Nombre total de fallades: 
+        Quin és el percentatge d'encert d'aquets programa en aquesta nova organització de la cache: 
