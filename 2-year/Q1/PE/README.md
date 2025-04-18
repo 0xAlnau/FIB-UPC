@@ -1,10 +1,4 @@
 # PE
-A mathematical subject where we start with the basics of probability before fully diving into statistics.
+Assignatura de l'àmbit matemàtic, on s'introdueix a l'alumnat el món de l'estadística i de la probabilitat.
 
-As mentioned, we begin with probability, covering probability functions and the distribution of discrete and continuous variables such as Binomial, Poisson, Exponential, and Normal.
-
-Then, we move on to statistics, where we use the programming language R and work extensively with the Normal distribution to learn about confidence intervals for μ (mean), σ (standard deviation), and proportions.
-
-We finish with the analysis of R programs that create linear regression models, both with one variable and multiple variables.
-
-An important aspect of the course is a group project, where we work with R and analyze large datasets to create confidence intervals, develop linear regression models, and familiarize ourselves with discrete and continuous variables.
+Durant el curs s'ensenya que és la probabilitat i com fer arbres de probabilitats; que són les variables aleatòries discretes i contínues; models de variables aleatòries (Binomial, Poisson, Exponencial, etc...); que és la inferència estadística (intervals de confiança sobre la mitjana, error estàndard, desviació, etc...); i acabem interpretant sortides del programa d'estadística R.
