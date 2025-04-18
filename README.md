@@ -1,5 +1,5 @@
 # Enginyeria Informàtica - FIB - UPC
 Bones!
 
-This repository is created to store all the theory and lab materials from the Informatics Engineering course. I'm in the second semester of my second year.
+La finalitat d'aquest repositori és la de poder emmagatzemar tota la teoria i laboratoris que he anat fent durant els 5 anys de carrera, i així poder tindre en un mateix lloc tot el coneixement del grau. També vull que sigui un lloc on la resta d'estudiants es puguin aprofitar de tot el que tinc i he fet :) 
 
