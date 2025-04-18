@@ -1,2 +1,2 @@
-# Subjects!
-In this folder you will find subjects such as AC, BD, CI, EDA, EEE, IDI, IES, PE, SO, XC
+# Assignatures
+En aquesta carpeta hi trobaràs les assignatures obligatòries del primer any, com per exemple: AC, BD, CI, EDA, EEE, IDI, IES, PE, SO, XC
