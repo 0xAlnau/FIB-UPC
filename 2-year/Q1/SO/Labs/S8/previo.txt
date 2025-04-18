@@ -1,0 +1,35 @@
+yo24
+• Crea una pipe con nombre mediante el comando mknod. A continuación lanza un
+proceso que ejecute el programa ‘cat’ redireccionando su salida estándar hacia la pipe
+que acabas de crear. En una shell diferente lanza otro proceso que ejecute también el
+Página 65 de 75
+programa ‘cat’, pero ahora redireccionando su entrada estándar hacia la pipe que
+acabas de crear. Introduce datos por teclado, en la primera Shell, y pulsa ^D para indicar
+el fin. Anota en el fichero “previo.txt” los comandos que has ejecutado.
+    -mknod exemple pipe
+    -cat > exemple (primera terminal)
+    -cat < exemple (segunda terminal)
+
+
+• ¿Es posible comunicar los dos comandos ‘cat’ desde dos terminales diferentes a través
+de una pipe sin nombre (por ejemplo, utilizando un pipeline de la shell visto en la sesión
+anterior)? ¿y desde el mismo terminal? Razona la respuesta en el fichero “previo.txt”.
+    -Entre dos terminales no se puede comunicar los cat con una pipe sin nombre, porque este
+     tipo de pipe solo permiten la comunicación entre procesos de una misma terminal.
+    -En la misma terminal si que se podría, un ejemplo sería: #echo "Hola buenas" | cat | cat
+
+
+• Escribe en el fichero “previo.txt” el fragmento de código que deberíamos añadir a un
+programa cualquiera para redireccionar su entrada estándar al extremo de escritura de
+una pipe sin nombre utilizando las llamadas al sistema close y dup. Imagina que el
+descriptor de fichero asociado al extremo de escritura de la pipe es el 4.
+    -close(0); //cerramos el descriptor acutal
+     dup(4); //duplicamos el 4
+     close(4); //cerramos el 4 original
+
+
+•Explica en el fichero “previo.txt” paso a paso lo que hacen estas dos funciones.
+    -createSocket: crea un socket y permite hacer connexiones con este. Devuelve el id del
+                   dispositivo virtual vinculado.
+
+    -serverConnection: devuelve el descriptor de fichero vinculado a la conexión.

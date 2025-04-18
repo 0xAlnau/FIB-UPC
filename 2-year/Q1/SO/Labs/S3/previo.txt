@@ -1,0 +1,115 @@
+Grupo: yo24
+·Ejemplo_fork1:
+    En este ejemplo la terminal devuelve por pantalla los mensajes: 
+    -"Soy el proceso 4806" (padre)
+    -"Soy el proceso 4807" (hijo)
+    El primer mensaje es del padre ya que este tiene un pid más pequeño que el del hijo.
+
+
+·Ejemplo_fork2:
+    Se muestran por pantalla:
+    -"Antes del fork: Soy el proceso 4893" (padre)
+    -"PADRE: Soy el proceso 4893" (padre)
+    -"Los DOS: Soy el proceso 4893" (padre)
+    -"HIJO: Soy el proceso 4894" (hijo)
+    -"Los DOS: Soy el proceso 4894" (hijo)
+    El primero es del padre porqué se imprime por pantalla antes de llamar a la función fork.
+    Después, se ha creado el proceso hijo, y en cada proceso la variable pid es diferente. En el proceso
+    padre la variable contiene el pid del hijo, y en el proceso hijo la variable tiene valor 0.
+    Entonces gracias a esto, y a saber que dependiendo del número de la variable pid el programa actuará de una
+    forma u otra, podemos saber que líneas son del padre y cuales del hijo.
+
+
+·Ejemplo_fork3:
+    Los mensajes son:
+    -"Antes del fork: Soy el proceso 5147" (padre)
+    -"PADRE: Soy el proceso 5147" (padre)
+    -"Solo lo ejecuta el padre: Soy el proceso 5147" (padre)
+    -"HIJO: Soy el proceso 5148" (hijo)
+    Es muy parecido al ejemplo anterior. La diferencia en este caso se basa en que cuando la variable pid es 0 y el
+    hijo ejecuta su proceso, hay una función exit(0) en su caso, y esto hace que luego no se imprima por pantalla
+    el último mensaje preparado (Solo lo ejecuta el padre: Soy el proceso x).
+
+
+·Ejemplo_fork4:
+    El orden de los mensajes ha sido:
+    -"Antes del fork: Soy el proceso 5576"
+    -"PADRE: Soy el proceso 5576"
+    -"Solo lo ejecuta el padre: Soy el proceso 5576"
+    -"HIJO: Soy el proceso 5577"
+    -"HIJO acaba: Soy el proceso 5577"
+    El proceso que acaba antes la ejecución es el padre, ya que imprime sus mensajes antes.
+    
+    He modificado el código del programa y he puesto la línea "waitpid(pid, NULL, 0);" en el caso del padre antes
+    de imprimir nada por pantalla, y este ha sido el resultado:
+        -"Antes del fork: Soy el proceso 5623"
+        -"HIJO: Soy el proceso 5624"
+        -"HIJO acaba: Soy el proceso 5624"
+        -"PADRE: Soy el proceso 5623"
+        -"Solo lo ejecuta el padre: Soy el proceso 5623"
+
+
+·Ejemplo_fork5:
+    Los mensajes por pantalla han sido:
+    -"Antes del fork: Soy el proceso 5664" (padre)
+    -"PADRE: Soy el proceso 5664" (padre)
+    -"HIJO: Soy el proceso 5665" (hijo)
+    -"HIJO:La variable_global vale A y la local a" (hijo)
+    -"PADRE:La variable_global vale A y la local a" (padre)
+    -"Solo lo ejecuta el padre: Soy el proceso 5664" (padre)
+    Tiene los mismos switch case que los ejemplos anteriores, por eso podemos saber que mensaje viene del padre o del
+    hijo.
+
+   He añadido las líneas "variable_global = 'Z';" y "variable_local = 'z';" despúes de que el hijo escriba cual es
+   su pid, y este es el resultado de compilar y volver a ejecutar:
+        -"Antes del fork: Soy el proceso 5747"
+        -"PADRE: Soy el proceso 5747"
+        -"HIJO: Soy el proceso 5748"
+        -"HIJO:La variable_global vale Z y la local z"
+        -"PADRE:La variable_global vale A y la local a"
+        -"Solo lo ejecuta el padre: Soy el proceso 5747"
+
+
+·Ejemplo_fork6:
+    En el fichero de salida se observa un patrón, donde al principio solo el padre escribe el valor de la variable
+    local, y luego, lo que se imprime por pantalla es una alternáncia, ya que una vez escribe el padre, luego el hijo,
+    luego el padre, y asi sucesivamente. Hasta llegar por el final, donde se compensa que al principio solo se 
+    imprimieran mensajes del padre, ya que luego solo se imprimen mensajes del hijo al final. Y se comienza con 
+    el valor principal 'a' y acaba en la 'k'. El padre imprime el valor en minúsculas y el hijo en mayúsculas.
+
+    No se puede asegurar que siempre salga el mismo contenido, ya que la CPU gestiona los procesos de una forma que
+    no podemos predecir, y por lo tanto, los mensajes como "Solo lo ejecuta el padre: Soy el proceso x" se podrán
+    imprimir en líneas diferentes de otras ejecuciones.
+
+
+·Ejemplo_fork7:
+    No compila debido a que en la función Escribe_variables() hacía falta pasar por parámetro la variable_local,
+    ya que sinó el programa no podía meter en el buffer un valor para la variable local. Y no tiene que ver con
+    el hecho de crear procesos, solo con el hecho de que hacía falta pasar un valor por parámetro.
+
+
+·Ejemplo_exec1:
+    -Este programa conmuta gracias a la función execlp, y esta hace que se ejecute el comando ls -l.
+    -Por pantalla aparece "Soy el proceso: 7629" y luego una lista de los archivos de la carpeta S3 con
+    sus atributos.
+    -Solo aparece una vez el mensaje con el pid del proceso, esto se debe a que la función execlp cambia el
+    comportamiento del programa, y solo ejecuta un ls -l y no lo que queda de código.
+
+
+·Ejemplo_exec2:
+    -Este programa primero indica cual es su pid, y luego conmuta y ejecuta el programa ejemplo_fork1.
+    -Por pantalla aparecen los mensajes:
+        -"Soy el proceso: 7781"
+        -"Soy el proceso 7781"
+        -"Soy el proceso 7782"
+    -Se ejecutan solo dos procesos, y aunque el programa conmute, mantiene su pid.
+
+
+·man:
+    Pertenecen a la sección fork página 2, y exec página 3 para la función execlp.
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+yo24
+1. Introduce datos por teclado para ver cómo se copian en pantalla. Para indicar que no
+quedan datos pulsa ^D (Control+D), que es el equivalente a final de fichero en la lectura
+de teclado. ¿Qué valor devuelve la llamada read después de pulsar el ^D?
+    -fin de ejecución
+
+
+2. Crea un fichero con un editor de texto cualquiera y lanza el programa ./es1 asociando
+mediante la shell su entrada estándar a ese fichero. Recuerda (ver Sesión 1) que es
+posible redireccionar la entrada (o la salida) estándar de un comando a un fichero
+utilizando el carácter especial de la shell < (o > para la salida). Apunta el comando
+utilizado en el fichero “previo.txt”.
+    -./es1 < fitxer.txt
+
+    ¿Cuál es el resultado? ¿Qué operación realiza el comando ‘grep es’?
+    -rw-r--r-- 1 alnau alnau 11800 Nov 20 15:51 es1
+    -rw-r--r-- 1 alnau alnau  1170 Feb  8  2021 es1.c
+    -rw-r--r-- 1 alnau alnau 12040 Nov 20 15:51 es2
+    -rw-r--r-- 1 alnau alnau  1700 Feb  8  2021 es2.c
+    -rw-r--r-- 1 alnau alnau 11856 Nov 20 15:51 es3
+    -rw-r--r-- 1 alnau alnau   943 Feb  8  2021 es3.c
+    -rw-r--r-- 1 alnau alnau 11752 Nov 20 15:51 es4
+    -rw-r--r-- 1 alnau alnau  1206 Feb  8  2021 es4.c
+    -rw-r--r-- 1 alnau alnau 11520 Nov 20 15:51 es5
+    -rw-r--r-- 1 alnau alnau    31 Feb  8  2021 es5.c
+    -rw-r--r-- 1 alnau alnau 11752 Nov 20 15:51 es6
+    -rw-r--r-- 1 alnau alnau   112 Feb  8  2021 es6.c
+    -rw-r--r-- 1 alnau alnau 11696 Nov 20 15:51 es7
+    -rw-r--r-- 1 alnau alnau   107 Feb  8  2021 es7.c
+    -rw-r--r-- 1 alnau alnau 11800 Nov 20 15:51 es8
+    -rw-r--r-- 1 alnau alnau   644 Feb  8  2021 es8.c
+
+    -"grep es" busca en la carpeta aquellos fichero donde en el nombre ponga "es"
+
+
+3. Ejecuta un pipeline que muestre en la salida estándar el PID, el usuario y el nombre de
+todos los procesos bash que se están ejecutando en el sistema. Para ello utiliza los
+comandos ps y grep combinados con una pipe. Anota el comando en el fichero
+“previo.txt”.
+    -ps -eo pid,user,command | grep '[b]ash'
+
+
+4. Hecho
+
+5. En el caso del dispositivo lógico terminal (o consola), el device driver que lo gestiona
+interpreta todos los bytes que se quieren escribir como códigos ASCII, mostrando el
+carácter correspondiente. El fichero es8.c contiene un programa que escribe dos veces
+un número por salida estándar: una usando la representación interna de la máquina y
+otra convirtiendo antes el número a string. Compílalo y ejecútalo. ¿Cuántos bytes se
+escriben en cada caso? ¿Qué diferencias observas en lo que aparece en pantalla?
+    -En la representación interna se usan 4 bytes, y en la otra 5. La diferencia se basa
+     en que con representación interna no entendemos que pone, y con la otra se ve claramente
+     el número entero 10562.
+
+
+6.
+a) ¿Qué función sirve para implementar el read específico del dispositivo
+gestionado por cada device driver?
+    -La función read_driver_1 para el driver 1 y la función read_driver_2 para el 2.
+
+b) ¿Qué son el major y el minor? ¿Para qué sirven? ¿Qué major y minor
+utilizan los dos device drivers?
+El major y el minor son identificadores del driver. El major indica el tipo de driver y el minor indica el driver en si.
+
+En el Driver 1 el major es 249 y el minor és 0, mientras que en el Driver 2 el major es 250 y el minor es 0.

@@ -1,0 +1,108 @@
+·Informació del nm sobre mem1_previo:
+    000000000000038c r __abi_tag
+                     U atoi@GLIBC_2.2.5
+    0000000000004010 B __bss_start
+    0000000000004010 b completed.0
+                     w __cxa_finalize@GLIBC_2.2.5
+    0000000000004000 D __data_start
+    0000000000004000 W data_start
+    0000000000001110 t deregister_tm_clones
+    0000000000001180 t __do_global_dtors_aux
+    0000000000003da0 d __do_global_dtors_aux_fini_array_entry
+    0000000000004008 D __dso_handle
+    0000000000003da8 d _DYNAMIC
+    0000000000004010 D _edata
+    0000000000004018 B _end
+                     U exit@GLIBC_2.2.5
+    00000000000012f8 T _fini
+    00000000000011c0 t frame_dummy
+    0000000000003d98 d __frame_dummy_init_array_entry
+    0000000000002134 r __FRAME_END__
+    0000000000003f98 d _GLOBAL_OFFSET_TABLE_
+                     w __gmon_start__
+    0000000000002030 r __GNU_EH_FRAME_HDR
+    0000000000001000 T _init
+    0000000000002000 R _IO_stdin_used
+                     w _ITM_deregisterTMCloneTable
+                     w _ITM_registerTMCloneTable
+    0000000000004014 B j
+                     U __libc_start_main@GLIBC_2.34
+    00000000000011ec T main
+    0000000000001140 t register_tm_clones
+                     U sprintf@GLIBC_2.2.5
+    00000000000010e0 T _start
+                     U strlen@GLIBC_2.2.5
+    00000000000011c9 T suma
+    0000000000004010 D __TMC_END__
+                     U write@GLIBC_2.2.5
+    -La j té al costat una B, això vol dir que està a la part del BSS.
+    -La i no la trobo, però hauria d'estar al stack, ja que és una variable local.
+    -Suma té al costat una T, això vol dir que està a la part de code(text).
+
+·mem1_previo_v2 fet.
+
+·Comand utilitzat: gcc -o mem1_previo mem1_previo.c -static
+
+·mem2_previo_v2 fet.
+
+·mem2_previo:
+
+10:
+
+        00400000-004ca000 r-xp 00000000 08:05 468238   /home/alumne/Desktop/S5/previo/mem2_previo
+        006c9000-006cc000 rw-p 000c9000 08:05 468238   /home/alumne/Desktop/S5/previo/mem2_previo
+        006cc000-006f6000 rw-p 00000000 00:00 0
+        01149000-0116c000 rw-p 00000000 00:00 0                       [heap]
+        7ffdb4c16000-7ffdb4c37000 rw-p 00000000 00:00 0               [stack]
+        7ffdb4ce4000-7ffdb4ce6000 r--p 00000000 00:00 0               [vvar]
+        7ffdb4ce6000-7ffdb4ce8000 r-xp 00000000 00:00 0               [vdso]
+        ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0       [vsyscall]
+
+        HEAP -> 0116c000 - 01149000 = 0x00023000
+        DATOS ->
+
+    40.000:
+
+        00400000-004ca000 r-xp 00000000 08:05 468238    /home/alumne/Desktop/S5/previo/mem2_previo
+        006c9000-006cc000 rw-p 000c9000 08:05 468238    /home/alumne/Desktop/S5/previo/mem2_previo
+        006cc000-006f6000 rw-p 00000000 00:00 0
+        01c25000-01c48000 rw-p 00000000 00:00 0                       [heap]
+        7fffe6160000-7fffe6181000 rw-p 00000000 00:00 0               [stack]
+        7fffe618e000-7fffe6190000 r--p 00000000 00:00 0               [vvar]
+        7fffe6190000-7fffe6192000 r-xp 00000000 00:00 0               [vdso]
+        ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0       [vsyscall]
+
+        HEAP -> 01c48000 - 01c25000 = 0x00023000
+
+·mem2_previo_v2:
+
+    10:
+
+        00400000-004ca000 r-xp 00000000 08:05 468253    /home/alumne/Desktop/S5/previo/mem2_previo_v2
+        006c9000-006cc000 rw-p 000c9000 08:05 468253    /home/alumne/Desktop/S5/previo/mem2_previo_v2
+        006cc000-006ce000 rw-p 00000000 00:00 0
+        01eb4000-01ed8000 rw-p 00000000 00:00 0                       [heap]
+        7ffc56ee9000-7ffc56f0a000 rw-p 00000000 00:00 0               [stack]
+        7ffc56fbb000-7ffc56fbd000 r--p 00000000 00:00 0               [vvar]
+        7ffc56fbd000-7ffc56fbf000 r-xp 00000000 00:00 0               [vdso]
+        ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0       [vsyscall]
+
+        HEAP -> 01ed8000 - 01eb4000 = 0x24000
+
+    40.000:
+
+        00400000-004ca000 r-xp 00000000 08:05 468253    /home/alumne/Desktop/S5/previo/mem2_previo_v2
+        006c9000-006cc000 rw-p 000c9000 08:05 468253    /home/alumne/Desktop/S5/previo/mem2_previo_v2
+        006cc000-006ce000 rw-p 00000000 00:00 0
+        00d45000-00d90000 rw-p 00000000 00:00 0                       [heap]
+        7ffe12da7000-7ffe12dc8000 rw-p 00000000 00:00 0               [stack]
+        7ffe12ded000-7ffe12def000 r--p 00000000 00:00 0               [vvar]
+        7ffe12def000-7ffe12df1000 r-xp 00000000 00:00 0               [vdso]
+        ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0       [vsyscall]
+
+        HEAP -> 00d90000 - 00d45000 = 0x4B000
+
+·mem3_previo_v2 fet.
+
+
+

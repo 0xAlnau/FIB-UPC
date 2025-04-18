@@ -1,0 +1,34 @@
+Arnau Sanchez y Arnau Cullell
+yo24
+·Sobre alarm1: recepción de diferentes tipos de signals y envío de eventos desde la consola
+    1-En el programa de C hay un alarm(10), y al cabo de 10seg sale "Alarm clock"
+    2-No es el mismo comportamiento, alarm1 acaba al momento, y por pantalla sale "Killed"
+    3-El Shell(padre) se encarga de mostrar el mensaje por pantalla cuando muere alarm1(hijo).
+      Con el  waitpid recoge el estado de finalización de alarm1.
+    4-No sería necesario, ya que alarm1 siempre morirá por el SIGALRM.
+
+
+·Sobre alarm2: cualquier signal se puede enviar desde el Shell.
+    1-El código no se ha comportado como debería, no han pasado los 100 segundo y el código
+      ha acabado.
+    2-No, SIGSTOP y SIGKILL no se puede cambiar su comportamiento, estan protegidos.
+    3-Comprobando si el resultado que devuelve alarm es mayor a 0, y si este es el caso, el
+      SIGALRM no estaba previsto. Podriamos usar: if(alarm(10)>0) error_y_exit("alarm", 1);
+
+
+·Sobre alarm3: la tabla de programación de signals se hereda.
+    1-Los dos van recibiendo los SIGALRM(hijo hereda lo del padre). Lo he comprobado enviando
+      SIGALRM al padre y luego al hijo. Y el programa también por defecto muestra el pid, entonces
+      ya sabemos cual es cual.
+
+
+·Sobre alarm4: los SIGALRM son recibidos únicamente por el proceso que los ha generado.
+    1-Solo el hijo programa un SIGALRM, el padre no. El padre se queda infinitamente esperando,
+      ya que en el sigsuspend nunca le llegará un SIGALRM. Lo he comprobado mirando el ps y viendo
+      que solo el proceso hijo mostraba mensajes, y luego el hijo estaba zombie y el padre activo.
+
+
+·Sobre ejemplo_waitpid: envío de signals mediante llamada a sistema, gestión del estado de finalización de los hijos y desactivación del temporizador.
+    1-Observado
+    2-Hecho
+    3-Hecho

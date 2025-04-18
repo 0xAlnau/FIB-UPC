@@ -1,0 +1,142 @@
+yo24
+1. Contesta las siguientes preguntas en el fichero “previo.txt”:
+    • ¿Cómo podéis saber los sistemas de ficheros montados en vuestro sistema y de
+    qué tipo son? Indica, además, en qué directorios están montados.
+    -Con el comando df, y estan montados según la salida:
+    Filesystem     1K-blocks     Used Available Use% Mounted on
+    tmpfs            1620948     2088   1618860   1% /run
+    /dev/nvme0n1p4 115324968 73309296  36111288  67% /
+    tmpfs            8104740        0   8104740   0% /dev/shm
+    tmpfs               5120        4      5116   1% /run/lock
+    /dev/nvme0n1p1     98304    35882     62422  37% /boot/efi
+    tmpfs            1620948      168   1620780   1% /run/user/1000
+
+    • ¿Cómo se puede saber el número de inodos libres de un sistema de ficheros?
+    ¿Qué comando has utilizado y con qué opciones?
+    -He usado el comando df -i:
+    Filesystem      Inodes   IUsed   IFree IUse% Mounted on
+    tmpfs          2026185    1493 2024692    1% /run
+    /dev/nvme0n1p4 7364608 2000945 5363663   28% /
+    tmpfs          2026185       1 2026184    1% /dev/shm
+    tmpfs          2026185       4 2026181    1% /run/lock
+    /dev/nvme0n1p1       0       0       0     - /boot/efi
+    tmpfs           405237     167  405070    1% /run/user/1000
+
+    • ¿Cómo se puede saber el espacio libre de un sistema de ficheros? ¿Qué
+    comando has utilizado y con qué opciones?
+    -He usado el comando df -h:
+    Filesystem      Size  Used Avail Use% Mounted on
+    tmpfs           1,6G  2,1M  1,6G   1% /run
+    /dev/nvme0n1p4  110G   70G   35G  67% /
+    tmpfs           7,8G     0  7,8G   0% /dev/shm
+    tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+    /dev/nvme0n1p1   96M   36M   61M  37% /boot/efi
+    tmpfs           1,6G  172K  1,6G   1% /run/user/1000
+
+
+2. Ejecuta los siguientes comandos y responde en el fichero previo.txt a las siguientes
+preguntas:
+    • ¿De qué tipo es cada uno de links creados, sl_pr y hl_pr? Ejecuta el comando
+    stat sobre pr.txt, sobre sl_pr y sobre hl_pr. Busca en la salida de stat la
+    información sobre el inodo, el tipo de fichero y el número de links y anótala en
+    el fichero previo.txt. ¿Cuál es el número de links que tiene cada fichero? ¿Qué
+    significa ese valor? ¿Qué inodo tiene cada fichero? ¿Alguno de los links, sl_pr o
+    hl_pr, tiene el mismo inodo que pr.txt? ¿Si es así, qué significa eso?
+    -sl_pr es un softlink
+    -hl_pr es un hardlink
+    -pr.txt: es un regular file, y tiene 2 links asociados. Inodo: 2629219
+    -hl_pr: es un regular file, y tiene 2 links asociados. Inodo: 2629219
+    -sl_pr: es un symbolic link, y tiene 1 link asociado. Inodo: 2629220
+    -El numero de inodo es un identificador que indica una serie de propiedades y sitios donde
+     guardamos cosas en memoria.
+    -El numero de links indica cuantos "ficheros" apuntan a ese mismo fichero.
+    -pr.txt y hl_pr tienen el mismo inodo, ya que los dos son hardlinks que "apuntan" a los datos
+     de pr.txt;
+
+    • Ejecuta los comandos cat, namei y readlink sobre sl_pr y sobre hl_pr:
+        o Apunta el resultado en el fichero previo.txt.
+            -Resultado:
+            ·cat:
+            hl_pr: esto es una prueba
+            sl_pr: esto es una prueba
+
+            ·namei:
+            hl_pr: f: hl_pr
+                   - hl_pr
+            sl_pr: f: sl_pr
+                    l sl_pr -> pr.txt
+                     - pr.txt
+
+            ·readlink:
+            hl_pr: res
+            sl_pr: pr.txt
+        o ¿Observas alguna diferencia en el resultado de alguno de los comandos
+        cuando se ejecutan sobre sl_pr y cuando se ejecutan sobre hl_pr? Si hay
+        alguna diferencia, explica el motivo.
+            -Si que hay diferencia, y esta se debe a que sl_pr guarda la ruta hasta llegar
+            al fichero pr.txt, y por lo tanto tiene características difrentes al hl_pr.
+
+    • Elimina ahora el fichero pr.txt y vuelve a ejecutar los comandos stat, cat, namei
+    y readlink tanto sobre sl_pr como hl_pr.
+        o Apunta los resultados en el fichero previo.txt
+        ·stat:
+        hl_pr:
+          File: hl_pr
+          Size: 19        	Blocks: 8          IO Block: 4096   regular file
+        Device: 10304h/66308d	Inode: 2629219     Links: 1
+        Access: (0664/-rw-rw-r--)  Uid: ( 1000/   alnau)   Gid: ( 1000/   alnau)
+        Access: 2024-12-11 16:29:25.542116619 +0100
+        Modify: 2024-12-11 16:29:09.045544738 +0100
+        Change: 2024-12-11 16:29:32.622361081 +0100
+        Birth: 2024-12-11 15:56:59.548493139 +0100
+
+        sl_pr:
+          File: sl_pr -> pr.txt
+          Size: 6         	Blocks: 0          IO Block: 4096   symbolic link
+        Device: 10304h/66308d	Inode: 2629218     Links: 1
+        Access: (0777/lrwxrwxrwx)  Uid: ( 1000/   alnau)   Gid: ( 1000/   alnau)
+        Access: 2024-12-11 16:29:18.473871985 +0100
+        Modify: 2024-12-11 16:29:18.465871708 +0100
+        Change: 2024-12-11 16:29:18.465871708 +0100
+        Birth: 2024-12-11 16:29:18.465871708 +0100
+
+        ·cat:
+        hl_pr: esto es una prueba
+        sl_pr: cat: sl_pr: No such file or directory
+
+        ·namei:
+        hl_pr: f: hl_pr
+               - hl_pr
+        sl_pr: f: sl_pr
+                l sl_pr -> pr.txt
+                    pr.txt - No such file or directory
+
+        ·readlink:
+        hl_pr: res
+        sl_pr: pr.txt
+
+        o ¿Observas alguna diferencia en el resultado de alguno de los comandos
+        cuando se ejecutan sobre sl_pr y cuando se ejecutan sobre hl_pr? Si hay
+        alguna diferencia, explica el motivo.
+            -Si que hay diferencia, por ejemplo con el comando cat, el hl_pr muestra por pantalla
+             el contenido, y esto se debe a que aunque pr.txt no esté, su inodo en el disco si,
+             por lo tanto aun ésta la información. Con sl_pr no porqué apunta al fichero pr.txt, no al inodo original.
+
+        o ¿Observas alguna diferencia respecto a la ejecución de estos comandos
+        antes y después de borrar el fichero pr.txt? Si hay alguna diferencia,
+        explica el motivo.
+            -Si que hay diferencias, como he explicado antes, al borrar pr.txt ja no existe la ruta
+             para llegar al fichero, y por lo tanto sl_pr no puede acceder a su inodo.
+
+
+3. Escribe un programa “crea_fichero.c” que utilizando la llamada al sistema creat cree un
+fichero llamado “salida.txt” con el contenido “ABCD”. Si el fichero ya existía se debe
+sobrescribir. El fichero creado debe tener permiso de lectura y escritura para el
+propietario y el resto de usuarios no podrán hacer ninguna operación.
+
+
+4. Escribe un programa “insertarx.c” que inserte en el fichero anterior (salida.txt) la letra
+X entre el último y el penúltimo carácter. El resultado debe ser “ABCXD”. El programa
+utiliza el fichero salida.txt a modo de ejemplo pero debe ser genérico,
+independientemente del tamaño del fichero de entrada siempre escribirá una X “entre
+el último y el penúltimo carácter”.
