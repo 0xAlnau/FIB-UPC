@@ -1,9 +1,11 @@
 # PRO2
-This subject focuses on learning object-oriented programming (OOP) and understanding how pointers work through fundamental data structures such as lists, queues, stacks, and binary trees. Moreover, we have to develop a project where we use binary trees, classes, and data structures.
+Continuació de PRO1. Ara ens centrem més en la programació orientada a objectes (OOP); com funcionen els punters gràcies a explicar com funcionen per dintre les classes stack, queue, bintree i list; i sobretot en els arbres binaris de cerca. 
 
 
-We had to use the alias p2++ to compile our C++ programs. To use the alias you must introduce in the alias section of the ~/.bashrc file the following line: 
+Haviem d'utilitzar l'alies ``p2++`` per compilar els nostres programes de C++. Per poder usar aquest alies has d'obrir l'arxiu ``bashrc`` i en la secció d'àlies posar i enganxar: 
 
 ``p2++="g++ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11 -fno-extended-identifiers"``
 
-You can acces the ~/.bashrc file by typing: ``nano ~/.bashrc`` in the linux terminal.
+Per a accedir a l'arxiu ``bashrc`` escriu en la terminal de linux: ``nano ~/.bashrc``
+
+(jo uso Linux Mint, per si canvia com accedir a l'arxiu o per usar l'àlies)
