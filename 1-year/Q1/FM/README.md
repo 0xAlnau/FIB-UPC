@@ -1,2 +1,4 @@
 # FM
-It is teached how to demonstrate and use logic, induction and mathematical symbols are introduced and are the basics for the next subjects
+Assignatura on encara que inclogui el terme matemàtiques no té res a veure amb aquelles que has fet abans. 
+
+Es comença per la lògica i com formular proposicions; després es segueix amb les demostracions (sí i només sí..., si passa això llavors...), que poden ser reducció a l'absurd, pel contrarecíproc, per contraexemple, o finalment per inducció; després veiem els conjunts i les seves demostracions; continuem amb divisibilitat i com fer mínim comú multiple i màxim comú divisor formalment; seguim amb els nombres naturals i els enters i que vol dir el terme 'número'; i finalment acabem amb el mètode d'encriptació RSA. 
