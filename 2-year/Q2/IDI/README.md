@@ -1,14 +1,17 @@
 # IDI
-In this subject, we start with the design of interfaces and how to interact with them. 
+## Resum:
+| NOM | CODI | CRÈDITS | DIFICULTAT | CÀRREGA TREBALL | 
+| --- | ---- | ------- | -----------| --------------- |
+| Interacció i Disseny d'Interfícies | IDI | 6 |    NA/10    |       NA/10      | 
 
-At the beginning of the labs we start with Qt5, but then we enter totally in the OpenGL functions and how to view models. 
+## Petita Descripció:
+En IDI s'usa Qt5.x, on x >= 9. Per compilar els programes primer has de posar a la terminal: ``qmake-qt5`` i després posar: ``make``
 
-In theory classes we see how to make geometric tranformations; how the View Matrix and the Project Matrix work; what is clipping; the camera functions and the third person camera; Euler's angles and more.
+Per poder usar l'àlies ``qmake-qt5`` primer has de posar en la secció d'àlies de l'arxiu ``bashrc`` la següent línia: ``alias qmake-qt5='/yourPCrouteToQt/Qt/yourVersionOfQt/gcc_64/bin/qmake'``
 
-In IDI it is used Qt5.x, where x is >= 9. To compile the programs you must use the command: ``qmake-qt5`` and then type: ``make``
+Pots accedir a l'arxiu ``bashrc`` introduint a la terminal: ``nano ~/.bashrc``
 
-To be able to use ``qmake-qt5`` you must put in the ~/.bashrc file the alias: ``alias qmake-qt5='/yourPCrouteToQt/Qt/yourVersionOfQt/gcc_64/bin/qmake'`` in the alias section.
+## Opinió Personal:
 
-You can acces the ~/.bashrc file by typing: ``nano ~/.bashrc``
 
 
