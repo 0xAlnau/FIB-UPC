@@ -1,5 +1,5 @@
 # ARBRES
-My favourite part of the subject, I liked a lot making this exercicies, I think they are really interesting and easy to make!
+La meva part preferida, exercicis interessants i que permeten fer un munt de noves coses.
 
 ``` 
                    bin
