@@ -1,2 +1,11 @@
 # IES
-Following BD we have IES, where we don't focus that much in how to make a data base but in how to design it and understand what the client wants. We use UML diagrams, OCL language, DSS diagrams and more. 
+## Resum:
+| NOM | CODI | CRÈDITS | DIFICULTAT | CÀRREGA TREBALL | 
+| --- | ---- | ------- | -----------| --------------- |
+| Introducció a l'Enginyeria del Software | IES | 6 |    NA/10    |       NA/10      | 
+
+## Petita Descripció:
+Error 404 not found
+
+## Opinió Personal:
+Error 404 not found
