@@ -1,2 +1,11 @@
 # XC
-This subject is an introduction course to networks and how computers communicate in long distances. We see routers, IP protocol, TCP/UDP protocol, what are routing tables, firewalls, and more. 
+## Resum:
+| NOM | CODI | CRÈDITS | DIFICULTAT | CÀRREGA TREBALL | 
+| --- | ---- | ------- | -----------| --------------- |
+| Xarxes de Computadors | XC | 6 |    NA/10    |       NA/10      | 
+
+## Petita Descripció:
+Error 404 not found
+
+## Opinió Personal:
+Error 404 not found
