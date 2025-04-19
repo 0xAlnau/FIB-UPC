@@ -1,2 +1,11 @@
 # AC
-Basically it's the second part of EC, we do the same things but we expand it a little bit more. We see assembler with x86, cache, virtual memory, RAM and more. 
+## Resum:
+| NOM | CODI | CRÈDITS | DIFICULTAT | CÀRREGA TREBALL | 
+| --- | ---- | ------- | -----------| --------------- |
+| Arquitectura de Computadors | AC | 6 |    NA/10    |       NA/10      | 
+
+## Petita Descripció:
+Error 404 not found
+
+## Opinió Personal:
+Error 404 not found
