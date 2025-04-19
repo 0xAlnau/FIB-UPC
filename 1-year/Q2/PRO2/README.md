@@ -19,4 +19,4 @@ Per a accedir a l'arxiu ``bashrc`` escriu en la terminal de Linux: ``nano ~/.bas
 - En el top 3 assignatures preferides, el temari m'encanta, la pràctica també i arbres binaris la meva nova passió.
 - 100% que s'ha d'anar a tots els labs, els professors estan per ajudar-te, molt difícil que et surti tot sense ajuda.
 - La pràctica et consumeix un munt de temps, i tens un mes o aixins, però m'ho vaig passar molt bé fent-la i em va semblar molt interessant.
-- Els exàmens són més difícils que a PRO1, has de practicar molt i fer molts problemes del Jutge, recomano pel segon examen fer tots els exercicis de punters, ho has de dominar. 
+- Els exàmens són més difícils que a PRO1, has de practicar molt i fer molts problemes del Jutge, recomano pel segon examen fer tots els exercicis de punters, ho has de dominar.
