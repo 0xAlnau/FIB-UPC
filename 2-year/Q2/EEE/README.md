@@ -1,6 +1,11 @@
 # EEE
-This is "Empresa i Entorn Econòmic" and is a subject clearly differentiated in two parts. 
+## Resum:
+| NOM | CODI | CRÈDITS | DIFICULTAT | CÀRREGA TREBALL | 
+| --- | ---- | ------- | -----------| --------------- |
+| Empresa i Entorn Econòmic | EEE | 6 |    NA/10    |       NA/10      | 
 
-First we have the economics theory, where we see the basics definitions of economists, like inflation or recession, and we also see how taxes and the economy flow system works. 
+## Petita Descripció:
+Error 404 not found
 
-Secondly, we enter to the business world. 
+## Opinió Personal:
+Error 404 not found
