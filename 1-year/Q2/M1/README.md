@@ -16,4 +16,4 @@ Té dues parts molt ben diferenciades:
 ## Opinió Personal:
 - Sentiments de molts tipus la veritat, em va agradar molt grafs (útil per la carrera), però em va anar fatal el parcial de grafs i vaig haver d'anar al final de grafs, on vaig remuntar.
 - Per una altra banda, àlgebra lineal no em vaig enterar ni del clima, moltes coses que s'assemblen molt i conceptes complexos com la diagonalització.
-- Recomano fer l'Engimath i estar molt atent a classe, et perds en una classe i ja no entens el que està per vindre. 
+- Recomano fer l'Engimath (encara que ocupa molt de temps) i estar molt atent a classe, et perds en una classe i ja no entens el que està per vindre. 
