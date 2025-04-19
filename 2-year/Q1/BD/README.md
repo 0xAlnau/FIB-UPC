@@ -12,4 +12,4 @@ Comencen explicant que és una clau primària, una clau externa, que vol dir fil
 ## Opinió Personal:
 - La dificultat està en que et facin una correcció justa, tot és molt binari, sobretot al primer parcial.
 - Els exàmens conten molt, si falles el primer t'ho has de currar molt al final per poder aprovar.
-- Els labs són chill, els previs són fàcils i no requereixen molt de temps, i els labs en si el professor et pot ajudar molt.
+- Els labs són chill i el professor et pot ajudar molt, els previs són fàcils i no requereixen molt de temps.
