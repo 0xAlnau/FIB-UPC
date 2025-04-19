@@ -20,3 +20,6 @@ Per a accedir a l'arxiu ``bashrc`` escriu en la terminal de Linux: ``nano ~/.bas
 - 100% que s'ha d'anar a tots els labs, els professors estan per ajudar-te, molt difícil que et surti tot sense ajuda.
 - La pràctica et consumeix un munt de temps, i tens un mes o aixins, però m'ho vaig passar molt bé fent-la i em va semblar molt interessant.
 - Els exàmens són més difícils que a PRO1, has de practicar molt i fer molts problemes del Jutge, recomano pel segon examen fer tots els exercicis de punters, ho has de dominar.
+
+![ISO_C++_Logo svg(1)](https://github.com/user-attachments/assets/c8945d45-66ec-4317-ac6a-c9ed3b06c134)
+
