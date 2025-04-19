@@ -1,6 +1,11 @@
 # PRO2
-Continuació de PRO1. Ara ens centrem més en la programació orientada a objectes (OOP); com funcionen els punters gràcies a explicar com funcionen per dintre les classes stack, queue, bintree i list; i sobretot en els arbres binaris de cerca. 
+## Resum:
+| NOM | CODI | CRÈDITS | DIFICULTAT | CÀRREGA TREBALL | 
+| --- | ---- | ------- | -----------| --------------- |
+| Programació 2 | PRO2 |   7.5   |    8/10    |       9/10      | 
 
+## Petita Descripció:
+Continuació de PRO1. Ara ens centrem més en la programació orientada a objectes (OOP); com funcionen els punters gràcies a explicar com funcionen per dintre les classes stack, queue, bintree i list; i sobretot en els arbres binaris de cerca. 
 
 Havíem d'utilitzar l'àlies ``p2++`` per compilar els nostres programes de C++. Per poder usar aquest àlies has d'obrir l'arxiu ``bashrc`` i en la secció d'àlies posar i enganxar: 
 
@@ -9,3 +14,9 @@ Havíem d'utilitzar l'àlies ``p2++`` per compilar els nostres programes de C++.
 Per a accedir a l'arxiu ``bashrc`` escriu en la terminal de Linux: ``nano ~/.bashrc``
 
 (jo uso Linux Mint, per si canvia com accedir a l'arxiu o per usar l'àlies)
+
+## Opinió Personal:
+- En el top 3 assignatures preferides, el temari m'encanta, la pràctica també i arbres binaris la meva nova passió.
+- 100% que s'ha d'anar a tots els labs, els professors estan per ajudar-te, molt difícil que et surti tot sense ajuda.
+- La pràctica et consumeix un munt de temps, i tens un mes o aixins, però m'ho vaig passar molt bé fent-la i em va semblar molt interessant.
+- Els exàmens són més difícils que a PRO1, has de practicar molt i fer molts problemes del Jutge, recomano pel segon examen fer tots els exercicis de punters, ho has de dominar. 
