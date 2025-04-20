@@ -1,13 +1,12 @@
 # PRÀCTICA
-This is the practice we made, it was about a boat travelling a river (it was a bin tree), and the river had cities that could exchange products and had their own inventory. Stressful but fun :-)
+Aquesta és la pràctica que havíem de fer, i anava sobre un 'vaixell' que navegava per un 'riu' (un bintree), i al riu també hi havia ciutats amb els seus propis inventaris on podien intercanviar productes. Estressant però divertit :-)
 
+Per generar l'httml s'han de seguir els següents passos: 
 
-To generate the httml you must:
+- Posa a la terminal: ``Doxygen`` i instal·la el que et digui.
 
-->Type: ``Doxygen`` on your Linux terminal and install what it says
+- Escriu la comanda: ``doxygen Doxyfile``
 
-->Write the command: ``doxygen Doxyfile``
+- I ja està! Ara només has d'anar a la nova carpeta creada i obrir l'arxiu ``index``
 
-->And that's it!
-
-To view the diagrams other functions must be installed, but it's not compulsary to have them. 
+Per veure els diagrames cal una altra funció per descarregar des de la terminal, però no és necessària.
