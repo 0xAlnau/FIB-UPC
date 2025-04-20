@@ -1,1 +1,1 @@
-Here are all the notes I took while studying the Physics subject.
+Teoria i apunts que vaig fer durant les classes, no és lo millor però s'intenta.
