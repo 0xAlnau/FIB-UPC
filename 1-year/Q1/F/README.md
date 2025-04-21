@@ -10,6 +10,6 @@ Física és una assignatura molt interessant, on es comença per circuits simple
 - Aquí trobaràs totes les presentacions i les guies dels laboratoris: https://fisica.upc.edu/ca/sf/SF11-FIB/docencia/fisica-1
 
 ## Opinió Personal:
-- Personalment l'assignatura em va agradar, el professor Rosendo Rey un jefe, explicava molt bé, portava micro per explicar la classe i ho feia tot a la pissarra.
+- Personalment, l'assignatura em va agradar, el professor Rosendo Rey un jefe, explicava molt bé, portava micro per explicar la classe i ho feia tot a la pissarra.
 - Els labs bastant normals, alguns fàcils i uns altres es complicava una mica.
-- Els exàmens difícils, el primer encara es pot treure una nota decent, però el final o t'anava bé o ciao.
+- Els exàmens difícils, al primer encara es pot treure una nota decent, però al final o et va bé o ciao.
