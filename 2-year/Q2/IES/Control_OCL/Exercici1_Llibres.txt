@@ -1,0 +1,201 @@
+      Alta de Llibre
+
+      O
+     /|\
+     / \
+|-----------|                                                      |----------|
+|           |                                                      |          |
+|  :Gestor  |                                                      | :Sistema |
+|   ‾‾‾‾‾‾  |                                                      |  ‾‾‾‾‾‾‾ |
+|-----------|                                                      |----------|
+      |                                                                  |
+     |-|                                                                |-|
+     | |                                                                | |
+     | |    AltaLlibre(titol, sinopsi, nomAutor, tipusAutor, llengua)   | |
+     | |<--------------------------------------------------------------→| |
+     | |                                                                | |
+     | |                                                                | |
+     |-|                                                                |-|
+      |                                                                  |
+
+
+Context: Sistema::AltaLlibre (
+  titol: String,
+  sinopsi: String,
+  nomAutor: String,
+  tipusAutor: TipusAutor,
+  llengua: String
+)
+
+Pre:
+  -- Existeix la llengua
+  Llengua.allInstances()->exists(l | l.nom = llengua)
+
+Post:
+  if not Persona.allInstances()@pre->exists(p | p.nom = nomAutor) then
+    Autor.allInstances()->exists(a |
+      a.oclIsNew()
+      AND a.tipus = tipusAutor
+    )
+  end
+  AND if Persona.allInstances()@pre->exists(p |
+      p.nom = p.nomAutor
+      AND p.oclIsTypeOf(Traductor)
+      AND not p.oclIsTypeOf(Autor)
+    ) then
+      Persona.allInstances()->exists(p |
+        p.nom = p.nomAutor
+        AND p.oclIsTypeOf(Autor)
+        AND p.oclAsType(Autor).tipus = tipusAutor
+        AND t.oclAsType(Autor).llengua = Llengua.allInstances()->select(l | l.nom = llengua)
+      )
+  end
+  AND Llibre.allInstances()->exists( l |
+      l.oclIsNew()
+      AND l.titol = titol
+      AND l.sinopsi = sinopsi
+      AND l.autor.nom = nomAutor
+  )
+
+
+      Adquisició de Dret de Publicació
+
+         O
+        /|\
+        / \
+   |-----------|                                                   |----------|
+   |           |                                                   |          |
+   |  :Comitè  |                                                   | :Sistema |
+   |   ‾‾‾‾‾‾  |                                                   |  ‾‾‾‾‾‾‾ |
+   |-----------|                                                   |----------|
+         |                                                               |
+        |-|                                                             |-|
+        | |                                                             | |
+        | |  AfegirDretPublicacio(titolLlibre, dataInici, nomEditorial, | |
+        | |                  isbn, dataFi): dretPublicacio              | |
+        | |<-----------------------------------------------------------→| |
+        | |                                                             | |
+--------| |-------------------------------------------------------------| |-----
+| loop| | |                                                             | |    |
+| ¯¯¯¯  | |     AfegirEdicio(dretPublicacio, data, tirada, preu,        | |    |
+|       | |                       nomTraductor)                         | |    |
+|       | |<-----------------------------------------------------------→| |    |
+|       | |                                                             | |    |
+--------| |-------------------------------------------------------------| |-----
+        |-|                                                             |-|
+         |                                                               |
+
+Context: Sistema::AfegirDretPublicacio (
+  titolLlibre: String,
+  dataInici: Date,
+  nomEditorial: String,
+  isbn: int,
+  dataFi: Date
+): DretPublicacio
+
+Pre:
+  -- Existeix la data Inici
+  Data.allInstances()->exists(d | d.data = dataInici)
+  -- Existeix el Segell de l'Editorial
+  SegellEditorial.allInstances()->exists(s | s.nom = nomEditorial)
+  -- Existeix llibre
+  Llibre.allInstances()->exists(l | l.titol = titolLlibre)
+
+Post:
+  DretPublicacio.allInstances()->exists(p |
+    p.oclIsNew()
+    AND p.LLibre.titol = titolLlibre
+    AND p.data.data = dataInici
+    AND p.segellEditorial.nom = nomEditorial
+    AND p.dataFi = dataFi
+    AND p.isbn = isbn
+    AND return = p
+  )
+
+
+Context: Sistema::AfegirEdicio (
+  dretPublicacio: DretPublicacio,
+  data: Date,
+  tirada: int,
+  preu: int,
+  nomTraductor: String
+)
+
+Pre:
+  -- Existeix dates Edicions
+  Data.allInstances()->exists(d | d.data = data)
+
+Post:
+  Edicio.allInstances()->exists(e |
+    e.oclIsNew()
+    AND e.tirada = tirada
+    AND e.preu = preu
+    AND e.data.data = data
+    AND e.dretPublicacio = dretPublicacio
+    AND if (e.dretPublicacio.llibre.autor.tipus = TipusAutor::Internacional) then
+      e.oclIsTypeOf(EdicioAutorInternacional)
+      AND e.oclAsType(EdicioAutorInternacional).traductor.nom = nomTraductor
+    end
+  )
+
+
+      Consulta Drets de Publicació
+
+      O
+     /|\
+     / \
+|-----------|                                                      |----------|
+|           |                                                      |          |
+| :Empleat  |                                                      | :Sistema |
+|  ‾‾‾‾‾‾‾  |                                                      |  ‾‾‾‾‾‾‾ |
+|-----------|                                                      |----------|
+      |                                                                  |
+     |-|                                                                |-|
+     | |                                                                | |
+     | |  ConsultaDretsPublicacio(nomSegell, dataInici, dataFi): llista | |
+     | |<--------------------------------------------------------------→| |
+     | |                                                                | |
+     | |                                                                | |
+     |-|                                                                |-|
+      |                                                                  |
+
+Context: Sistema::ConsultaDretsPublicacio (
+  nomSegell: String,
+  dataInici: Date,
+  dataFi: Date
+): Set (
+    TupleType (
+      titolLlibre: String,
+      isbn: String,
+      datesEdicions: Set(Date)
+    )
+  )
+
+Pre:
+  -- Existeix la data Inici
+  Data.allInstances()->exists(d | d.data = dataInici)
+  -- Existeix la data Fi
+  Data.allInstances()->exists(d | d.data = dataFi)
+  -- Existeixen com a mínim 10 llibres diferents amb drets de publicació pel segell durant el període
+  DretPublicacio.allInstances()->exists(d |
+    d.segellEditorial.nom = nomSegell
+    AND d.Data.data >= dataInici
+    AND d.Data.data < dataFi
+    AND d.llibre->size() >= 10
+  )
+
+Body:
+  let llista: Set(DretPublicacio) = DretPublicacio.allInstances()->select(p |
+    p.dataInici >= dataInici
+    AND p.dataFi < DataFi
+    AND p.segellEditorial = nomSegell
+    AND p.datesEdicions->size() > 5
+  )
+  in
+    llista->collect(p |
+      Tuple {
+        titolLlibre = p.llibre.nom,
+        isbn = p.isbn,
+        datesEdicions = p.datesEdicions
+      }
+    )
