@@ -1,0 +1,3270 @@
+0: Exit
+1: Rway
+2: Radix
+Escull model Trie: 
+--RWayTrie--
+1: alice_in_wonderland.txt
+2: alpha_words.txt (alfabet gran)
+3: moby_dick.txt
+4: enwiki-latest-all-titles-in-ns0
+5: chimpanze-DNA.txt
+6: prova.txt
+7: altGrauPre.txt
+8: altGrauPre5mb.txt
+9: baixGrauPre.txt
+10: baixGrauPre5mb.txt
+11: DNA.txt (alfabet petit)
+12: DNA5mb.txt (alfabet petit)
+Escull un número: Arxiu CARGAT
+
+RWayTrie amb 1027810 nodes
+Cada node ocupa 128 bytes
+Amb profunditat màxima: 32 d
+Tot el RWayTrie ocupa en disc 131559680.000000 bytes, 131559.680000 kB, 131.559680 MB
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 14330.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'sinapo' no és una paraula, potser volies dir:
+sinapoline
+Temps fins prefix: 14330.000000 ns
+Temps després prefix 1557.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1404.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'idiospa' no és una paraula, potser volies dir:
+idiospasm
+idiospastic
+Temps fins prefix: 1404.000000 ns
+Temps després prefix 2434.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1792.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'believabili' no és una paraula, potser volies dir:
+believability
+Temps fins prefix: 1792.000000 ns
+Temps després prefix 887.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 785.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'wickedn' no és una paraula, potser volies dir:
+wickedness
+Temps fins prefix: 785.000000 ns
+Temps després prefix 1047.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1158.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 4 coincidències.'untheolo' no és una paraula, potser volies dir:
+untheologic
+untheological
+untheologically
+untheologize
+Temps fins prefix: 1158.000000 ns
+Temps després prefix 4562.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1134.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'invultu' no és una paraula, potser volies dir:
+invultuation
+Temps fins prefix: 1134.000000 ns
+Temps després prefix 1739.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1261.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'enbus' no és una paraula, potser volies dir:
+enbusshe
+Temps fins prefix: 1261.000000 ns
+Temps després prefix 1192.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1956.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'intercombina' no és una paraula, potser volies dir:
+intercombination
+Temps fins prefix: 1956.000000 ns
+Temps després prefix 1457.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1939.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'heptamethyl' no és una paraula, potser volies dir:
+heptamethylene
+Temps fins prefix: 1939.000000 ns
+Temps després prefix 1165.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 3215.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'rhodobacterioide' no és una paraula, potser volies dir:
+rhodobacterioideae
+Temps fins prefix: 3215.000000 ns
+Temps després prefix 1079.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1199.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'soapmong' no és una paraula, potser volies dir:
+soapmonger
+Temps fins prefix: 1199.000000 ns
+Temps després prefix 976.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 409.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 2 coincidències.'symt' no és una paraula, potser volies dir:
+symtab
+symtomology
+Temps fins prefix: 409.000000 ns
+Temps després prefix 4150.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 893.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 43 coincidències.'alumi' no és una paraula, potser volies dir:
+alumian
+alumic
+alumiferous
+alumin
+alumina
+Temps fins prefix: 893.000000 ns
+Temps després prefix 4881.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1513.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'squintnes' no és una paraula, potser volies dir:
+squintness
+Temps fins prefix: 1513.000000 ns
+Temps després prefix 628.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1689.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 6 coincidències.'permutati' no és una paraula, potser volies dir:
+permutating
+permutation
+permutational
+permutationist
+permutationists
+Temps fins prefix: 1689.000000 ns
+Temps després prefix 3139.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1862.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 4 coincidències.'nymphomani' no és una paraula, potser volies dir:
+nymphomania
+nymphomaniac
+nymphomaniacal
+nymphomaniacs
+Temps fins prefix: 1862.000000 ns
+Temps després prefix 2738.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1518.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'chlorpi' no és una paraula, potser volies dir:
+chlorpicrin
+chlorpikrin
+Temps fins prefix: 1518.000000 ns
+Temps després prefix 3385.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 669.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'berche' no és una paraula, potser volies dir:
+berchemia
+Temps fins prefix: 669.000000 ns
+Temps després prefix 1379.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1352.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'subinitia' no és una paraula, potser volies dir:
+subinitial
+Temps fins prefix: 1352.000000 ns
+Temps després prefix 620.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1779.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.'papillul' no és una paraula, potser volies dir:
+papillulate
+papillule
+Temps fins prefix: 1779.000000 ns
+Temps després prefix 1750.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2026.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 6 coincidències.'hyperemoti' no és una paraula, potser volies dir:
+hyperemotional
+hyperemotionally
+hyperemotive
+hyperemotively
+hyperemotiveness
+Temps fins prefix: 2026.000000 ns
+Temps després prefix 5122.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1699.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'unsisterline' no és una paraula, potser volies dir:
+unsisterliness
+Temps fins prefix: 1699.000000 ns
+Temps després prefix 1230.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1863.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 3 coincidències.'overhosti' no és una paraula, potser volies dir:
+overhostile
+overhostilely
+overhostility
+Temps fins prefix: 1863.000000 ns
+Temps després prefix 3200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 777.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 2 coincidències.'strami' no és una paraula, potser volies dir:
+stramineous
+stramineously
+Temps fins prefix: 777.000000 ns
+Temps després prefix 2661.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1162.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'mancand' no és una paraula, potser volies dir:
+mancando
+Temps fins prefix: 1162.000000 ns
+Temps després prefix 964.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 4875.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 3 coincidències.'cytoarchitectu' no és una paraula, potser volies dir:
+cytoarchitectural
+cytoarchitecturally
+cytoarchitecture
+Temps fins prefix: 4875.000000 ns
+Temps després prefix 2728.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 924.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'uncoaxi' no és una paraula, potser volies dir:
+uncoaxial
+uncoaxing
+Temps fins prefix: 924.000000 ns
+Temps després prefix 1975.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1508.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'homopetal' no és una paraula, potser volies dir:
+homopetalous
+Temps fins prefix: 1508.000000 ns
+Temps després prefix 1244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 899.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'zoetropi' no és una paraula, potser volies dir:
+zoetropic
+Temps fins prefix: 899.000000 ns
+Temps després prefix 694.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1181.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'causticl' no és una paraula, potser volies dir:
+causticly
+Temps fins prefix: 1181.000000 ns
+Temps després prefix 764.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 853.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'leafg' no és una paraula, potser volies dir:
+leafgirl
+Temps fins prefix: 853.000000 ns
+Temps després prefix 1063.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 872.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 11 coincidències.'claud' no és una paraula, potser volies dir:
+claude
+claudent
+claudetite
+claudetites
+claudia
+Temps fins prefix: 872.000000 ns
+Temps després prefix 3989.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1384.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'mucronifor' no és una paraula, potser volies dir:
+mucroniform
+Temps fins prefix: 1384.000000 ns
+Temps després prefix 766.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1199.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'baggyrin' no és una paraula, potser volies dir:
+baggyrinkle
+Temps fins prefix: 1199.000000 ns
+Temps després prefix 1202.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1678.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'superpigme' no és una paraula, potser volies dir:
+superpigmentation
+Temps fins prefix: 1678.000000 ns
+Temps després prefix 2278.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 992.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.'unacclaim' no és una paraula, potser volies dir:
+unacclaimate
+unacclaimed
+Temps fins prefix: 992.000000 ns
+Temps després prefix 2035.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1051.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'thereh' no és una paraula, potser volies dir:
+therehence
+Temps fins prefix: 1051.000000 ns
+Temps després prefix 1518.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 695.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'zyrenia' no és una paraula, potser volies dir:
+zyrenian
+Temps fins prefix: 695.000000 ns
+Temps després prefix 700.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 699.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'mircr' no és una paraula, potser volies dir:
+mircrobicidal
+Temps fins prefix: 699.000000 ns
+Temps després prefix 2862.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1882.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 5 coincidències.'agrostograph' no és una paraula, potser volies dir:
+agrostographer
+agrostographic
+agrostographical
+agrostographies
+agrostography
+Temps fins prefix: 1882.000000 ns
+Temps després prefix 3495.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 427.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.'bepas' no és una paraula, potser volies dir:
+bepaste
+bepastured
+Temps fins prefix: 427.000000 ns
+Temps després prefix 2761.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1386.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 3 coincidències.'exotoxi' no és una paraula, potser volies dir:
+exotoxic
+exotoxin
+exotoxins
+Temps fins prefix: 1386.000000 ns
+Temps després prefix 1676.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 828.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 4 coincidències.'etatis' no és una paraula, potser volies dir:
+etatism
+etatisme
+etatisms
+etatist
+Temps fins prefix: 828.000000 ns
+Temps després prefix 2460.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1130.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'unpackag' no és una paraula, potser volies dir:
+unpackaged
+Temps fins prefix: 1130.000000 ns
+Temps després prefix 910.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 493.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 16 coincidències.'hypom' no és una paraula, potser volies dir:
+hypomania
+hypomanic
+hypomelancholia
+hypomeral
+hypomere
+Temps fins prefix: 493.000000 ns
+Temps després prefix 7124.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 880.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'stallke' no és una paraula, potser volies dir:
+stallkeeper
+Temps fins prefix: 880.000000 ns
+Temps després prefix 1559.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2070.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'proctoparalysi' no és una paraula, potser volies dir:
+proctoparalysis
+Temps fins prefix: 2070.000000 ns
+Temps després prefix 820.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 421.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.'tharg' no és una paraula, potser volies dir:
+thargelion
+tharginyah
+Temps fins prefix: 421.000000 ns
+Temps després prefix 4299.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1009.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'fracedi' no és una paraula, potser volies dir:
+fracedinous
+Temps fins prefix: 1009.000000 ns
+Temps després prefix 1816.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1635.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 6 coincidències.'nonderoga' no és una paraula, potser volies dir:
+nonderogation
+nonderogative
+nonderogatively
+nonderogatorily
+nonderogatoriness
+Temps fins prefix: 1635.000000 ns
+Temps després prefix 5027.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1424.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'opiopha' no és una paraula, potser volies dir:
+opiophagism
+opiophagy
+Temps fins prefix: 1424.000000 ns
+Temps després prefix 1891.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 483.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'exauc' no és una paraula, potser volies dir:
+exauctorate
+Temps fins prefix: 483.000000 ns
+Temps després prefix 2248.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1349.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'antitegu' no és una paraula, potser volies dir:
+antitegula
+Temps fins prefix: 1349.000000 ns
+Temps després prefix 917.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1144.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'gelofr' no és una paraula, potser volies dir:
+gelofre
+Temps fins prefix: 1144.000000 ns
+Temps després prefix 712.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1059.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'illmann' no és una paraula, potser volies dir:
+illmanneredness
+Temps fins prefix: 1059.000000 ns
+Temps després prefix 2447.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2092.000000 ns
+Nodes nodes visitats: 19 nodes
+Profunditat de la cerca: 19 d
+S'han trobat 1 coincidències.'superadministratio' no és una paraula, potser volies dir:
+superadministration
+Temps fins prefix: 2092.000000 ns
+Temps després prefix 782.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1084.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 8 coincidències.'stringen' no és una paraula, potser volies dir:
+stringencies
+stringency
+stringendo
+stringendos
+stringene
+Temps fins prefix: 1084.000000 ns
+Temps després prefix 2956.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 823.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3 coincidències.'inenar' no és una paraula, potser volies dir:
+inenarrability
+inenarrable
+inenarrably
+Temps fins prefix: 823.000000 ns
+Temps després prefix 3918.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2460.000000 ns
+Nodes nodes visitats: 19 nodes
+Profunditat de la cerca: 19 d
+S'han trobat 1 coincidències.'unconstitutionalis' no és una paraula, potser volies dir:
+unconstitutionalism
+Temps fins prefix: 2460.000000 ns
+Temps després prefix 782.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 806.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 30 coincidències.'foref' no és una paraula, potser volies dir:
+foreface
+forefaces
+forefather
+forefatherly
+forefathers
+Temps fins prefix: 806.000000 ns
+Temps després prefix 3567.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 787.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.'absqu' no és una paraula, potser volies dir:
+absquatulate
+absquatulation
+Temps fins prefix: 787.000000 ns
+Temps després prefix 3596.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1293.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.'sniggerin' no és una paraula, potser volies dir:
+sniggering
+sniggeringly
+Temps fins prefix: 1293.000000 ns
+Temps després prefix 1785.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 690.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'latoo' no és una paraula, potser volies dir:
+latooka
+Temps fins prefix: 690.000000 ns
+Temps després prefix 1013.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1345.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'undercasin' no és una paraula, potser volies dir:
+undercasing
+Temps fins prefix: 1345.000000 ns
+Temps després prefix 741.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 613.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.'bensa' no és una paraula, potser volies dir:
+bensail
+bensall
+Temps fins prefix: 613.000000 ns
+Temps després prefix 1721.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1805.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'amphibichnit' no és una paraula, potser volies dir:
+amphibichnite
+Temps fins prefix: 1805.000000 ns
+Temps després prefix 665.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 940.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'unclehoo' no és una paraula, potser volies dir:
+unclehood
+Temps fins prefix: 940.000000 ns
+Temps després prefix 747.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 795.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'unlanter' no és una paraula, potser volies dir:
+unlanterned
+Temps fins prefix: 795.000000 ns
+Temps després prefix 1217.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1248.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'abranchialis' no és una paraula, potser volies dir:
+abranchialism
+Temps fins prefix: 1248.000000 ns
+Temps després prefix 742.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1173.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 3 coincidències.'hypochlori' no és una paraula, potser volies dir:
+hypochloric
+hypochloridemia
+hypochlorite
+Temps fins prefix: 1173.000000 ns
+Temps després prefix 4101.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1131.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 4 coincidències.'schooli' no és una paraula, potser volies dir:
+schoolie
+schooling
+schoolingly
+schoolish
+Temps fins prefix: 1131.000000 ns
+Temps després prefix 3437.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 747.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'viduou' no és una paraula, potser volies dir:
+viduous
+Temps fins prefix: 747.000000 ns
+Temps després prefix 725.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 933.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'urogeno' no és una paraula, potser volies dir:
+urogenous
+Temps fins prefix: 933.000000 ns
+Temps després prefix 962.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 799.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'superdeleg' no és una paraula, potser volies dir:
+superdelegate
+Temps fins prefix: 799.000000 ns
+Temps després prefix 1102.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 590.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 2 coincidències.'yahu' no és una paraula, potser volies dir:
+yahuna
+yahuskin
+Temps fins prefix: 590.000000 ns
+Temps després prefix 2774.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1272.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'saddeningl' no és una paraula, potser volies dir:
+saddeningly
+Temps fins prefix: 1272.000000 ns
+Temps després prefix 609.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1383.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3 coincidències.'rigoro' no és una paraula, potser volies dir:
+rigorous
+rigorously
+rigorousness
+Temps fins prefix: 1383.000000 ns
+Temps després prefix 3897.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1005.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'latticewi' no és una paraula, potser volies dir:
+latticewise
+Temps fins prefix: 1005.000000 ns
+Temps després prefix 968.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 973.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'canalag' no és una paraula, potser volies dir:
+canalage
+Temps fins prefix: 973.000000 ns
+Temps després prefix 812.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2317.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 3 coincidències.'phototopogr' no és una paraula, potser volies dir:
+phototopographic
+phototopographical
+phototopography
+Temps fins prefix: 2317.000000 ns
+Temps després prefix 3060.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1111.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'enstren' no és una paraula, potser volies dir:
+enstrengthen
+Temps fins prefix: 1111.000000 ns
+Temps després prefix 1722.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1448.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 29 coincidències.'descri' no és una paraula, potser volies dir:
+descrial
+describability
+describable
+describably
+describe
+Temps fins prefix: 1448.000000 ns
+Temps després prefix 6188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 693.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'ensifer' no és una paraula, potser volies dir:
+ensiferi
+Temps fins prefix: 693.000000 ns
+Temps després prefix 693.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1666.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'achillobur' no és una paraula, potser volies dir:
+achillobursitis
+Temps fins prefix: 1666.000000 ns
+Temps després prefix 1550.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1246.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'potasher' no és una paraula, potser volies dir:
+potashery
+Temps fins prefix: 1246.000000 ns
+Temps després prefix 697.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1037.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'furfury' no és una paraula, potser volies dir:
+furfuryl
+furfurylidene
+Temps fins prefix: 1037.000000 ns
+Temps després prefix 3436.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1994.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'preadherenc' no és una paraula, potser volies dir:
+preadherence
+Temps fins prefix: 1994.000000 ns
+Temps després prefix 733.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 910.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 9 coincidències.'nullip' no és una paraula, potser volies dir:
+nullipara
+nulliparae
+nulliparity
+nulliparous
+nullipennate
+Temps fins prefix: 910.000000 ns
+Temps després prefix 5310.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1168.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'ungreatne' no és una paraula, potser volies dir:
+ungreatness
+Temps fins prefix: 1168.000000 ns
+Temps després prefix 848.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 463.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 2 coincidències.'unseet' no és una paraula, potser volies dir:
+unseethed
+unseething
+Temps fins prefix: 463.000000 ns
+Temps després prefix 2330.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 934.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'bearbus' no és una paraula, potser volies dir:
+bearbush
+Temps fins prefix: 934.000000 ns
+Temps després prefix 632.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1167.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'fortunele' no és una paraula, potser volies dir:
+fortuneless
+Temps fins prefix: 1167.000000 ns
+Temps després prefix 875.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1043.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'isosucc' no és una paraula, potser volies dir:
+isosuccinic
+Temps fins prefix: 1043.000000 ns
+Temps després prefix 1489.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2342.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 3 coincidències.'splanchnopleur' no és una paraula, potser volies dir:
+splanchnopleural
+splanchnopleure
+splanchnopleuric
+Temps fins prefix: 2342.000000 ns
+Temps després prefix 2321.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1622.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 2 coincidències.'bronchiecta' no és una paraula, potser volies dir:
+bronchiectasis
+bronchiectatic
+Temps fins prefix: 1622.000000 ns
+Temps després prefix 2581.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1271.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'unterrestria' no és una paraula, potser volies dir:
+unterrestrial
+Temps fins prefix: 1271.000000 ns
+Temps després prefix 738.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 723.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'poriti' no és una paraula, potser volies dir:
+poritidae
+Temps fins prefix: 723.000000 ns
+Temps després prefix 1256.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1191.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'encryptin' no és una paraula, potser volies dir:
+encrypting
+Temps fins prefix: 1191.000000 ns
+Temps després prefix 950.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1447.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'peritrochan' no és una paraula, potser volies dir:
+peritrochanteric
+Temps fins prefix: 1447.000000 ns
+Temps després prefix 1846.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2018.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'neuromimes' no és una paraula, potser volies dir:
+neuromimesis
+Temps fins prefix: 2018.000000 ns
+Temps després prefix 910.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1122.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'coburges' no és una paraula, potser volies dir:
+coburgess
+Temps fins prefix: 1122.000000 ns
+Temps després prefix 686.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1457.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 2 coincidències.'reapprecia' no és una paraula, potser volies dir:
+reappreciate
+reappreciation
+Temps fins prefix: 1457.000000 ns
+Temps després prefix 2205.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1063.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'uppishnes' no és una paraula, potser volies dir:
+uppishness
+Temps fins prefix: 1063.000000 ns
+Temps després prefix 677.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 489.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.'reboz' no és una paraula, potser volies dir:
+rebozo
+rebozos
+Temps fins prefix: 489.000000 ns
+Temps després prefix 1222.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1008.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'cornmong' no és una paraula, potser volies dir:
+cornmonger
+Temps fins prefix: 1008.000000 ns
+Temps després prefix 962.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1086.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'shipcra' no és una paraula, potser volies dir:
+shipcraft
+Temps fins prefix: 1086.000000 ns
+Temps després prefix 966.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 582.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'unnewl' no és una paraula, potser volies dir:
+unnewly
+Temps fins prefix: 582.000000 ns
+Temps després prefix 726.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 621.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'zanje' no és una paraula, potser volies dir:
+zanjero
+Temps fins prefix: 621.000000 ns
+Temps després prefix 925.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1362.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'procommemora' no és una paraula, potser volies dir:
+procommemoration
+Temps fins prefix: 1362.000000 ns
+Temps després prefix 1310.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 754.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'achteha' no és una paraula, potser volies dir:
+achtehalber
+Temps fins prefix: 754.000000 ns
+Temps després prefix 1439.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 792.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'jamad' no és una paraula, potser volies dir:
+jamadar
+Temps fins prefix: 792.000000 ns
+Temps després prefix 1024.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1324.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 2 coincidències.'undiscredit' no és una paraula, potser volies dir:
+undiscreditable
+undiscredited
+Temps fins prefix: 1324.000000 ns
+Temps després prefix 2245.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1172.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'camptonit' no és una paraula, potser volies dir:
+camptonite
+Temps fins prefix: 1172.000000 ns
+Temps després prefix 764.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1595.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'septomarg' no és una paraula, potser volies dir:
+septomarginal
+Temps fins prefix: 1595.000000 ns
+Temps després prefix 1452.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1273.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'ethnofl' no és una paraula, potser volies dir:
+ethnoflora
+Temps fins prefix: 1273.000000 ns
+Temps després prefix 1194.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1203.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'surrogatin' no és una paraula, potser volies dir:
+surrogating
+Temps fins prefix: 1203.000000 ns
+Temps després prefix 688.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2139.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'metapsychica' no és una paraula, potser volies dir:
+metapsychical
+Temps fins prefix: 2139.000000 ns
+Temps després prefix 683.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 679.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'ecbas' no és una paraula, potser volies dir:
+ecbasis
+Temps fins prefix: 679.000000 ns
+Temps després prefix 964.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1442.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 3 coincidències.'noncaprici' no és una paraula, potser volies dir:
+noncapricious
+noncapriciously
+noncapriciousness
+Temps fins prefix: 1442.000000 ns
+Temps després prefix 4244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1681.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'counterexpl' no és una paraula, potser volies dir:
+counterexplanation
+Temps fins prefix: 1681.000000 ns
+Temps després prefix 2072.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1105.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 5 coincidències.'areogra' no és una paraula, potser volies dir:
+areographer
+areographic
+areographical
+areographically
+areography
+Temps fins prefix: 1105.000000 ns
+Temps després prefix 3791.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 907.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'piarha' no és una paraula, potser volies dir:
+piarhaemic
+Temps fins prefix: 907.000000 ns
+Temps després prefix 1556.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1073.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'unimpedne' no és una paraula, potser volies dir:
+unimpedness
+Temps fins prefix: 1073.000000 ns
+Temps després prefix 863.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1102.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'thuggeei' no és una paraula, potser volies dir:
+thuggeeism
+Temps fins prefix: 1102.000000 ns
+Temps després prefix 953.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 669.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3 coincidències.'moque' no és una paraula, potser volies dir:
+moquelumnan
+moquette
+moquettes
+Temps fins prefix: 669.000000 ns
+Temps després prefix 3887.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2165.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 2 coincidències.'quinquepar' no és una paraula, potser volies dir:
+quinquepartite
+quinquepartition
+Temps fins prefix: 2165.000000 ns
+Temps després prefix 2938.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1195.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 3 coincidències.'diamondba' no és una paraula, potser volies dir:
+diamondback
+diamondbacked
+diamondbacks
+Temps fins prefix: 1195.000000 ns
+Temps després prefix 2452.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1559.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 2 coincidències.'pathologis' no és una paraula, potser volies dir:
+pathologist
+pathologists
+Temps fins prefix: 1559.000000 ns
+Temps després prefix 1382.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 926.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'querech' no és una paraula, potser volies dir:
+querecho
+Temps fins prefix: 926.000000 ns
+Temps després prefix 680.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1257.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'amazonsto' no és una paraula, potser volies dir:
+amazonstone
+Temps fins prefix: 1257.000000 ns
+Temps després prefix 963.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 526.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 3 coincidències.'unsubli' no és una paraula, potser volies dir:
+unsublimable
+unsublimated
+unsublimed
+Temps fins prefix: 526.000000 ns
+Temps després prefix 4125.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 926.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'unbalke' no és una paraula, potser volies dir:
+unbalked
+Temps fins prefix: 926.000000 ns
+Temps després prefix 790.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 826.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'mosshor' no és una paraula, potser volies dir:
+mosshorn
+Temps fins prefix: 826.000000 ns
+Temps després prefix 916.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2528.000000 ns
+Nodes nodes visitats: 18 nodes
+Profunditat de la cerca: 18 d
+S'han trobat 1 coincidències.'chronophotographi' no és una paraula, potser volies dir:
+chronophotographic
+Temps fins prefix: 2528.000000 ns
+Temps després prefix 724.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1890.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'multidirec' no és una paraula, potser volies dir:
+multidirectional
+Temps fins prefix: 1890.000000 ns
+Temps després prefix 1932.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1418.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.'inframerc' no és una paraula, potser volies dir:
+inframercurial
+inframercurian
+Temps fins prefix: 1418.000000 ns
+Temps després prefix 2556.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1385.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'programmatis' no és una paraula, potser volies dir:
+programmatist
+Temps fins prefix: 1385.000000 ns
+Temps després prefix 682.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 572.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 6 coincidències.'ladro' no és una paraula, potser volies dir:
+ladron
+ladrone
+ladrones
+ladronism
+ladronize
+Temps fins prefix: 572.000000 ns
+Temps després prefix 2618.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1072.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'eperote' no és una paraula, potser volies dir:
+eperotesis
+Temps fins prefix: 1072.000000 ns
+Temps després prefix 1040.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1256.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'infamiliari' no és una paraula, potser volies dir:
+infamiliarity
+Temps fins prefix: 1256.000000 ns
+Temps després prefix 893.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1878.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'animalculin' no és una paraula, potser volies dir:
+animalculine
+Temps fins prefix: 1878.000000 ns
+Temps després prefix 817.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1632.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'ludicrositi' no és una paraula, potser volies dir:
+ludicrosities
+Temps fins prefix: 1632.000000 ns
+Temps després prefix 840.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1252.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'unridiculousl' no és una paraula, potser volies dir:
+unridiculously
+Temps fins prefix: 1252.000000 ns
+Temps després prefix 672.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 775.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'eggcra' no és una paraula, potser volies dir:
+eggcrate
+Temps fins prefix: 775.000000 ns
+Temps després prefix 935.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 900.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'sparefu' no és una paraula, potser volies dir:
+spareful
+Temps fins prefix: 900.000000 ns
+Temps després prefix 695.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1357.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'openmouthedn' no és una paraula, potser volies dir:
+openmouthedness
+Temps fins prefix: 1357.000000 ns
+Temps després prefix 1144.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1451.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'paucifloro' no és una paraula, potser volies dir:
+pauciflorous
+Temps fins prefix: 1451.000000 ns
+Temps després prefix 1019.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1869.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'teletypesetti' no és una paraula, potser volies dir:
+teletypesetting
+Temps fins prefix: 1869.000000 ns
+Temps després prefix 998.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 971.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'tailboa' no és una paraula, potser volies dir:
+tailboard
+Temps fins prefix: 971.000000 ns
+Temps després prefix 887.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1480.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'cotylophoro' no és una paraula, potser volies dir:
+cotylophorous
+Temps fins prefix: 1480.000000 ns
+Temps després prefix 1235.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1271.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'motorboate' no és una paraula, potser volies dir:
+motorboater
+Temps fins prefix: 1271.000000 ns
+Temps després prefix 640.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1241.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'pretheologi' no és una paraula, potser volies dir:
+pretheological
+Temps fins prefix: 1241.000000 ns
+Temps després prefix 1240.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1478.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'crapaudin' no és una paraula, potser volies dir:
+crapaudine
+Temps fins prefix: 1478.000000 ns
+Temps després prefix 692.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 625.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'worthsh' no és una paraula, potser volies dir:
+worthship
+Temps fins prefix: 625.000000 ns
+Temps després prefix 879.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1893.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'alternativene' no és una paraula, potser volies dir:
+alternativeness
+Temps fins prefix: 1893.000000 ns
+Temps després prefix 970.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 648.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 6 coincidències.'noncapit' no és una paraula, potser volies dir:
+noncapital
+noncapitalist
+noncapitalistic
+noncapitalistically
+noncapitalized
+Temps fins prefix: 648.000000 ns
+Temps després prefix 4960.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 502.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'uneuch' no és una paraula, potser volies dir:
+uneucharistical
+Temps fins prefix: 502.000000 ns
+Temps després prefix 2923.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1088.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'unprocrean' no és una paraula, potser volies dir:
+unprocreant
+Temps fins prefix: 1088.000000 ns
+Temps després prefix 630.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1275.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'creatophago' no és una paraula, potser volies dir:
+creatophagous
+Temps fins prefix: 1275.000000 ns
+Temps després prefix 854.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1711.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'intracompa' no és una paraula, potser volies dir:
+intracompany
+Temps fins prefix: 1711.000000 ns
+Temps després prefix 951.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 919.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'mangin' no és una paraula, potser volies dir:
+manginess
+Temps fins prefix: 919.000000 ns
+Temps després prefix 1087.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 915.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'packboa' no és una paraula, potser volies dir:
+packboard
+Temps fins prefix: 915.000000 ns
+Temps després prefix 943.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 801.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3 coincidències.'mainte' no és una paraula, potser volies dir:
+maintenance
+maintenances
+maintenon
+Temps fins prefix: 801.000000 ns
+Temps després prefix 3291.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2343.000000 ns
+Nodes nodes visitats: 18 nodes
+Profunditat de la cerca: 18 d
+S'han trobat 1 coincidències.'superattractivene' no és una paraula, potser volies dir:
+superattractiveness
+Temps fins prefix: 2343.000000 ns
+Temps després prefix 914.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 910.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 4 coincidències.'floril' no és una paraula, potser volies dir:
+florilage
+florilege
+florilegia
+florilegium
+Temps fins prefix: 910.000000 ns
+Temps després prefix 4848.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2013.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'tuberculosecto' no és una paraula, potser volies dir:
+tuberculosectorial
+Temps fins prefix: 2013.000000 ns
+Temps després prefix 1452.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1391.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 4 coincidències.'nonextensib' no és una paraula, potser volies dir:
+nonextensibility
+nonextensible
+nonextensibleness
+nonextensibness
+Temps fins prefix: 1391.000000 ns
+Temps després prefix 6320.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1028.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'scampav' no és una paraula, potser volies dir:
+scampavia
+Temps fins prefix: 1028.000000 ns
+Temps després prefix 949.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2103.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'nephrostomi' no és una paraula, potser volies dir:
+nephrostomial
+Temps fins prefix: 2103.000000 ns
+Temps després prefix 1000.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1870.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'misexplanatio' no és una paraula, potser volies dir:
+misexplanation
+Temps fins prefix: 1870.000000 ns
+Temps després prefix 623.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 881.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 3 coincidències.'nonlibidi' no és una paraula, potser volies dir:
+nonlibidinous
+nonlibidinously
+nonlibidinousness
+Temps fins prefix: 881.000000 ns
+Temps després prefix 4703.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1050.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'vocalisin' no és una paraula, potser volies dir:
+vocalising
+Temps fins prefix: 1050.000000 ns
+Temps després prefix 673.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1544.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'thermokinemati' no és una paraula, potser volies dir:
+thermokinematics
+Temps fins prefix: 1544.000000 ns
+Temps després prefix 959.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1134.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'nonelaboratel' no és una paraula, potser volies dir:
+nonelaborately
+Temps fins prefix: 1134.000000 ns
+Temps després prefix 732.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1099.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 3 coincidències.'lexicost' no és una paraula, potser volies dir:
+lexicostatistic
+lexicostatistical
+lexicostatistics
+Temps fins prefix: 1099.000000 ns
+Temps després prefix 3536.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1223.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'trachyan' no és una paraula, potser volies dir:
+trachyandesite
+Temps fins prefix: 1223.000000 ns
+Temps després prefix 1982.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 767.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'exocan' no és una paraula, potser volies dir:
+exocannibalism
+Temps fins prefix: 767.000000 ns
+Temps després prefix 2970.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 801.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3 coincidències.'flexog' no és una paraula, potser volies dir:
+flexographic
+flexographically
+flexography
+Temps fins prefix: 801.000000 ns
+Temps després prefix 4505.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 956.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'deploye' no és una paraula, potser volies dir:
+deployed
+Temps fins prefix: 956.000000 ns
+Temps després prefix 1084.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 422.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 14 coincidències.'smas' no és una paraula, potser volies dir:
+smash
+smashable
+smashage
+smashboard
+smashed
+Temps fins prefix: 422.000000 ns
+Temps després prefix 6608.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 568.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3 coincidències.'clema' no és una paraula, potser volies dir:
+clematis
+clematises
+clematite
+Temps fins prefix: 568.000000 ns
+Temps després prefix 2972.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 558.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 124 coincidències.'bloo' no és una paraula, potser volies dir:
+blood
+bloodalley
+bloodalp
+bloodbath
+bloodbeat
+Temps fins prefix: 558.000000 ns
+Temps després prefix 5088.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 9716.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'choanoc' no és una paraula, potser volies dir:
+choanocytal
+choanocyte
+Temps fins prefix: 9716.000000 ns
+Temps després prefix 1746.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 809.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'wristwo' no és una paraula, potser volies dir:
+wristwork
+Temps fins prefix: 809.000000 ns
+Temps després prefix 1211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 812.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'conhydr' no és una paraula, potser volies dir:
+conhydrin
+conhydrine
+Temps fins prefix: 812.000000 ns
+Temps després prefix 1262.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 921.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'gritro' no és una paraula, potser volies dir:
+gritrock
+Temps fins prefix: 921.000000 ns
+Temps després prefix 857.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1357.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'rockribbe' no és una paraula, potser volies dir:
+rockribbed
+Temps fins prefix: 1357.000000 ns
+Temps després prefix 973.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1533.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 4 coincidències.'exhibitionis' no és una paraula, potser volies dir:
+exhibitionism
+exhibitionist
+exhibitionistic
+exhibitionists
+Temps fins prefix: 1533.000000 ns
+Temps després prefix 2548.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 338.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'mumc' no és una paraula, potser volies dir:
+mumchance
+Temps fins prefix: 338.000000 ns
+Temps després prefix 1664.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1166.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'horsefoo' no és una paraula, potser volies dir:
+horsefoot
+Temps fins prefix: 1166.000000 ns
+Temps després prefix 631.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1568.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'asperug' no és una paraula, potser volies dir:
+asperugo
+Temps fins prefix: 1568.000000 ns
+Temps després prefix 650.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1539.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'ankylobleph' no és una paraula, potser volies dir:
+ankyloblepharon
+Temps fins prefix: 1539.000000 ns
+Temps després prefix 1272.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 799.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'oysterl' no és una paraula, potser volies dir:
+oysterlike
+oysterling
+Temps fins prefix: 799.000000 ns
+Temps després prefix 2296.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1060.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'pourpri' no és una paraula, potser volies dir:
+pourprise
+Temps fins prefix: 1060.000000 ns
+Temps després prefix 909.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 572.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 8 coincidències.'isobu' no és una paraula, potser volies dir:
+isobutane
+isobutene
+isobutyl
+isobutylene
+isobutyraldehyde
+Temps fins prefix: 572.000000 ns
+Temps després prefix 6544.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1123.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'wifelessnes' no és una paraula, potser volies dir:
+wifelessness
+Temps fins prefix: 1123.000000 ns
+Temps després prefix 786.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1112.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'bribeles' no és una paraula, potser volies dir:
+bribeless
+Temps fins prefix: 1112.000000 ns
+Temps després prefix 656.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1324.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'peroxidicp' no és una paraula, potser volies dir:
+peroxidicperoxiding
+Temps fins prefix: 1324.000000 ns
+Temps després prefix 2850.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2149.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'acetylenediu' no és una paraula, potser volies dir:
+acetylenediurein
+Temps fins prefix: 2149.000000 ns
+Temps després prefix 1414.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 686.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'ullin' no és una paraula, potser volies dir:
+ulling
+Temps fins prefix: 686.000000 ns
+Temps després prefix 725.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1360.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'interjealous' no és una paraula, potser volies dir:
+interjealousy
+Temps fins prefix: 1360.000000 ns
+Temps després prefix 654.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1363.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 3 coincidències.'choreographe' no és una paraula, potser volies dir:
+choreographed
+choreographer
+choreographers
+Temps fins prefix: 1363.000000 ns
+Temps després prefix 1923.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1503.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'stepmotherli' no és una paraula, potser volies dir:
+stepmotherliness
+Temps fins prefix: 1503.000000 ns
+Temps després prefix 1379.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 672.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 2 coincidències.'surfbi' no és una paraula, potser volies dir:
+surfbird
+surfbirds
+Temps fins prefix: 672.000000 ns
+Temps després prefix 1454.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.'chowr' no és una paraula, potser volies dir:
+chowries
+chowry
+Temps fins prefix: 287.000000 ns
+Temps després prefix 1539.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 919.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'preallus' no és una paraula, potser volies dir:
+preallusion
+Temps fins prefix: 919.000000 ns
+Temps després prefix 1320.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1191.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.'overplie' no és una paraula, potser volies dir:
+overplied
+overplies
+Temps fins prefix: 1191.000000 ns
+Temps després prefix 1102.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 488.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'horseto' no és una paraula, potser volies dir:
+horsetongue
+horsetown
+Temps fins prefix: 488.000000 ns
+Temps després prefix 2451.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 452.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'paxiu' no és una paraula, potser volies dir:
+paxiuba
+Temps fins prefix: 452.000000 ns
+Temps després prefix 1011.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 563.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'mossles' no és una paraula, potser volies dir:
+mossless
+Temps fins prefix: 563.000000 ns
+Temps després prefix 690.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1901.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'proscriptivenes' no és una paraula, potser volies dir:
+proscriptiveness
+Temps fins prefix: 1901.000000 ns
+Temps després prefix 645.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1122.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'entozoar' no és una paraula, potser volies dir:
+entozoarian
+Temps fins prefix: 1122.000000 ns
+Temps després prefix 1393.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1164.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'tightkni' no és una paraula, potser volies dir:
+tightknit
+Temps fins prefix: 1164.000000 ns
+Temps després prefix 743.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 682.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'saddlet' no és una paraula, potser volies dir:
+saddletree
+saddletrees
+Temps fins prefix: 682.000000 ns
+Temps després prefix 1634.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1959.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'instigatingl' no és una paraula, potser volies dir:
+instigatingly
+Temps fins prefix: 1959.000000 ns
+Temps després prefix 760.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1464.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'laparonephrec' no és una paraula, potser volies dir:
+laparonephrectomy
+Temps fins prefix: 1464.000000 ns
+Temps després prefix 1449.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1921.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'nonreconciliat' no és una paraula, potser volies dir:
+nonreconciliation
+Temps fins prefix: 1921.000000 ns
+Temps després prefix 1149.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 663.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 4 coincidències.'prevena' no és una paraula, potser volies dir:
+prevenance
+prevenances
+prevenancy
+prevenant
+Temps fins prefix: 663.000000 ns
+Temps després prefix 2524.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1095.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'accombin' no és una paraula, potser volies dir:
+accombination
+Temps fins prefix: 1095.000000 ns
+Temps després prefix 2042.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 598.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 4 coincidències.'erodi' no és una paraula, potser volies dir:
+erodibility
+erodible
+eroding
+erodium
+Temps fins prefix: 598.000000 ns
+Temps després prefix 4871.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1557.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'glucocorticor' no és una paraula, potser volies dir:
+glucocorticord
+Temps fins prefix: 1557.000000 ns
+Temps després prefix 637.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1384.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'celtomani' no és una paraula, potser volies dir:
+celtomaniac
+Temps fins prefix: 1384.000000 ns
+Temps després prefix 872.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1657.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 2 coincidències.'preterdetermin' no és una paraula, potser volies dir:
+preterdetermined
+preterdeterminedly
+Temps fins prefix: 1657.000000 ns
+Temps després prefix 1998.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1076.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'propiolal' no és una paraula, potser volies dir:
+propiolaldehyde
+Temps fins prefix: 1076.000000 ns
+Temps després prefix 2157.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 741.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'sameso' no és una paraula, potser volies dir:
+samesome
+Temps fins prefix: 741.000000 ns
+Temps després prefix 992.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 710.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'beapron' no és una paraula, potser volies dir:
+beaproned
+Temps fins prefix: 710.000000 ns
+Temps després prefix 1082.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 346.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 25 coincidències.'conqu' no és una paraula, potser volies dir:
+conquassate
+conquedle
+conquer
+conquerable
+conquerableness
+Temps fins prefix: 346.000000 ns
+Temps després prefix 5448.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1206.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3 coincidències.'golliw' no és una paraula, potser volies dir:
+golliwog
+golliwogg
+golliwogs
+Temps fins prefix: 1206.000000 ns
+Temps després prefix 1864.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 785.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'unrooti' no és una paraula, potser volies dir:
+unrooting
+Temps fins prefix: 785.000000 ns
+Temps després prefix 923.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 651.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'stabpro' no és una paraula, potser volies dir:
+stabproof
+Temps fins prefix: 651.000000 ns
+Temps després prefix 957.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 702.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'benthop' no és una paraula, potser volies dir:
+benthopelagic
+Temps fins prefix: 702.000000 ns
+Temps després prefix 2134.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1432.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'pseudopto' no és una paraula, potser volies dir:
+pseudoptosis
+Temps fins prefix: 1432.000000 ns
+Temps després prefix 1151.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1535.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 3 coincidències.'unsympatheti' no és una paraula, potser volies dir:
+unsympathetic
+unsympathetically
+unsympatheticness
+Temps fins prefix: 1535.000000 ns
+Temps després prefix 4634.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1417.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'postmenstr' no és una paraula, potser volies dir:
+postmenstrual
+Temps fins prefix: 1417.000000 ns
+Temps després prefix 1267.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 585.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 6 coincidències.'leadw' no és una paraula, potser volies dir:
+leadway
+leadwood
+leadwork
+leadworks
+leadwort
+Temps fins prefix: 585.000000 ns
+Temps després prefix 3241.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 903.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'pertenenc' no és una paraula, potser volies dir:
+pertenencia
+Temps fins prefix: 903.000000 ns
+Temps després prefix 902.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1450.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 7 coincidències.'laryngoscop' no és una paraula, potser volies dir:
+laryngoscope
+laryngoscopic
+laryngoscopical
+laryngoscopically
+laryngoscopies
+Temps fins prefix: 1450.000000 ns
+Temps després prefix 3494.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1327.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'radioiodi' no és una paraula, potser volies dir:
+radioiodine
+Temps fins prefix: 1327.000000 ns
+Temps després prefix 1286.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 555.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 20 coincidències.'footl' no és una paraula, potser volies dir:
+footle
+footled
+footler
+footlers
+footles
+Temps fins prefix: 555.000000 ns
+Temps després prefix 1832.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1436.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 2 coincidències.'irreformab' no és una paraula, potser volies dir:
+irreformability
+irreformable
+Temps fins prefix: 1436.000000 ns
+Temps després prefix 2745.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1470.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 2 coincidències.'cognoscitiv' no és una paraula, potser volies dir:
+cognoscitive
+cognoscitively
+Temps fins prefix: 1470.000000 ns
+Temps després prefix 1646.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1973.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'commercialit' no és una paraula, potser volies dir:
+commerciality
+Temps fins prefix: 1973.000000 ns
+Temps després prefix 612.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1401.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 4 coincidències.'ascertaina' no és una paraula, potser volies dir:
+ascertainability
+ascertainable
+ascertainableness
+ascertainably
+Temps fins prefix: 1401.000000 ns
+Temps després prefix 5187.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1292.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'intracanalicu' no és una paraula, potser volies dir:
+intracanalicular
+Temps fins prefix: 1292.000000 ns
+Temps després prefix 1096.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1253.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'oxyrhinou' no és una paraula, potser volies dir:
+oxyrhinous
+Temps fins prefix: 1253.000000 ns
+Temps després prefix 690.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1043.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'venostasi' no és una paraula, potser volies dir:
+venostasis
+Temps fins prefix: 1043.000000 ns
+Temps després prefix 998.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1081.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'nonsweatin' no és una paraula, potser volies dir:
+nonsweating
+Temps fins prefix: 1081.000000 ns
+Temps després prefix 634.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 487.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'nondeal' no és una paraula, potser volies dir:
+nondealer
+Temps fins prefix: 487.000000 ns
+Temps després prefix 875.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1170.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 3 coincidències.'aquamanil' no és una paraula, potser volies dir:
+aquamanile
+aquamaniles
+aquamanilia
+Temps fins prefix: 1170.000000 ns
+Temps després prefix 2028.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 784.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'blowfli' no és una paraula, potser volies dir:
+blowflies
+Temps fins prefix: 784.000000 ns
+Temps després prefix 916.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 872.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'mughopi' no és una paraula, potser volies dir:
+mughopine
+Temps fins prefix: 872.000000 ns
+Temps després prefix 1011.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 973.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 9 coincidències.'harlequ' no és una paraula, potser volies dir:
+harlequin
+harlequina
+harlequinade
+harlequinery
+harlequinesque
+Temps fins prefix: 973.000000 ns
+Temps després prefix 4150.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 846.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'tarnsi' no és una paraula, potser volies dir:
+tarnside
+Temps fins prefix: 846.000000 ns
+Temps després prefix 1010.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 905.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'enlinke' no és una paraula, potser volies dir:
+enlinked
+Temps fins prefix: 905.000000 ns
+Temps després prefix 700.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 529.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'tagul' no és una paraula, potser volies dir:
+tagula
+Temps fins prefix: 529.000000 ns
+Temps després prefix 756.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 781.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'metalc' no és una paraula, potser volies dir:
+metalcraft
+Temps fins prefix: 781.000000 ns
+Temps després prefix 1509.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 922.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'pulpec' no és una paraula, potser volies dir:
+pulpectomy
+Temps fins prefix: 922.000000 ns
+Temps després prefix 1661.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1056.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'elderbus' no és una paraula, potser volies dir:
+elderbush
+Temps fins prefix: 1056.000000 ns
+Temps després prefix 764.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1315.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'celiomyody' no és una paraula, potser volies dir:
+celiomyodynia
+Temps fins prefix: 1315.000000 ns
+Temps després prefix 1102.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1106.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'nonraisab' no és una paraula, potser volies dir:
+nonraisable
+Temps fins prefix: 1106.000000 ns
+Temps després prefix 880.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 427.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 13 coincidències.'fluk' no és una paraula, potser volies dir:
+fluke
+fluked
+flukeless
+flukes
+flukeworm
+Temps fins prefix: 427.000000 ns
+Temps després prefix 4275.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1557.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 5 coincidències.'agrologi' no és una paraula, potser volies dir:
+agrologic
+agrological
+agrologically
+agrologies
+agrologist
+Temps fins prefix: 1557.000000 ns
+Temps després prefix 4022.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 770.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'cabalass' no és una paraula, potser volies dir:
+cabalassou
+Temps fins prefix: 770.000000 ns
+Temps després prefix 937.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1336.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'phytoglob' no és una paraula, potser volies dir:
+phytoglobulin
+Temps fins prefix: 1336.000000 ns
+Temps després prefix 1410.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1226.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'genisa' no és una paraula, potser volies dir:
+genisaro
+Temps fins prefix: 1226.000000 ns
+Temps després prefix 952.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1038.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 4 coincidències.'endosiph' no és una paraula, potser volies dir:
+endosiphon
+endosiphonal
+endosiphonate
+endosiphuncle
+Temps fins prefix: 1038.000000 ns
+Temps després prefix 5675.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 481.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3 coincidències.'prisa' no és una paraula, potser volies dir:
+prisable
+prisage
+prisal
+Temps fins prefix: 481.000000 ns
+Temps després prefix 2641.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2390.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'collectivistical' no és una paraula, potser volies dir:
+collectivistically
+Temps fins prefix: 2390.000000 ns
+Temps després prefix 958.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 520.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'ovifi' no és una paraula, potser volies dir:
+ovification
+Temps fins prefix: 520.000000 ns
+Temps després prefix 1804.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 619.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 15 coincidències.'apath' no és una paraula, potser volies dir:
+apathaton
+apatheia
+apathetic
+apathetical
+apathetically
+Temps fins prefix: 619.000000 ns
+Temps després prefix 4298.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1274.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'solanac' no és una paraula, potser volies dir:
+solanaceae
+solanaceous
+Temps fins prefix: 1274.000000 ns
+Temps després prefix 2745.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1125.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 4 coincidències.'complicati' no és una paraula, potser volies dir:
+complicating
+complication
+complications
+complicative
+Temps fins prefix: 1125.000000 ns
+Temps després prefix 3050.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 308.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 50 coincidències.'perpe' no és una paraula, potser volies dir:
+perpend
+perpended
+perpendicle
+perpendicular
+perpendicularity
+Temps fins prefix: 308.000000 ns
+Temps després prefix 4412.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1998.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'ovoviviparousn' no és una paraula, potser volies dir:
+ovoviviparousness
+Temps fins prefix: 1998.000000 ns
+Temps després prefix 1214.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2577.000000 ns
+Nodes nodes visitats: 19 nodes
+Profunditat de la cerca: 19 d
+S'han trobat 1 coincidències.'encephalomyelopath' no és una paraula, potser volies dir:
+encephalomyelopathy
+Temps fins prefix: 2577.000000 ns
+Temps després prefix 700.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1210.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 3 coincidències.'preindep' no és una paraula, potser volies dir:
+preindependence
+preindependent
+preindependently
+Temps fins prefix: 1210.000000 ns
+Temps després prefix 3506.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1711.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 2 coincidències.'pharmacopsyc' no és una paraula, potser volies dir:
+pharmacopsychology
+pharmacopsychosis
+Temps fins prefix: 1711.000000 ns
+Temps després prefix 3350.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2089.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'indulgentnes' no és una paraula, potser volies dir:
+indulgentness
+Temps fins prefix: 2089.000000 ns
+Temps després prefix 613.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1178.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 22 coincidències.'illustr' no és una paraula, potser volies dir:
+illustrable
+illustratable
+illustrate
+illustrated
+illustrates
+Temps fins prefix: 1178.000000 ns
+Temps després prefix 4051.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1196.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'butterj' no és una paraula, potser volies dir:
+butterjags
+Temps fins prefix: 1196.000000 ns
+Temps després prefix 1377.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 862.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'ungleef' no és una paraula, potser volies dir:
+ungleeful
+ungleefully
+Temps fins prefix: 862.000000 ns
+Temps després prefix 2050.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 959.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'fosslolo' no és una paraula, potser volies dir:
+fosslology
+Temps fins prefix: 959.000000 ns
+Temps després prefix 903.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1159.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'aspidoman' no és una paraula, potser volies dir:
+aspidomancy
+Temps fins prefix: 1159.000000 ns
+Temps després prefix 954.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1033.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'overnoblene' no és una paraula, potser volies dir:
+overnobleness
+Temps fins prefix: 1033.000000 ns
+Temps després prefix 933.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1428.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'brachiorrha' no és una paraula, potser volies dir:
+brachiorrhachidian
+Temps fins prefix: 1428.000000 ns
+Temps després prefix 2161.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1132.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'cockmatc' no és una paraula, potser volies dir:
+cockmatch
+Temps fins prefix: 1132.000000 ns
+Temps després prefix 965.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1567.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'laparocolpohy' no és una paraula, potser volies dir:
+laparocolpohysterotomy
+Temps fins prefix: 1567.000000 ns
+Temps després prefix 2563.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 825.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.'statesi' no és una paraula, potser volies dir:
+stateside
+statesider
+Temps fins prefix: 825.000000 ns
+Temps després prefix 1544.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1300.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'uncivilisab' no és una paraula, potser volies dir:
+uncivilisable
+Temps fins prefix: 1300.000000 ns
+Temps després prefix 986.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 645.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'zootote' no és una paraula, potser volies dir:
+zoototemism
+Temps fins prefix: 645.000000 ns
+Temps després prefix 1473.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1554.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'invulnerat' no és una paraula, potser volies dir:
+invulnerate
+Temps fins prefix: 1554.000000 ns
+Temps després prefix 795.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 988.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 4 coincidències.'incredul' no és una paraula, potser volies dir:
+incredulity
+incredulous
+incredulously
+incredulousness
+Temps fins prefix: 988.000000 ns
+Temps després prefix 5537.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1954.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'archabominatio' no és una paraula, potser volies dir:
+archabomination
+Temps fins prefix: 1954.000000 ns
+Temps després prefix 668.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1223.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 3 coincidències.'analogica' no és una paraula, potser volies dir:
+analogical
+analogically
+analogicalness
+Temps fins prefix: 1223.000000 ns
+Temps després prefix 3518.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1470.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'sexploitatio' no és una paraula, potser volies dir:
+sexploitation
+Temps fins prefix: 1470.000000 ns
+Temps després prefix 661.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1183.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'unmagnetise' no és una paraula, potser volies dir:
+unmagnetised
+Temps fins prefix: 1183.000000 ns
+Temps després prefix 681.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 569.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3 coincidències.'arshi' no és una paraula, potser volies dir:
+arshin
+arshine
+arshins
+Temps fins prefix: 569.000000 ns
+Temps després prefix 1792.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 967.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'defusin' no és una paraula, potser volies dir:
+defusing
+Temps fins prefix: 967.000000 ns
+Temps després prefix 723.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1123.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'omentofi' no és una paraula, potser volies dir:
+omentofixation
+Temps fins prefix: 1123.000000 ns
+Temps després prefix 1938.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1838.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 3 coincidències.'otorhinolary' no és una paraula, potser volies dir:
+otorhinolaryngologic
+otorhinolaryngologist
+otorhinolaryngology
+Temps fins prefix: 1838.000000 ns
+Temps després prefix 3953.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+
+Nodes visitats de mitjana per operació: 9.580000
+===========Cas 1 o 2==========
+Latència mitjana per operació: 1265.600000
+Profunditat (d) mitjana per operació: 9.580000
+============Cas 3=============
+Latència mitjana després del prefix: 1864.903333
+Nodes de mitjana després del prefix: 4.426667

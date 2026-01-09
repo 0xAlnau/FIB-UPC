@@ -1,0 +1,3189 @@
+0: Exit
+1: Rway
+2: Radix
+Escull model Trie: 
+--RadixTrie--
+1: alice_in_wonderland.txt
+2: alpha_words.txt (alfabet gran)
+3: moby_dick.txt
+4: enwiki-latest-all-titles-in-ns0
+5: chimpanze-DNA.txt
+6: prova.txt
+7: altGrauPre.txt
+8: altGrauPre5mb.txt
+9: baixGrauPre.txt
+10: baixGrauPre5mb.txt
+11: DNA.txt (alfabet petit)
+12: DNA5mb.txt (alfabet petit)
+Escull un número: Arxiu CARGAT
+
+RadixTrie amb 69137 nodes
+Cada node ocupa 168 bytes
+Amb profunditat màxima: 7 d
+Tot el RadixTrie ocupa en disc 11615016.000000 bytes, 11615.016000 kB, 11.615016 MB
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 16030.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS' no és una paraula, potser volies dir:
+hm2wvxSspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 16030.000000 ns
+Temps després prefix 1244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 774.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJam0' no és una paraula, potser volies dir:
+hBHybd6wJzZJam0wjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 774.000000 ns
+Temps després prefix 355.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 562.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb' no és una paraula, potser volies dir:
+hf12MQtOkbqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 562.000000 ns
+Temps després prefix 208.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 650.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lhoo' no és una paraula, potser volies dir:
+hYPKQSh1T1lhookqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 650.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 249.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 87 coincidències.'ho' no és una paraula, potser volies dir:
+hoabgtscjdyuurotbvvtskmzvctuxuhcaekshuctktfwxpmigdfhtipikoqfjkowgpdetqvasjlgkrxosbhldfqucbk
+hoaodbqwbrfkagpehghexzwxabmsyzxwgwmdiwbpdrkfbiyshpjvkahjltxgowsaejeivwxufdikomfkwbflavf
+hoarcpkrkqbfzxabskjsyrjuxkkorjnlcjomborppdbxdnlweluslflazdcqfxlbtsbooyqfyjxffiskk
+hoarlcjyghvnlfbjscipbwkgzfywnsperlttxzcvahgvsyevvufqjqchqjryabcxjgzymovnktjupbbznt
+hobbfbnerxxvqftjfzcgdwhzsorxzpmfwjnywvkhoqxghezxfjhytqgcxvkrrzffxkrdkklhknhjwtzo
+Temps fins prefix: 249.000000 ns
+Temps després prefix 5586.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 630.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFP' no és una paraula, potser volies dir:
+haAjSiCQFPsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 630.000000 ns
+Temps després prefix 272.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 376.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgqOyZ' no és una paraula, potser volies dir:
+hm2wvxS8pAgqOyZspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 376.000000 ns
+Temps després prefix 212.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 271.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQ' no és una paraula, potser volies dir:
+haAjSiCQsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 271.000000 ns
+Temps després prefix 204.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 813.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50xxFry4' no és una paraula, potser volies dir:
+h9RrI1pTHrj50xxFry4ipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 813.000000 ns
+Temps després prefix 320.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 210.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 61 coincidències.'hb5' no és una paraula, potser volies dir:
+hb5bakjfoklmbnyawygjvarcennerqbwkllzumpvxihbaougbomroobydvvjfmjpqifuxsksevdvhmusuxnps
+hb5becrcxcheudmdpyrbnjjeuuhmzhpznmdxuirxnyuskvrfegwtmtpgithtijanvcnosiioxefetalpmrwuibbfsow
+hb5bjajiowrgdafwtloibfxomcicsepssbduwedrzignlemoiffmiknejsprvyakodoxaoqcpeqbcbbucvaccyyf
+hb5bjczlbvtykzxvemypgyolqfaocemgigbmmnwxhamxweycxaybgdzerqpequgczpoycizkdvlcxjlt
+hb5buairtwxvsfksjwgwqedtxbymqvgswvzpcvximnudhdfbrsdxxtdzljgjjtblmuknbyrsobskoy
+Temps fins prefix: 210.000000 ns
+Temps després prefix 1962.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 492.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2J' no és una paraula, potser volies dir:
+hoc7f2Jjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 492.000000 ns
+Temps després prefix 220.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 676.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgqOyZgOVB' no és una paraula, potser volies dir:
+hm2wvxS8pAgqOyZgOVBspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 676.000000 ns
+Temps després prefix 262.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 504.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen' no és una paraula, potser volies dir:
+hb52t2b3BvWenbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 504.000000 ns
+Temps després prefix 240.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 146.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 63 coincidències.'hf12' no és una paraula, potser volies dir:
+hf12avfzdmpyugrxomriguoibimrabqqpaedpcwxgblmbkycdodfvvjgsokcrjtpgayyvmlnmylvqndkhrctllsxaevi
+hf12bgyfgfbqonvothevtumpqktnegoavdkwstpfxfjskgsjgddouvzbxftvdvgrxxbnjzgjbvzdcbteehp
+hf12biskqorhmceotlqmrksdfieiojmudputgwussbgvnfkzcvmnlmqmnfxbigxpfdrsceijmszdetlrueytxwm
+hf12bjxogyylxnrqkzotwfqavgybjrygduibeymwchzupsnwaaipbiodqzixxnukfmhcrhpwzjmexrpaohqhhloc
+hf12bnsmidicdgxhexdsyrjtowvvqpcosohqbkqhoakhqysruppnbcbcycglstganbhplzttilmmunkuq
+Temps fins prefix: 146.000000 ns
+Temps després prefix 1769.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 262.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOk' no és una paraula, potser volies dir:
+hf12MQtOkqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 262.000000 ns
+Temps després prefix 213.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 775.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8KdzGEl' no és una paraula, potser volies dir:
+hCWsIB5Kal8KdzGElibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 775.000000 ns
+Temps després prefix 224.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 137.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 85 coincidències.'hY' no és una paraula, potser volies dir:
+hYakisbavcxwxomnovknlghglabrbfxqlpmoltdmvaxazlgbncjoodzvxigijmhccoxzcjsurukwzqqftoq
+hYarfdyvwrynytkqfkbrgwzjukycrifnjnlmbwzvifvwphzeczhzmeizsqjspselmrwnkynrnyszndcqs
+hYawifvyzolydqavwshtpvkzzwqyfzseizlvqbujnrpsgfydhifkzkequzzvrrombicrjncmmjwdr
+hYazfxulsfviaotjvyfrhibqdhqsozyahuvajkedtzgpfnmalebhajsykiceggwjpcjvmzjreujmyumbgu
+hYazgzalvfxqewwjorqeytaegknfsirlftzdnbgridgllwursdorllsulytttkimaozzqsndopossmzxfqeimlz
+Temps fins prefix: 137.000000 ns
+Temps després prefix 1656.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 198.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 6 coincidències.'hCW' no és una paraula, potser volies dir:
+hCWjjyioebzqterrcpwqgevkeclkxxvfjximwfgvzmdkgycoulsyavkzdwwecnyjrdkzenwdjpzmgoewuogl
+hCWrppnqhaimfkywcuwoeriztxjmrzpbhynhbawmegtaeslqagnvlhqqvcjujdvuxlehrvcvfutrnqfsefrgbgox
+hCWsibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+hCWszzyizyoothqtkhxexyyivefeufwndtdqgjrcroblomagdgklbfybwdvfwoctoloexmvqjoafbvqeswnbbwmpy
+hCWweztwcdevqwhhzzirevlibttlttwvzvwqcdgauqxgobfnksjslzunridxafnibxrhhgqkcbysjl
+Temps fins prefix: 198.000000 ns
+Temps després prefix 1801.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 299.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8Kd' no és una paraula, potser volies dir:
+hCWsIB5Kal8Kdibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 299.000000 ns
+Temps després prefix 191.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 517.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5Jk' no és una paraula, potser volies dir:
+hEtLEN84qe5Jklenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 517.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 282.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lhoo7' no és una paraula, potser volies dir:
+hYPKQSh1T1lhoo7kqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 282.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 400.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKHHOl' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHHOljplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 400.000000 ns
+Temps després prefix 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 342.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj5' no és una paraula, potser volies dir:
+h9RrI1pTHrj5ipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 342.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 459.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7ydPBd' no és una paraula, potser volies dir:
+hBQV3dV16l7ydPBdvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 459.000000 ns
+Temps després prefix 224.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 515.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nT' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 515.000000 ns
+Temps després prefix 195.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 525.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6s' no és una paraula, potser volies dir:
+h4pkwL6slsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 525.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 281.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84' no és una paraula, potser volies dir:
+hEtLEN84lenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 281.000000 ns
+Temps després prefix 194.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 285.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWe' no és una paraula, potser volies dir:
+hb52t2b3BvWebvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 285.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 288.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nTHRlO' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTHRlOdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 288.000000 ns
+Temps després prefix 205.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 278.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8p' no és una paraula, potser volies dir:
+hm2wvxS8pspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 278.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 101.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 61 coincidències.'hb' no és una paraula, potser volies dir:
+hbbakjfoklmbnyawygjvarcennerqbwkllzumpvxihbaougbomroobydvvjfmjpqifuxsksevdvhmusuxnps
+hbbecrcxcheudmdpyrbnjjeuuhmzhpznmdxuirxnyuskvrfegwtmtpgithtijanvcnosiioxefetalpmrwuibbfsow
+hbbjajiowrgdafwtloibfxomcicsepssbduwedrzignlemoiffmiknejsprvyakodoxaoqcpeqbcbbucvaccyyf
+hbbjczlbvtykzxvemypgyolqfaocemgigbmmnwxhamxweycxaybgdzerqpequgczpoycizkdvlcxjlt
+hbbuairtwxvsfksjwgwqedtxbymqvgswvzpcvximnudhdfbrsdxxtdzljgjjtblmuknbyrsobskoy
+Temps fins prefix: 101.000000 ns
+Temps després prefix 1286.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 658.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGafI1iyy' no és una paraula, potser volies dir:
+hyXYFOzLQAGafI1iyyfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 658.000000 ns
+Temps després prefix 248.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 226.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvW' no és una paraula, potser volies dir:
+hb52t2b3BvWbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 226.000000 ns
+Temps després prefix 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 251.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1' no és una paraula, potser volies dir:
+hf12MQtOkb1qtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 251.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 282.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7ydPB' no és una paraula, potser volies dir:
+hBQV3dV16l7ydPBvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 282.000000 ns
+Temps després prefix 216.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 321.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5JkUCNHI' no és una paraula, potser volies dir:
+hEtLEN84qe5JkUCNHIlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 321.000000 ns
+Temps després prefix 229.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 302.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b' no és una paraula, potser volies dir:
+hb52t2bbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 302.000000 ns
+Temps després prefix 225.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 474.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGafI1iyyY' no és una paraula, potser volies dir:
+hyXYFOzLQAGafI1iyyYfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 474.000000 ns
+Temps després prefix 244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 303.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGafI' no és una paraula, potser volies dir:
+hyXYFOzLQAGafIfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 303.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 535.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM4Re' no és una paraula, potser volies dir:
+hVc0V0OfQc0CM4Revofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 535.000000 ns
+Temps després prefix 250.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 126.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 63 coincidències.'hf1' no és una paraula, potser volies dir:
+hf1avfzdmpyugrxomriguoibimrabqqpaedpcwxgblmbkycdodfvvjgsokcrjtpgayyvmlnmylvqndkhrctllsxaevi
+hf1bgyfgfbqonvothevtumpqktnegoavdkwstpfxfjskgsjgddouvzbxftvdvgrxxbnjzgjbvzdcbteehp
+hf1biskqorhmceotlqmrksdfieiojmudputgwussbgvnfkzcvmnlmqmnfxbigxpfdrsceijmszdetlrueytxwm
+hf1bjxogyylxnrqkzotwfqavgybjrygduibeymwchzupsnwaaipbiodqzixxnukfmhcrhpwzjmexrpaohqhhloc
+hf1bnsmidicdgxhexdsyrjtowvvqpcosohqbkqhoakhqysruppnbcbcycglstganbhplzttilmmunkuq
+Temps fins prefix: 126.000000 ns
+Temps després prefix 1200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 299.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAj' no és una paraula, potser volies dir:
+haAjsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 299.000000 ns
+Temps després prefix 189.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 142.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 86 coincidències.'h4p' no és una paraula, potser volies dir:
+h4pacctvwnjewdrgpxajqqdupyweipbakrkeulobifcxmaxlrdzcgbvkakxvyhewsdacpbyhgeyfvryoc
+h4pafrxzmjwpshacerdoyiahtmatnglvpmctikpfjwaudbdqmyrctcyrrwrepihdshdywlzbhajq
+h4pafzqzjfvbvhfugokuqkrspvqlspcjixncyxrgcnujnvzcxmpvgcxdjgkcaxzdrsnwagamrefqdestxgozbrvuz
+h4pazkjwnzfgpvxmsxcjowddmypuaetirmuyxrqwmavgkhuuaiwlxlaflhpedyabdtqduqpopczjhsfquumimsxmr
+h4pbfgcchjfxvnddurfasqqxoqtesmepvkxwetisigkrcbsfhmebiwtekjwonmdmtugjjhbnszswhwnxlxlwsyxbhngzyg
+Temps fins prefix: 142.000000 ns
+Temps després prefix 1953.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 378.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen2sDCN' no és una paraula, potser volies dir:
+hb52t2b3BvWen2sDCNbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 378.000000 ns
+Temps després prefix 246.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 304.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8KdzG' no és una paraula, potser volies dir:
+hCWsIB5Kal8KdzGibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 304.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 109.000000 ns
+Nodes nodes visitats: 2 nodes
+Profunditat de la cerca: 2 d
+S'han trobat 1993 coincidències.'B' no és una paraula, potser volies dir:
+Baazzuaooawucwqjkmjmfnttvguvhevmqcslcukyragzavxhxkniocagginbiajiewkseyetwxvvixuvyddyqkpa
+Babextdwxfevaddoxofntndkxbqpujflitxnedxbsqogeulmaranhcsjuhdwgoznppcifrrrtxqfjuvylbxnyv
+Bacvjslbvqltgaabuzzitalijnztxohwigkyveohcafvisftainzbryofkeecqwcuftltovanxtjssypy
+Badrwltzxhprbplzverdgnfaaehkqrnorpegjsqtfupgoosmepdfkxgqmuehqeeluiclaschyvqvavyopabzck
+Baeeuwpaohqfhaivgxpdurqyyeeokfvkkniwlnjrplfoknovsxtrtnsvbywodyqkqecaobryobnfxnm
+Temps fins prefix: 109.000000 ns
+Temps després prefix 2031.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 375.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8KdzGElB' no és una paraula, potser volies dir:
+hCWsIB5Kal8KdzGElBibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 375.000000 ns
+Temps després prefix 223.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 138.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 74 coincidències.'h9R' no és una paraula, potser volies dir:
+h9Racnsacdaohmjvfswtnaqclfpvkjnvcrqsfqjjzymfwskeszwoggdorvcjygjwkeltjgzreryacidumm
+h9Rajcgffnqcyfafgcxwceklukdavvyhnjxqidxtuonntsrjiwlxvyxdxxtcvnlvkqanvbmcxolhexug
+h9Rawfpckrxqefrhdepnrgmizgjqaftruhcktfbloqkgjphnwsmijhfvxuldnjncikwvnixmrztnqetrnicijm
+h9Rayqsigqsanqwyreyuadvgsrymdwpailfnmgejhqmgvhchoqgyswxumqdcyragqmcygqbephtwolmsekkpeftny
+h9Rbevajvakctwstllurqguulgkfskontvsirjlcssgtfzlpcvxznqproounlatwlfbsyoensmvqnnz
+Temps fins prefix: 138.000000 ns
+Temps després prefix 1832.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 294.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM4Rev54k' no és una paraula, potser volies dir:
+hVc0V0OfQc0CM4Rev54kofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 294.000000 ns
+Temps després prefix 220.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 228.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8Kdz' no és una paraula, potser volies dir:
+hCWsIB5Kal8Kdzibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 228.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 322.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6' no és una paraula, potser volies dir:
+hBHybd6wjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 322.000000 ns
+Temps després prefix 216.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 312.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQG' no és una paraula, potser volies dir:
+h4pkwL6secQGlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 312.000000 ns
+Temps després prefix 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 326.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJam0WH' no és una paraula, potser volies dir:
+hBHybd6wJzZJam0WHwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 326.000000 ns
+Temps després prefix 233.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 305.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0p' no és una paraula, potser volies dir:
+BZ4gDsn0pdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 305.000000 ns
+Temps després prefix 185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 293.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84q' no és una paraula, potser volies dir:
+hEtLEN84qlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 293.000000 ns
+Temps després prefix 179.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 274.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lho' no és una paraula, potser volies dir:
+hYPKQSh1T1lhokqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 274.000000 ns
+Temps després prefix 193.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JP' no és una paraula, potser volies dir:
+hoc7f2JPjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 287.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 339.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50xx' no és una paraula, potser volies dir:
+h9RrI1pTHrj50xxipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 339.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc' no és una paraula, potser volies dir:
+hVc0V0OfQcvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 276.000000 ns
+Temps després prefix 184.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 231.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 2 coincidències.'hBHy' no és una paraula, potser volies dir:
+hBHybdwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+hBHytpynkgsgcprpwhuddhhknurjwhbnmluocmuxrlyqdceyjvqemosmhwdywxjvbajecahbwtqdefcxpdgogma
+Temps fins prefix: 231.000000 ns
+Temps després prefix 468.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 401.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nTHRlOWL' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTHRlOWLdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 401.000000 ns
+Temps després prefix 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 279.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZ' no és una paraula, potser volies dir:
+hBHybd6wJzZwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 279.000000 ns
+Temps després prefix 202.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 405.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5JkUCNHIzF' no és una paraula, potser volies dir:
+hEtLEN84qe5JkUCNHIzFlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 405.000000 ns
+Temps després prefix 1338.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 319.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lhoo7TE' no és una paraula, potser volies dir:
+hYPKQSh1T1lhoo7TEkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 319.000000 ns
+Temps després prefix 200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 341.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lhoo7TEUHd' no és una paraula, potser volies dir:
+hYPKQSh1T1lhoo7TEUHdkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 341.000000 ns
+Temps després prefix 208.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 370.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGaEvseY' no és una paraula, potser volies dir:
+h4pkwL6secQGaEvseYlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 370.000000 ns
+Temps després prefix 217.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 102.000000 ns
+Nodes nodes visitats: 2 nodes
+Profunditat de la cerca: 2 d
+S'han trobat 2025 coincidències.'h9' no és una paraula, potser volies dir:
+h9aaawforiowulnkfrehcphbezdxjlzxjagwdwdoytxjzuvacvxfjwlmevyarvsdbjimjntnrjzwjyusaslceoctbp
+h9aajsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+h9aawsaizhgznmrsfonzflegbsnefunibjrwhotgwytyyywwveaziexapkeiavuvlgrqdwrkavbopxuszidwjy
+h9abdmoixflrzlgozwyjnzulddhxqqpzrpdlqzzqaffaegdevqanyfdyelqmuztixfnncjpsnrfvswosrgr
+h9abgehijimuzeexfumusbtmjokuuwboxciqmxuvqnuwkurspwslczumzkyloyvqqdxyrlvkykpqxzyffxehod
+Temps fins prefix: 102.000000 ns
+Temps després prefix 2044.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 6 coincidències.'hm2w' no és una paraula, potser volies dir:
+hm2wetidegddmmaexouflfnxkieybeocwgdmaeeouctmqmntkegpamdnvaficatanaiihyucmbqvlafdo
+hm2wgohawrkesnglobvrvalisljdrymoimanbettrltodosczuwxmpaolyprnwsrautrhhpcbpohymffppwhkrglsd
+hm2wlqmxiklzlkyyqmckqwlqntphrpcpimrvcohycpmsrarrhrjicouxpdulvlwaqaowlkfxlozufcaouvmzzbuzm
+hm2wvxspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+hm2wxhlcbwqivekbjiqytqkfyuepfjytkjcsikhdjrdwlducshjujifasaqwhfvydqepaicexazxlemkdfu
+Temps fins prefix: 238.000000 ns
+Temps després prefix 1426.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 235.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjS' no és una paraula, potser volies dir:
+haAjSsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 235.000000 ns
+Temps després prefix 202.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 233.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQ' no és una paraula, potser volies dir:
+hYPKQkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 233.000000 ns
+Temps després prefix 192.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 263.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1W' no és una paraula, potser volies dir:
+hf12MQtOkb1Wqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 263.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 290.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkw' no és una paraula, potser volies dir:
+h4pkwlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 290.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 252.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQF' no és una paraula, potser volies dir:
+haAjSiCQFsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 252.000000 ns
+Temps després prefix 204.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5' no és una paraula, potser volies dir:
+hEtLEN84qe5lenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 270.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 231.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPK' no és una paraula, potser volies dir:
+hYPKkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 231.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 185.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.'hb52t' no és una paraula, potser volies dir:
+hb52tbbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+hb52tkhqwblycvmergbijfzvhndiuxmpmsckkizuczqshvzdfkbasequwlnyfcvhnttslxlobczoljpoxfeikrj
+hb52tnvuhtwfqupnuqjkadneizfblapfkddxpnevttkjrhacsmxzeovvxnkhybgugqbkorkjkqfieskxfw
+hb52trfensqnbfrxzpvpfkjqusazmbffaoxrlsmmzatucemoqguqbgfcombyohemfacntlhlcsgdwfvwbmvxw
+Temps fins prefix: 185.000000 ns
+Temps després prefix 1081.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 124.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 84 coincidències.'hE' no és una paraula, potser volies dir:
+hEaaemallhhozhwqavkojrekidzpjyrybsyyownhlvkxhsadzmgoklvthinplkhhnwcaftizcgrusymmkhacufg
+hEajfijufapeqrvgvarfrzgtjxhmysqmxfkqmjfsdoadzjmvrdyjwrehqidtjyajsuscganjowrbonkngtdbx
+hEanamkyexeeaszgkvsqhhnuulwlvmbepopnhhhsghcfjplvfxthakkvweprkeisjdxsdbcccxibxyjc
+hEanlordsjeopadmjcsqespqmwlgjsunhhubryffmxiomyvqtcxlolycyvpqzhtlfhvrduizfowwubfcpzotj
+hEayqpmmgzbbppphlithjuiyrkngybzxtpborutxfhblgcransuxgaddwzxelggjjhvjvefkex
+Temps fins prefix: 124.000000 ns
+Temps després prefix 1798.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 308.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen2sDC' no és una paraula, potser volies dir:
+hb52t2b3BvWen2sDCbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 308.000000 ns
+Temps després prefix 232.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 112.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 85 coincidències.'hy' no és una paraula, potser volies dir:
+hyakisbavcxwxomnovknlghglabrbfxqlpmoltdmvaxazlgbncjoodzvxigijmhccoxzcjsurukwzqqftoq
+hyarfdyvwrynytkqfkbrgwzjukycrifnjnlmbwzvifvwphzeczhzmeizsqjspselmrwnkynrnyszndcqs
+hyawifvyzolydqavwshtpvkzzwqyfzseizlvqbujnrpsgfydhifkzkequzzvrrombicrjncmmjwdr
+hyazfxulsfviaotjvyfrhibqdhqsozyahuvajkedtzgpfnmalebhajsykiceggwjpcjvmzjreujmyumbgu
+hyazgzalvfxqewwjorqeytaegknfsirlftzdnbgridgllwursdorllsulytttkimaozzqsndopossmzxfqeimlz
+Temps fins prefix: 112.000000 ns
+Temps després prefix 1236.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 233.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV' no és una paraula, potser volies dir:
+hBQV3dVvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 233.000000 ns
+Temps després prefix 187.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 145.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 60 coincidències.'BZ' no és una paraula, potser volies dir:
+BZacoccptdtlraeivwturdvjkcanmokmmkpfcksdlldcdfwwsrysenbmzylnfxxoqhdomrwotoapigjlmspfrirz
+BZayumeryypxrtrolqvyeqlgtaicdafgtycukopvdkjbxufddwvavcopofmgwroauiljtscuhocmxogtwnnth
+BZbjurqxjqearxxnqwghklzhmtpdozkvfehgdzzbpncwajuawnuwnpvacvmcbqdxtgkamawmoupfsmizgco
+BZbxzmmpfnngxailpgobrlzebrpascfhorqlybeenwlmlqqgzsxmzgqbhrnixduwunhaxkqzyxkadkwcpifhyany
+BZbzkffukdbjswsfamnvbnurfvqxnilomnqivkzwawhsgjipdupfwxmpwrgczegjzhhhtqsadynglkkzabltsgqd
+Temps fins prefix: 145.000000 ns
+Temps després prefix 1909.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 234.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAG' no és una paraula, potser volies dir:
+hyXYFOzLQAGfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 234.000000 ns
+Temps després prefix 208.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 267.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T' no és una paraula, potser volies dir:
+hYPKQSh1Tkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 267.000000 ns
+Temps després prefix 195.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 241.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFO' no és una paraula, potser volies dir:
+hyXYFOfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 241.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 319.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgqO' no és una paraula, potser volies dir:
+hm2wvxS8pAgqOspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 319.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 209.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh' no és una paraula, potser volies dir:
+hYPKQShkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 209.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 302.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM4Rev' no és una paraula, potser volies dir:
+hVc0V0OfQc0CM4Revofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 302.000000 ns
+Temps després prefix 215.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 274.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f' no és una paraula, potser volies dir:
+hoc7fjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 274.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7' no és una paraula, potser volies dir:
+hBQV3dV16l7vdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 238.000000 ns
+Temps després prefix 185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 377.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKHHOl36oH' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHHOl36oHjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 377.000000 ns
+Temps després prefix 226.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 452.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaEoa' no és una paraula, potser volies dir:
+hHgRPejkJjaEoarpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 452.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 418.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJam0WHN' no és una paraula, potser volies dir:
+hBHybd6wJzZJam0WHNwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 418.000000 ns
+Temps després prefix 224.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 274.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn' no és una paraula, potser volies dir:
+BZ4gDsndsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 274.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 215.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 2 coincidències.'hHg' no és una paraula, potser volies dir:
+hHgrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+hHgxkkkqlgukrpiobjlaahyqebaqxrdvpwinkbrtixjydfpljucibifyydsaljnpmgoijyhofwacehzocpq
+Temps fins prefix: 215.000000 ns
+Temps després prefix 512.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 237.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQ' no és una paraula, potser volies dir:
+hVc0V0OfQvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 237.000000 ns
+Temps després prefix 193.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 313.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaEoa9iK' no és una paraula, potser volies dir:
+hHgRPejkJjaEoa9iKrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 313.000000 ns
+Temps després prefix 215.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 543.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGafI1iyyYx' no és una paraula, potser volies dir:
+hyXYFOzLQAGafI1iyyYxfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 543.000000 ns
+Temps després prefix 223.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 331.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen2sDCNvI' no és una paraula, potser volies dir:
+hb52t2b3BvWen2sDCNvIbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 331.000000 ns
+Temps després prefix 231.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 279.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5J' no és una paraula, potser volies dir:
+hEtLEN84qe5Jlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 279.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 264.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL' no és una paraula, potser volies dir:
+h4pkwLlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 264.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 281.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB' no és una paraula, potser volies dir:
+hCWsIBibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 281.000000 ns
+Temps després prefix 191.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 235.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lh' no és una paraula, potser volies dir:
+hYPKQSh1T1lhkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 235.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 504.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgqOyZgOVBy' no és una paraula, potser volies dir:
+hm2wvxS8pAgqOyZgOVByspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 504.000000 ns
+Temps després prefix 234.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 259.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen2sDCNv' no és una paraula, potser volies dir:
+hb52t2b3BvWen2sDCNvbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 259.000000 ns
+Temps després prefix 222.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 398.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8KdzGElBa' no és una paraula, potser volies dir:
+hCWsIB5Kal8KdzGElBaibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 398.000000 ns
+Temps després prefix 215.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WIUaY' no és una paraula, potser volies dir:
+hf12MQtOkb1WIUaYqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 311.000000 ns
+Temps després prefix 210.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 189.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 6 coincidències.'hYP' no és una paraula, potser volies dir:
+hYPkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+hYPofpkwxuuaacmajflwnxqvtyjdfpibqslfhwtvhtaztrkuvakaqziijdilxzruiuhhpvoeucmvjbumnipqqixi
+hYPrnptbspbyywykgmlqarsvwmukszxrrcdtfpywkpgnjdfwxqrhillvozkrutwyvbqduxzxlhm
+hYPsbyaghaucyxodlviwglzhukhsxsiusoqeteatsacohoeolxlsvkzhlbjeivfumwuegzdnfosgxshtpacwpgzof
+hYPuwlxgblcxzsgtckqkrkkdzaezvafnffpputmjxhbtqojbfpreggcfuaqjkuasapgzoqkolcweqzb
+Temps fins prefix: 189.000000 ns
+Temps després prefix 1430.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 289.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WIUaY4d' no és una paraula, potser volies dir:
+hf12MQtOkb1WIUaY4dqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 289.000000 ns
+Temps després prefix 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 306.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pT' no és una paraula, potser volies dir:
+h9RrI1pTipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 306.000000 ns
+Temps després prefix 185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 294.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5JkUC' no és una paraula, potser volies dir:
+hEtLEN84qe5JkUClenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 294.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 329.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKHHOl3' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHHOl3jplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 329.000000 ns
+Temps després prefix 223.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 244.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGa' no és una paraula, potser volies dir:
+hyXYFOzLQAGafozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 244.000000 ns
+Temps després prefix 208.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 489.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaEoa9iKzPb' no és una paraula, potser volies dir:
+hHgRPejkJjaEoa9iKzPbrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 489.000000 ns
+Temps després prefix 204.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 217.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 6 coincidències.'BZ4g' no és una paraula, potser volies dir:
+BZ4gdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+BZ4gnwscmohcixlqkwrlsyeysmscwydqjifepjwoxokdtgkybegostqszqtsckmioxilorreypabmybyvqykiba
+BZ4gotmlzpvoesushfzybkwauvhejmnhrewggswxkfhfyhuoawpbokgzvilspniutrjmilusmhqeybtycuscsxcgti
+BZ4gpufvcretvkuxmeabumxcqmofchstfpsnhvjufcgoqsovviareuiuhwfdbwmynmgrazgzhfeebgep
+BZ4gxrsvphkyiknwhtjofzqhrwhplaynbwzznxkpbqsxhnubsleirrpqyfigpsjfjjkuvqbzqcxcyqiqoygffs
+Temps fins prefix: 217.000000 ns
+Temps després prefix 1285.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 272.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Ka' no és una paraula, potser volies dir:
+hCWsIB5Kaibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 272.000000 ns
+Temps després prefix 181.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 314.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8KdzGE' no és una paraula, potser volies dir:
+hCWsIB5Kal8KdzGEibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 314.000000 ns
+Temps després prefix 207.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 225.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0' no és una paraula, potser volies dir:
+hVc0V0OfQc0vofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 225.000000 ns
+Temps després prefix 185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 204.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 2 coincidències.'hCWs' no és una paraula, potser volies dir:
+hCWsibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+hCWszzyizyoothqtkhxexyyivefeufwndtdqgjrcroblomagdgklbfybwdvfwoctoloexmvqjoafbvqeswnbbwmpy
+Temps fins prefix: 204.000000 ns
+Temps després prefix 428.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 203.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.'h9Rr' no és una paraula, potser volies dir:
+h9Rrcocfawfvwdwgywlwipjxhmbflkpwelzravymvrnjtucoikhomscdlcknasdwvnevtcxceklvlclmnzrb
+h9Rripthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+h9Rrthfsapzfnywpczhkndqaiqzhkhimsdpqtsiuvdlldyfkempuficrjegmxrkqksckszwjsfzshzieseorprp
+h9Rrvpudzxqxpdfnhuwxqrlwhxdwcwjkuftuglbdpojzthnjrlzkwnaipclyyqkeospvslrnwxfcucr
+Temps fins prefix: 203.000000 ns
+Temps després prefix 1001.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 191.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.'hoc' no és una paraula, potser volies dir:
+hocbngjeawypzfcsxhpfrzwvzpdzcqjuwotoxczooliwxtpvhdzkryptcpdkbvmnfobrnexigyiabwiefhxzajcus
+hocfjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+hockcxuepylfgpokxccyabaxgzogvooqfgtfgwhyhlxwcjbpxvrikzfrfwkkikykibdnbqieifbgsdtoebhkxg
+hocttvcwleqdfmsnlvgscravxgvwbydtdgledcveccagaohhychvxmsbrvefzjufpgeebqhjcrzjnogjmkcoq
+Temps fins prefix: 191.000000 ns
+Temps després prefix 956.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 260.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3' no és una paraula, potser volies dir:
+hBQV3vdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 260.000000 ns
+Temps després prefix 195.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 263.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd' no és una paraula, potser volies dir:
+hBHybdwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 263.000000 ns
+Temps després prefix 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 442.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nTHRlOWLN' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTHRlOWLNdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 442.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 258.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp' no és una paraula, potser volies dir:
+BZ4gDsn0ppdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 258.000000 ns
+Temps després prefix 184.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 250.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgR' no és una paraula, potser volies dir:
+hHgRrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 250.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 300.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQt' no és una paraula, potser volies dir:
+hf12MQtqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 300.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 288.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal' no és una paraula, potser volies dir:
+hCWsIB5Kalibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 288.000000 ns
+Temps després prefix 183.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 259.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7ydP' no és una paraula, potser volies dir:
+hBQV3dV16l7ydPvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 259.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 233.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6' no és una paraula, potser volies dir:
+BZ4gDsn0pp6dsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 233.000000 ns
+Temps després prefix 193.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 225.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPe' no és una paraula, potser volies dir:
+hHgRPerpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 225.000000 ns
+Temps després prefix 180.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.'hb52t2' no és una paraula, potser volies dir:
+hb52t2bbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+hb52t2khqwblycvmergbijfzvhndiuxmpmsckkizuczqshvzdfkbasequwlnyfcvhnttslxlobczoljpoxfeikrj
+hb52t2nvuhtwfqupnuqjkadneizfblapfkddxpnevttkjrhacsmxzeovvxnkhybgugqbkorkjkqfieskxfw
+hb52t2rfensqnbfrxzpvpfkjqusazmbffaoxrlsmmzatucemoqguqbgfcombyohemfacntlhlcsgdwfvwbmvxw
+Temps fins prefix: 232.000000 ns
+Temps després prefix 854.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 250.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM4' no és una paraula, potser volies dir:
+hVc0V0OfQc0CM4vofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 250.000000 ns
+Temps després prefix 187.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 90.000000 ns
+Nodes nodes visitats: 2 nodes
+Profunditat de la cerca: 2 d
+S'han trobat 2025 coincidències.'h' no és una paraula, potser volies dir:
+haaawforiowulnkfrehcphbezdxjlzxjagwdwdoytxjzuvacvxfjwlmevyarvsdbjimjntnrjzwjyusaslceoctbp
+haajsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+haawsaizhgznmrsfonzflegbsnefunibjrwhotgwytyyywwveaziexapkeiavuvlgrqdwrkavbopxuszidwjy
+habdmoixflrzlgozwyjnzulddhxqqpzrpdlqzzqaffaegdevqanyfdyelqmuztixfnncjpsnrfvswosrgr
+habgehijimuzeexfumusbtmjokuuwboxciqmxuvqnuwkurspwslczumzkyloyvqqdxyrlvkykpqxzyffxehod
+Temps fins prefix: 90.000000 ns
+Temps després prefix 1272.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 139.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 7 coincidències.'hBH' no és una paraula, potser volies dir:
+hBHdqlhdmscbpbfirpzrmuhscujwliiafpbowngmidkveanncbwzxmsddfrgogpifejvfzjjqcjk
+hBHfgaiqptsuoeaqubkclvjebinwszoaaujpbaqppskedxhabhmzsgdqxdfkcmrpmgxlseloieyqltwinofnir
+hBHlurshowxmbvoobdxrpauhypakpqduirfxtkviedyufjjqhwfhaqgedpksriqubcmbdqazwksacoqo
+hBHnbxnoznbqbnrzkkawfrpaocoglxzznfvmbnbcdkvejwafitzjnjthfzhsuduysnfzlkzlevqqmcguracit
+hBHwntzttbatgtuzovsiivrbtauxudtzgcnglxormcvzvbuapyaxnifszavlilerrcpdbkfzrvcnagjtwduuxqt
+Temps fins prefix: 139.000000 ns
+Temps després prefix 1462.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 151.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 2 coincidències.'hVc' no és una paraula, potser volies dir:
+hVckvfuumjjeswoafmhmqwogoxsicnmqsruqabvrwrpdsjfskfgnyrrmighsifpzcvfkflyutzekrcox
+hVcvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 151.000000 ns
+Temps després prefix 500.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 248.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN8' no és una paraula, potser volies dir:
+hEtLEN8lenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 248.000000 ns
+Temps després prefix 184.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 233.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WIUa' no és una paraula, potser volies dir:
+hf12MQtOkb1WIUaqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 233.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 151.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 60 coincidències.'BZ4' no és una paraula, potser volies dir:
+BZ4acoccptdtlraeivwturdvjkcanmokmmkpfcksdlldcdfwwsrysenbmzylnfxxoqhdomrwotoapigjlmspfrirz
+BZ4ayumeryypxrtrolqvyeqlgtaicdafgtycukopvdkjbxufddwvavcopofmgwroauiljtscuhocmxogtwnnth
+BZ4bjurqxjqearxxnqwghklzhmtpdozkvfehgdzzbpncwajuawnuwnpvacvmcbqdxtgkamawmoupfsmizgco
+BZ4bxzmmpfnngxailpgobrlzebrpascfhorqlybeenwlmlqqgzsxmzgqbhrnixduwunhaxkqzyxkadkwcpifhyany
+BZ4bzkffukdbjswsfamnvbnurfvqxnilomnqivkzwawhsgjipdupfwxmpwrgczegjzhhhtqsadynglkkzabltsgqd
+Temps fins prefix: 151.000000 ns
+Temps després prefix 1185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 343.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lhoo7TEUH' no és una paraula, potser volies dir:
+hYPKQSh1T1lhoo7TEUHkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 343.000000 ns
+Temps després prefix 209.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaEo' no és una paraula, potser volies dir:
+hHgRPejkJjaEorpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 257.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 146.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 89 coincidències.'hm2' no és una paraula, potser volies dir:
+hm2aajkqjsqbpjabkwjcdekvbibgmnmwisivzvcbrvgmruwadzvqauvymwdtjbyuuhtvdtqodzcdqjpbuppyol
+hm2ahvgyudwfgchwrwacuglaghhngyylhbozwrqvgsqejgfolwozfphiotffcwmqycpjmmcynwhedxfchxppk
+hm2aviqlvucpugdcjqvvnohlcnbwjwqmnnjfjhctmnsahttbwkvwflkwgweevrcprgyejrlgfbjaitefujuzoz
+hm2axrjccgjabieiqysrjdhfmnedfeutqoaumkzewcqssobhucdyomfgygzdfajytmxofngtjabvhrcgwvtac
+hm2bldookghgutascnyutxyrcnwgnpaxzdgjrlpayclkfdffneaoessubzsdsyvgbpcpiqhgnmrtckwqgcygtumxf
+Temps fins prefix: 146.000000 ns
+Temps després prefix 1788.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 248.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGaE' no és una paraula, potser volies dir:
+h4pkwL6secQGaElsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 248.000000 ns
+Temps després prefix 203.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 286.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM4Rev5' no és una paraula, potser volies dir:
+hVc0V0OfQc0CM4Rev5ofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 286.000000 ns
+Temps després prefix 227.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 312.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgq' no és una paraula, potser volies dir:
+hm2wvxS8pAgqspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 312.000000 ns
+Temps després prefix 205.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJa' no és una paraula, potser volies dir:
+hBHybd6wJzZJawjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 257.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 245.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM4R' no és una paraula, potser volies dir:
+hVc0V0OfQc0CM4Rvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 245.000000 ns
+Temps després prefix 183.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 254.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQ' no és una paraula, potser volies dir:
+hyXYFOzLQfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 254.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 338.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50xxF' no és una paraula, potser volies dir:
+h9RrI1pTHrj50xxFipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 338.000000 ns
+Temps després prefix 207.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 278.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsI' no és una paraula, potser volies dir:
+hCWsIibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 278.000000 ns
+Temps després prefix 180.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 133.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 80 coincidències.'hV' no és una paraula, potser volies dir:
+hVaukllpgofbjlkpwcyiixvnsclxvaqyvvoymylommywujlmmbzwzjuwdmaxhqgnjqrlsrpzduzmlsezlmpfc
+hVbbzuwztzkvzbswokijouuedtygxwmwkdsylmtapgqbvwebljxtbqvvoxrzjfjsaafmihanglbopuwiwy
+hVbmlwnbmtmsvpjumknyxtbcumjaddmkyqzedhuqxhjtiwwkbqkvnbeisyhpdghmdiftasfhxinopkvgr
+hVbpgvijuvjjsorznugfqrospwicanwpuvhvlkenrmttojgpgtsbrnbomibruebusxsvcykzpqtdazoqq
+hVckvfuumjjeswoafmhmqwogoxsicnmqsruqabvrwrpdsjfskfgnyrrmighsifpzcvfkflyutzekrcox
+Temps fins prefix: 133.000000 ns
+Temps després prefix 1942.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 292.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen2' no és una paraula, potser volies dir:
+hb52t2b3BvWen2bvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 292.000000 ns
+Temps després prefix 207.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 299.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5JkUCNH' no és una paraula, potser volies dir:
+hEtLEN84qe5JkUCNHlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 299.000000 ns
+Temps després prefix 201.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 120.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 82 coincidències.'hH' no és una paraula, potser volies dir:
+hHamdytptqsdncetgivtbqzovpxbvzgtcbjwytifaofsuefsoqrcczzklygbqmxybofngkqcxpaatx
+hHavopohvpxbaelbjwxqsvxtbgpdanjmfkbsbsegnonnabbwwtjojrjrwkyuqqcimjasijiosumhzlgftmh
+hHbdhrvhyqhwqkodcyjnzpycmcwaslsexlabkfxomerylgmlxwxruaqtpnzpxapwcisojzllukd
+hHbeztnowtnziftahzqjkttzjcvmgptvymsudtvbrtbztcbojtzurnkeqndxanyajtkkpmkkkvwrybgvrbwmgd
+hHbhknflxnldiziaecmbyzjlstvngievduufwokoxdquedphyfpkakxlfhiomckummzfzmvribpnfycxayynwa
+Temps fins prefix: 120.000000 ns
+Temps després prefix 1815.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 244.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDs' no és una paraula, potser volies dir:
+BZ4gDsdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 244.000000 ns
+Temps després prefix 182.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 228.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe' no és una paraula, potser volies dir:
+hEtLEN84qelenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 228.000000 ns
+Temps després prefix 185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1' no és una paraula, potser volies dir:
+hYPKQSh1kqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 238.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 252.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6sec' no és una paraula, potser volies dir:
+h4pkwL6seclsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 252.000000 ns
+Temps després prefix 202.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 126.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 2 coincidències.'hBQ' no és una paraula, potser volies dir:
+hBQhrhrliupmnrsiqcckblveutvxektghuphxnukpqbxxkxvyqpqclsulojqpruyxdzrnavkuqfsfqhoiiydy
+hBQvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 126.000000 ns
+Temps després prefix 432.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 268.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nTHRl' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTHRldsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 268.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5' no és una paraula, potser volies dir:
+hCWsIB5ibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 232.000000 ns
+Temps després prefix 183.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 294.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50xxFr' no és una paraula, potser volies dir:
+h9RrI1pTHrj50xxFripthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 294.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvx' no és una paraula, potser volies dir:
+hm2wvxspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 287.000000 ns
+Temps després prefix 205.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 305.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHr' no és una paraula, potser volies dir:
+h9RrI1pTHripthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 305.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGa' no és una paraula, potser volies dir:
+h4pkwL6secQGalsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 257.000000 ns
+Temps després prefix 204.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 240.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGaEv' no és una paraula, potser volies dir:
+h4pkwL6secQGaEvlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 240.000000 ns
+Temps després prefix 193.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 251.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJz' no és una paraula, potser volies dir:
+hBHybd6wJzwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 251.000000 ns
+Temps després prefix 204.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 286.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2ZYy' no és una paraula, potser volies dir:
+haAjSiCQFPP2ZYysicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 286.000000 ns
+Temps després prefix 202.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 252.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzL' no és una paraula, potser volies dir:
+hyXYFOzLfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 252.000000 ns
+Temps després prefix 193.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nTHRlOW' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTHRlOWdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 287.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 245.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5K' no és una paraula, potser volies dir:
+hCWsIB5Kibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 245.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 310.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pA' no és una paraula, potser volies dir:
+hm2wvxS8pAspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 310.000000 ns
+Temps després prefix 191.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 191.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 2 coincidències.'hVc0' no és una paraula, potser volies dir:
+hVc0kvfuumjjeswoafmhmqwogoxsicnmqsruqabvrwrpdsjfskfgnyrrmighsifpzcvfkflyutzekrcox
+hVc0vofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 191.000000 ns
+Temps després prefix 455.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 358.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7ydPBdUqDA' no és una paraula, potser volies dir:
+hBQV3dV16l7ydPBdUqDAvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 358.000000 ns
+Temps després prefix 204.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 241.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lhoo7T' no és una paraula, potser volies dir:
+hYPKQSh1T1lhoo7Tkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 241.000000 ns
+Temps després prefix 200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 218.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJ' no és una paraula, potser volies dir:
+hBHybd6wJwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 218.000000 ns
+Temps després prefix 187.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 239.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGafI1' no és una paraula, potser volies dir:
+hyXYFOzLQAGafI1fozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 239.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 283.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI' no és una paraula, potser volies dir:
+h9RrIipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 283.000000 ns
+Temps després prefix 180.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 133.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 61 coincidències.'hb52' no és una paraula, potser volies dir:
+hb52bakjfoklmbnyawygjvarcennerqbwkllzumpvxihbaougbomroobydvvjfmjpqifuxsksevdvhmusuxnps
+hb52becrcxcheudmdpyrbnjjeuuhmzhpznmdxuirxnyuskvrfegwtmtpgithtijanvcnosiioxefetalpmrwuibbfsow
+hb52bjajiowrgdafwtloibfxomcicsepssbduwedrzignlemoiffmiknejsprvyakodoxaoqcpeqbcbbucvaccyyf
+hb52bjczlbvtykzxvemypgyolqfaocemgigbmmnwxhamxweycxaybgdzerqpequgczpoycizkdvlcxjlt
+hb52buairtwxvsfksjwgwqedtxbymqvgswvzpcvximnudhdfbrsdxxtdzljgjjtblmuknbyrsobskoy
+Temps fins prefix: 133.000000 ns
+Temps després prefix 1254.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 253.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV1' no és una paraula, potser volies dir:
+hBQV3dV1vdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 253.000000 ns
+Temps després prefix 187.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 260.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTK' no és una paraula, potser volies dir:
+hoc7f2JPlhTKjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 260.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 262.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1l' no és una paraula, potser volies dir:
+hYPKQSh1T1lkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 262.000000 ns
+Temps després prefix 189.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 295.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7ydPBdUqD' no és una paraula, potser volies dir:
+hBQV3dV16l7ydPBdUqDvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 295.000000 ns
+Temps després prefix 201.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 252.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQSh1T1lhoo7TEU' no és una paraula, potser volies dir:
+hYPKQSh1T1lhoo7TEUkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 252.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 267.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAg' no és una paraula, potser volies dir:
+hm2wvxS8pAgspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 267.000000 ns
+Temps després prefix 195.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 250.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaE' no és una paraula, potser volies dir:
+hHgRPejkJjaErpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 250.000000 ns
+Temps després prefix 189.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKHHOl36' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHHOl36jplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 276.000000 ns
+Temps després prefix 222.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgqOyZg' no és una paraula, potser volies dir:
+hm2wvxS8pAgqOyZgspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 270.000000 ns
+Temps després prefix 231.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 448.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJam0WHN6d' no és una paraula, potser volies dir:
+hBHybd6wJzZJam0WHN6dwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 448.000000 ns
+Temps després prefix 227.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 316.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2ZYyv' no és una paraula, potser volies dir:
+haAjSiCQFPP2ZYyvsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 316.000000 ns
+Temps després prefix 212.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 225.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN' no és una paraula, potser volies dir:
+hEtLENlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 225.000000 ns
+Temps després prefix 178.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 432.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaEoa9iKzP' no és una paraula, potser volies dir:
+hHgRPejkJjaEoa9iKzPrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 432.000000 ns
+Temps després prefix 200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 235.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKHH' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHHjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 235.000000 ns
+Temps després prefix 201.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 252.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5JkUCN' no és una paraula, potser volies dir:
+hEtLEN84qe5JkUCNlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 252.000000 ns
+Temps després prefix 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 113.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 87 coincidències.'hC' no és una paraula, potser volies dir:
+hCakagodxoyybnxyxjksanfhydatonmaskbjwyqyqjnnwpqaixcxnrfkrlxqspqectsxqpfirsphlyxnro
+hCakdzdwtwmhimrmorlmlvlfhgvbhxvqmfugjfpwmpevmybcwmozrcmpkflotcmxjqodozjaephgicjij
+hCakfrfmsdpvkqkvgvpmuokwjszcxxwyuykuxccquotdnhimwzospsgbzjrhyzyvxlqaqvqyxryoblkaun
+hCaknxgfxtjingiustcfstdjyxevidycnrxtlogilzytlpbdmuwxumektiglphiomedlkzfgntwpihjjeebemmix
+hCannkhwmdhsvtanbmsbmnwiowwmqofsxeykxmsrgojwdigekynjjpxzddsjvivzzootkggsiojuparetstsibsdd
+Temps fins prefix: 113.000000 ns
+Temps després prefix 1979.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 209.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 5 coincidències.'hf12M' no és una paraula, potser volies dir:
+hf12Mavscmwbiavasznybpkvmvsshbfkxuvvtwlvqwhtcokwidqjvnkoaiwnefkdryqkicpujtqkpngibhnj
+hf12Mcxjvkaibgywapdyjtjaqirgiqgliukdcwtuwjkvsxrjizluddlhplrjwqibdojtlbirrurfwybsdaiuxll
+hf12Mjjkspjryhqeqnxsqwrgqfhdkteljsxwhbuywidxigvhjgoqootrqrrgvrsllxjrktstiuuxnccvkkmmjsb
+hf12Mowfxzbzwzmwjjtirmjuxceflpgkxwteqybtsbvtfmhghfilgdxnjfmaxvlhrbsavzfznozexzotqxgkbris
+hf12Mqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 209.000000 ns
+Temps després prefix 1253.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 327.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGafI1iy' no és una paraula, potser volies dir:
+hyXYFOzLQAGafI1iyfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 327.000000 ns
+Temps després prefix 226.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 231.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKHHO' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHHOjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 231.000000 ns
+Temps després prefix 210.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaEoa9i' no és una paraula, potser volies dir:
+hHgRPejkJjaEoa9irpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 266.000000 ns
+Temps després prefix 283.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 226.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJ' no és una paraula, potser volies dir:
+hHgRPejkJrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 226.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 284.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50' no és una paraula, potser volies dir:
+h9RrI1pTHrj50ipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 284.000000 ns
+Temps després prefix 191.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 283.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3B' no és una paraula, potser volies dir:
+hb52t2b3Bbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 283.000000 ns
+Temps després prefix 205.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 174.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 3 coincidències.'haA' no és una paraula, potser volies dir:
+haAawforiowulnkfrehcphbezdxjlzxjagwdwdoytxjzuvacvxfjwlmevyarvsdbjimjntnrjzwjyusaslceoctbp
+haAjsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+haAwsaizhgznmrsfonzflegbsnefunibjrwhotgwytyyywwveaziexapkeiavuvlgrqdwrkavbopxuszidwjy
+Temps fins prefix: 174.000000 ns
+Temps després prefix 630.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 236.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj' no és una paraula, potser volies dir:
+h9RrI1pTHrjipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 236.000000 ns
+Temps després prefix 189.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 243.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM' no és una paraula, potser volies dir:
+hVc0V0OfQc0CMvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 243.000000 ns
+Temps després prefix 191.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 299.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wv' no és una paraula, potser volies dir:
+hm2wvxspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 299.000000 ns
+Temps després prefix 201.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 255.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiC' no és una paraula, potser volies dir:
+haAjSiCsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 255.000000 ns
+Temps després prefix 203.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 331.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WIUaY4dOL' no és una paraula, potser volies dir:
+hf12MQtOkb1WIUaY4dOLqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 331.000000 ns
+Temps després prefix 207.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 263.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP' no és una paraula, potser volies dir:
+haAjSiCQFPPsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 263.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 180.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 3 coincidències.'hEt' no és una paraula, potser volies dir:
+hEtbsakfyatzvsnpmehasqmkgxfwicopavepsdsqicehhkfnptuopsaispfyuzjpmpavvrtwlodzcjnfpikn
+hEtlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+hEttwurgaunyfrmtfpjkzenbojqxupptqzgztynfytsyiaprokgagxpaoukityonwiiigrhqfrfqtvquifadx
+Temps fins prefix: 180.000000 ns
+Temps després prefix 694.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 91.000000 ns
+Nodes nodes visitats: 2 nodes
+Profunditat de la cerca: 2 d
+S'han trobat 2025 coincidències.'h4' no és una paraula, potser volies dir:
+h4aaawforiowulnkfrehcphbezdxjlzxjagwdwdoytxjzuvacvxfjwlmevyarvsdbjimjntnrjzwjyusaslceoctbp
+h4aajsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+h4aawsaizhgznmrsfonzflegbsnefunibjrwhotgwytyyywwveaziexapkeiavuvlgrqdwrkavbopxuszidwjy
+h4abdmoixflrzlgozwyjnzulddhxqqpzrpdlqzzqaffaegdevqanyfdyelqmuztixfnncjpsnrfvswosrgr
+h4abgehijimuzeexfumusbtmjokuuwboxciqmxuvqnuwkurspwslczumzkyloyvqqdxyrlvkykpqxzyffxehod
+Temps fins prefix: 91.000000 ns
+Temps després prefix 1253.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 250.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7y' no és una paraula, potser volies dir:
+hBQV3dV16l7yvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 250.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 279.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0C' no és una paraula, potser volies dir:
+hVc0V0OfQc0Cvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 279.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 230.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPej' no és una paraula, potser volies dir:
+hHgRPejrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 230.000000 ns
+Temps després prefix 187.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 256.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgqOy' no és una paraula, potser volies dir:
+hm2wvxS8pAgqOyspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 256.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0' no és una paraula, potser volies dir:
+hVc0V0vofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 266.000000 ns
+Temps després prefix 178.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlh' no és una paraula, potser volies dir:
+hoc7f2JPlhjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 276.000000 ns
+Temps després prefix 202.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 250.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3' no és una paraula, potser volies dir:
+hb52t2b3bvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 250.000000 ns
+Temps després prefix 208.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 239.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7yd' no és una paraula, potser volies dir:
+hBQV3dV16l7ydvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 239.000000 ns
+Temps després prefix 200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nTH' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTHdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 238.000000 ns
+Temps després prefix 192.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 409.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGaEvseYB' no és una paraula, potser volies dir:
+h4pkwL6secQGaEvseYBlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 409.000000 ns
+Temps després prefix 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 286.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50xxFry' no és una paraula, potser volies dir:
+h9RrI1pTHrj50xxFryipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 286.000000 ns
+Temps després prefix 203.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3Bv' no és una paraula, potser volies dir:
+hb52t2b3Bvbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 257.000000 ns
+Temps després prefix 205.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 267.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen2s' no és una paraula, potser volies dir:
+hb52t2b3BvWen2sbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 267.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 243.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPl' no és una paraula, potser volies dir:
+hoc7f2JPljplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 243.000000 ns
+Temps després prefix 203.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 229.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3d' no és una paraula, potser volies dir:
+hBQV3dvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 229.000000 ns
+Temps després prefix 182.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 243.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJj' no és una paraula, potser volies dir:
+hHgRPejkJjrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 243.000000 ns
+Temps després prefix 193.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 241.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHyb' no és una paraula, potser volies dir:
+hBHybdwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 241.000000 ns
+Temps després prefix 184.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 228.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSi' no és una paraula, potser volies dir:
+haAjSisicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 228.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 261.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGaEvs' no és una paraula, potser volies dir:
+h4pkwL6secQGaEvslsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 261.000000 ns
+Temps després prefix 218.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 105.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 61 coincidències.'hB' no és una paraula, potser volies dir:
+hBbakjfoklmbnyawygjvarcennerqbwkllzumpvxihbaougbomroobydvvjfmjpqifuxsksevdvhmusuxnps
+hBbecrcxcheudmdpyrbnjjeuuhmzhpznmdxuirxnyuskvrfegwtmtpgithtijanvcnosiioxefetalpmrwuibbfsow
+hBbjajiowrgdafwtloibfxomcicsepssbduwedrzignlemoiffmiknejsprvyakodoxaoqcpeqbcbbucvaccyyf
+hBbjczlbvtykzxvemypgyolqfaocemgigbmmnwxhamxweycxaybgdzerqpequgczpoycizkdvlcxjlt
+hBbuairtwxvsfksjwgwqedtxbymqvgswvzpcvximnudhdfbrsdxxtdzljgjjtblmuknbyrsobskoy
+Temps fins prefix: 105.000000 ns
+Temps després prefix 1244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 263.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WI' no és una paraula, potser volies dir:
+hf12MQtOkb1WIqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 263.000000 ns
+Temps després prefix 191.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 258.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJam' no és una paraula, potser volies dir:
+hBHybd6wJzZJamwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 258.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 277.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hb52t2b3BvWen2sD' no és una paraula, potser volies dir:
+hb52t2b3BvWen2sDbvwensdcnvizqyopirumkhjofkqjaxaqbigqzipwtwxedlzlkjbxlyvasieqlccvxbstiynpvl
+Temps fins prefix: 277.000000 ns
+Temps després prefix 219.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 241.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQA' no és una paraula, potser volies dir:
+hyXYFOzLQAfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 241.000000 ns
+Temps després prefix 200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 219.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7ydPBdU' no és una paraula, potser volies dir:
+hBQV3dV16l7ydPBdUvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 219.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 118.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 73 coincidències.'ha' no és una paraula, potser volies dir:
+haaawforiowulnkfrehcphbezdxjlzxjagwdwdoytxjzuvacvxfjwlmevyarvsdbjimjntnrjzwjyusaslceoctbp
+haajsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+haawsaizhgznmrsfonzflegbsnefunibjrwhotgwytyyywwveaziexapkeiavuvlgrqdwrkavbopxuszidwjy
+habdmoixflrzlgozwyjnzulddhxqqpzrpdlqzzqaffaegdevqanyfdyelqmuztixfnncjpsnrfvswosrgr
+habgehijimuzeexfumusbtmjokuuwboxciqmxuvqnuwkurspwslczumzkyloyvqqdxyrlvkykpqxzyffxehod
+Temps fins prefix: 118.000000 ns
+Temps després prefix 1221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 124.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 89 coincidències.'hm' no és una paraula, potser volies dir:
+hmaajkqjsqbpjabkwjcdekvbibgmnmwisivzvcbrvgmruwadzvqauvymwdtjbyuuhtvdtqodzcdqjpbuppyol
+hmahvgyudwfgchwrwacuglaghhngyylhbozwrqvgsqejgfolwozfphiotffcwmqycpjmmcynwhedxfchxppk
+hmaviqlvucpugdcjqvvnohlcnbwjwqmnnjfjhctmnsahttbwkvwflkwgweevrcprgyejrlgfbjaitefujuzoz
+hmaxrjccgjabieiqysrjdhfmnedfeutqoaumkzewcqssobhucdyomfgygzdfajytmxofngtjabvhrcgwvtac
+hmbldookghgutascnyutxyrcnwgnpaxzdgjrlpayclkfdffneaoessubzsdsyvgbpcpiqhgnmrtckwqgcygtumxf
+Temps fins prefix: 124.000000 ns
+Temps després prefix 1277.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 295.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8' no és una paraula, potser volies dir:
+hm2wvxS8spagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 295.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 260.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2' no és una paraula, potser volies dir:
+haAjSiCQFPP2sicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 260.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 272.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8' no és una paraula, potser volies dir:
+hCWsIB5Kal8ibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 272.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 310.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1p' no és una paraula, potser volies dir:
+h9RrI1pipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 310.000000 ns
+Temps després prefix 180.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 281.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50xxFry4D' no és una paraula, potser volies dir:
+h9RrI1pTHrj50xxFry4Dipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 281.000000 ns
+Temps després prefix 200.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhT' no és una paraula, potser volies dir:
+hoc7f2JPlhTjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 238.000000 ns
+Temps després prefix 212.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 209.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRP' no és una paraula, potser volies dir:
+hHgRPrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 209.000000 ns
+Temps després prefix 183.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 452.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2ZYyvbZQ' no és una paraula, potser volies dir:
+haAjSiCQFPP2ZYyvbZQsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 452.000000 ns
+Temps després prefix 223.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 260.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQ' no és una paraula, potser volies dir:
+h4pkwL6secQlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 260.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQ' no és una paraula, potser volies dir:
+hf12MQqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 270.000000 ns
+Temps després prefix 178.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 274.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0OfQc0CM4Rev54' no és una paraula, potser volies dir:
+hVc0V0OfQc0CM4Rev54ofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 274.000000 ns
+Temps després prefix 213.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 221.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKH' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 221.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1' no és una paraula, potser volies dir:
+h9RrI1ipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 270.000000 ns
+Temps després prefix 179.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 249.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTH' no és una paraula, potser volies dir:
+h9RrI1pTHipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 249.000000 ns
+Temps després prefix 185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 228.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtL' no és una paraula, potser volies dir:
+hEtLlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 228.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 153.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.'hoc7' no és una paraula, potser volies dir:
+hoc7bngjeawypzfcsxhpfrzwvzpdzcqjuwotoxczooliwxtpvhdzkryptcpdkbvmnfobrnexigyiabwiefhxzajcus
+hoc7fjplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+hoc7kcxuepylfgpokxccyabaxgzogvooqfgtfgwhyhlxwcjbpxvrikzfrfwkkikykibdnbqieifbgsdtoebhkxg
+hoc7ttvcwleqdfmsnlvgscravxgvwbydtdgledcveccagaohhychvxmsbrvefzjufpgeebqhjcrzjnogjmkcoq
+Temps fins prefix: 153.000000 ns
+Temps després prefix 829.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 193.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l' no és una paraula, potser volies dir:
+hBQV3dV16lvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 193.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 263.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJ' no és una paraula, potser volies dir:
+hBHybd6wJzZJwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 263.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 448.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8KdzGElBaN' no és una paraula, potser volies dir:
+hCWsIB5Kal8KdzGElBaNibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 448.000000 ns
+Temps després prefix 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 268.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJam0W' no és una paraula, potser volies dir:
+hBHybd6wJzZJam0Wwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 268.000000 ns
+Temps després prefix 231.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 226.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0' no és una paraula, potser volies dir:
+BZ4gDsn0dsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 226.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 305.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hm2wvxS8pAgqOyZgO' no és una paraula, potser volies dir:
+hm2wvxS8pAgqOyZgOspagqoyzgovbyqomqumkewjirprupumojxjitnxongpngivfypaykfhviwtfjubijsmsqdfmelf
+Temps fins prefix: 305.000000 ns
+Temps després prefix 220.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 255.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2' no és una paraula, potser volies dir:
+hoc7f2jplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 255.000000 ns
+Temps després prefix 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGaEvse' no és una paraula, potser volies dir:
+h4pkwL6secQGaEvselsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 257.000000 ns
+Temps després prefix 219.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 225.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJja' no és una paraula, potser volies dir:
+hHgRPejkJjarpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 225.000000 ns
+Temps després prefix 190.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 379.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2ZYyvbZ' no és una paraula, potser volies dir:
+haAjSiCQFPP2ZYyvbZsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 379.000000 ns
+Temps després prefix 225.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gD' no és una paraula, potser volies dir:
+BZ4gDdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 232.000000 ns
+Temps després prefix 182.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0O' no és una paraula, potser volies dir:
+hVc0V0Ovofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 276.000000 ns
+Temps després prefix 185.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 279.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h9RrI1pTHrj50x' no és una paraula, potser volies dir:
+h9RrI1pTHrj50xipthrjxxfrydjpkdeeyllvpkjtekoutohdtoeeajddeifauptqhazakxekxxgkeynwpbfwlc
+Temps fins prefix: 279.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 211.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16' no és una paraula, potser volies dir:
+hBQV3dV16vdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 211.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 264.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2ZY' no és una paraula, potser volies dir:
+haAjSiCQFPP2ZYsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 264.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 350.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5JkUCNHIz' no és una paraula, potser volies dir:
+hEtLEN84qe5JkUCNHIzlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 350.000000 ns
+Temps després prefix 201.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 235.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WIU' no és una paraula, potser volies dir:
+hf12MQtOkb1WIUqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 235.000000 ns
+Temps després prefix 186.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 343.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejkJjaEoa9iKz' no és una paraula, potser volies dir:
+hHgRPejkJjaEoa9iKzrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 343.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 453.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2ZYyvbZQr' no és una paraula, potser volies dir:
+haAjSiCQFPP2ZYyvbZQrsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 453.000000 ns
+Temps després prefix 215.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 278.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXY' no és una paraula, potser volies dir:
+hyXYfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 278.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 265.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hCWsIB5Kal8K' no és una paraula, potser volies dir:
+hCWsIB5Kal8Kibkalkdzgelbanwbxowoaovshfyngscbvzifddlljddnmmngdgflybnbuttbpjihuamzmikwusdpsva
+Temps fins prefix: 265.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 432.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6secQGaEvseYBx' no és una paraula, potser volies dir:
+h4pkwL6secQGaEvseYBxlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 432.000000 ns
+Temps després prefix 216.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 262.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V0Of' no és una paraula, potser volies dir:
+hVc0V0Ofvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 262.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 228.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYF' no és una paraula, potser volies dir:
+hyXYFfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 228.000000 ns
+Temps després prefix 195.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 274.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6nTHR' no és una paraula, potser volies dir:
+BZ4gDsn0pp6nTHRdsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 274.000000 ns
+Temps després prefix 188.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 237.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGafI1i' no és una paraula, potser volies dir:
+hyXYFOzLQAGafI1ifozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 237.000000 ns
+Temps després prefix 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 214.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'h4pkwL6se' no és una paraula, potser volies dir:
+h4pkwL6selsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+Temps fins prefix: 214.000000 ns
+Temps després prefix 199.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 98.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 63 coincidències.'hf' no és una paraula, potser volies dir:
+hfavfzdmpyugrxomriguoibimrabqqpaedpcwxgblmbkycdodfvvjgsokcrjtpgayyvmlnmylvqndkhrctllsxaevi
+hfbgyfgfbqonvothevtumpqktnegoavdkwstpfxfjskgsjgddouvzbxftvdvgrxxbnjzgjbvzdcbteehp
+hfbiskqorhmceotlqmrksdfieiojmudputgwussbgvnfkzcvmnlmqmnfxbigxpfdrsceijmszdetlrueytxwm
+hfbjxogyylxnrqkzotwfqavgybjrygduibeymwchzupsnwaaipbiodqzixxnukfmhcrhpwzjmexrpaohqhhloc
+hfbnsmidicdgxhexdsyrjtowvvqpcosohqbkqhoakhqysruppnbcbcycglstganbhplzttilmmunkuq
+Temps fins prefix: 98.000000 ns
+Temps després prefix 1232.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 201.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hHgRPejk' no és una paraula, potser volies dir:
+hHgRPejkrpejkjjaeoaikzpbffwydphuwwlyofubgcixnclmcdxwrsjuojznnaqqdbpwnezojttupsttcphcjegkjmxjzup
+Temps fins prefix: 201.000000 ns
+Temps després prefix 191.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 342.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2ZYyvb' no és una paraula, potser volies dir:
+haAjSiCQFPP2ZYyvbsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 342.000000 ns
+Temps després prefix 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 166.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 6 coincidències.'hyX' no és una paraula, potser volies dir:
+hyXbpplztdsmgomzxqueoqfegzmhbocrwaqgxxllyelicqylguvkxcbhmlflxwyloecczeqoganhpzccpr
+hyXbrmnqwrocdigondkdmkpisdqversloyfiljtqtsyrqugjbhmgiagcoilpjownalpsrfiughx
+hyXdblwvddbjcnhxbehugfisiwetsfjndmakngsdglbsagmhawixdluxwbwuszqocnydexhelosntuan
+hyXtghqovjyrnghgtbwitbzwzzyeajdiocttfkejqduggvgxogstwcipvuhcpqywjbjkqwucnprbbteauhbolyj
+hyXuemwiuwlkstalttvfdokijvywoqdxnsgnqkztqkgpmfhiyzozpwpiyvcxbswcvjkbpzkkmghcopcpavwpdu
+Temps fins prefix: 166.000000 ns
+Temps després prefix 1470.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 243.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'BZ4gDsn0pp6n' no és una paraula, potser volies dir:
+BZ4gDsn0pp6ndsnppnthrlowlnbtqkskvgewgympwceuqopkbowllimqtykbsyftwpnmbrqzvfrtjeqpxxiwicacyzpwy
+Temps fins prefix: 243.000000 ns
+Temps després prefix 192.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WIUaY4dO' no és una paraula, potser volies dir:
+hf12MQtOkb1WIUaY4dOqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 270.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 216.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV' no és una paraula, potser volies dir:
+hBQVvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 216.000000 ns
+Temps després prefix 196.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 246.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtOkb1WIUaY4' no és una paraula, potser volies dir:
+hf12MQtOkb1WIUaY4qtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 246.000000 ns
+Temps després prefix 204.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 218.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hYPKQS' no és una paraula, potser volies dir:
+hYPKQSkqshtlhooteuhdeqxlhiunxcpyutgerspvnpshdcjmnmvavmrhbzirgwhitigmcpsddvxhljpwqfrf
+Temps fins prefix: 218.000000 ns
+Temps després prefix 175.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 192.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.'h4pk' no és una paraula, potser volies dir:
+h4pkioedejifigyvgbxksbovpfzquhvmzvayqsuyncssgbecisbtjapdamsvrrngbtjobrmdqbbopdnzyku
+h4pkisgoxzmwtrhutsywgvjjnjvbhocujgyzkggdhbxahanykihzftogotardiuigerklnbpmmvutvnmhgq
+h4pkwlsecqgaevseybxcgvlajgjcgovhaoodsjfswjsajgfdwwzhekkdndfcmikeymkauhrvynjqvdqxwauv
+h4pkzgfpnbtsnsnnktnlckglnarqludqmvgtwrffsdwwfomlpxnuwoddvibindajbjtnmsdvrrzqmdppduugrbpaei
+Temps fins prefix: 192.000000 ns
+Temps després prefix 1022.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 218.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOzLQAGaf' no és una paraula, potser volies dir:
+hyXYFOzLQAGaffozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 218.000000 ns
+Temps després prefix 197.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 283.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hBQV3dV16l7ydPBdUq' no és una paraula, potser volies dir:
+hBQV3dV16l7ydPBdUqvdvlydpbduqdaychmdbktiiigmsspfcnwrdsestcfjklnmatewqyrzavxqdxilqwmacrqlberyxjxlqau
+Temps fins prefix: 283.000000 ns
+Temps després prefix 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 264.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hf12MQtO' no és una paraula, potser volies dir:
+hf12MQtOqtokbwiuaydolfsdpeeorunxuiunpqcrxcxwzijddcahjqdgovycbwelwehzamguapyvkiqoissr
+Temps fins prefix: 264.000000 ns
+Temps després prefix 183.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 246.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6w' no és una paraula, potser volies dir:
+hBHybd6wwjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 246.000000 ns
+Temps després prefix 203.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 242.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hVc0V' no és una paraula, potser volies dir:
+hVc0Vvofqccmrevkeqnatmitcrgwpqdrcwdpowhksouaktinomzmkpeoseechozxqsikldhxzrhpx
+Temps fins prefix: 242.000000 ns
+Temps després prefix 179.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 386.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'hBHybd6wJzZJam0WHN6' no és una paraula, potser volies dir:
+hBHybd6wJzZJam0WHN6wjzzjamwhndrvitfwtxkolpyeowqemdbyoboqatqonmccpnmuworttesftgdcfygpawmrhhasapbvybq
+Temps fins prefix: 386.000000 ns
+Temps després prefix 232.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 222.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hyXYFOz' no és una paraula, potser volies dir:
+hyXYFOzfozlqagafiiyyyxnjkuistcqphqtquksxhfqrsabguupyjibsaangollfjuaumlyxtdpfdxmwipmuszptmk
+Temps fins prefix: 222.000000 ns
+Temps després prefix 209.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 251.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'haAjSiCQFPP2Z' no és una paraula, potser volies dir:
+haAjSiCQFPP2Zsicqfppzyyvbzqrevdruauehmgckllptrrjyjrelzxdoikseslsiavcxthsdmpuageyjjmqiosvlmhanxhtjboj
+Temps fins prefix: 251.000000 ns
+Temps després prefix 195.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 316.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hoc7f2JPlhTKHHOl36o' no és una paraula, potser volies dir:
+hoc7f2JPlhTKHHOl36ojplhtkhholohryyhtmcfspoywfspvuyrlervhdldwqeylyiwudtuluxwmoobtsbrgopdtjritunapdywlq
+Temps fins prefix: 316.000000 ns
+Temps després prefix 219.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 231.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.'hEtLEN84qe5JkU' no és una paraula, potser volies dir:
+hEtLEN84qe5JkUlenqejkucnhizfzsqlyunjhmcfuatieibuubeixsafluexabxbnakvxamdaptnlucijlahpkzfslgiwajmpg
+Temps fins prefix: 231.000000 ns
+Temps després prefix 181.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+
+Nodes visitats de mitjana per operació: 4.863333
+===========Cas 1 o 2==========
+Latència mitjana per operació: 332.870000
+Profunditat (d) mitjana per operació: 4.863333
+============Cas 3=============
+Latència mitjana després del prefix: 391.520000
+Nodes de mitjana després del prefix: 0.863333
