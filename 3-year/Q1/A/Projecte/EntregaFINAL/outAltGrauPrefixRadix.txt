@@ -1,0 +1,2422 @@
+0: Exit
+1: Rway
+2: Radix
+Escull model Trie: 
+--RadixTrie--
+1: alice_in_wonderland.txt
+2: alpha_words.txt (alfabet gran)
+3: moby_dick.txt
+4: enwiki-latest-all-titles-in-ns0
+5: chimpanze-DNA.txt
+6: prova.txt
+7: altGrauPre.txt
+8: altGrauPre5mb.txt
+9: baixGrauPre.txt
+10: baixGrauPre5mb.txt
+11: DNA.txt (alfabet petit)
+12: DNA5mb.txt (alfabet petit)
+Escull un número: Arxiu CARGAT
+
+RadixTrie amb 254525 nodes
+Cada node ocupa 168 bytes
+Amb profunditat màxima: 9 d
+Tot el RadixTrie ocupa en disc 42760200.000000 bytes, 42760.200000 kB, 42.760200 MB
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 31180.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://xwfwwufeb.io/g08fhpx6' no és una paraula, potser volies dir:
+https://xwfwwufeb.io/g08fhpx6ufebiogfhpx
+Temps per l'autocompletat: 1124.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1262.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://hpzpsckor.net/tdnc3wnq' no és una paraula, potser volies dir:
+http://hpzpsckor.net/tdnc3wnqnettdncwnq
+Temps per l'autocompletat: 490.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1310.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://pqsydsjadc.net/ky6061yg' no és una paraula, potser volies dir:
+http://pqsydsjadc.net/ky6061ygdsjadcnetkyyg
+Temps per l'autocompletat: 433.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1023.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://nnmodudv.org/jh1g6ado' no és una paraula, potser volies dir:
+http://nnmodudv.org/jh1g6adodudvorgjhgado
+Temps per l'autocompletat: 290.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1153.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://bzjer.com/d3c71zyd' no és una paraula, potser volies dir:
+http://bzjer.com/d3c71zydcomdczyd
+Temps per l'autocompletat: 305.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 889.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://fvhuor.org/550biliw' no és una paraula, potser volies dir:
+http://fvhuor.org/550biliworgbiliw
+Temps per l'autocompletat: 242.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 929.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://lhvqhibgbx.io/kej1q5l7' no és una paraula, potser volies dir:
+http://lhvqhibgbx.io/kej1q5l7iokejql
+Temps per l'autocompletat: 343.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 862.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://mighsxxdn.xyz/um2jtwa2' no és una paraula, potser volies dir:
+https://mighsxxdn.xyz/um2jtwa2xyzumjtwa
+Temps per l'autocompletat: 304.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 654.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://zvpzevjr.dev/q4wqeicx' no és una paraula, potser volies dir:
+http://zvpzevjr.dev/q4wqeicxdevqwqeicx
+Temps per l'autocompletat: 264.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 630.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://jghggz.io/iqsoahda' no és una paraula, potser volies dir:
+http://jghggz.io/iqsoahdaioiqsoahda
+Temps per l'autocompletat: 251.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1073.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://fnwghd.io/kn4d9xtt' no és una paraula, potser volies dir:
+https://fnwghd.io/kn4d9xttiokndxtt
+Temps per l'autocompletat: 273.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1225.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://xyvfqlzsb.xyz/l1kxunus' no és una paraula, potser volies dir:
+https://xyvfqlzsb.xyz/l1kxunusxyzlkxunus
+Temps per l'autocompletat: 278.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 752.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ynzqf.dev/h02t36ki' no és una paraula, potser volies dir:
+https://ynzqf.dev/h02t36kidevhtki
+Temps per l'autocompletat: 243.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 846.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://opzcxe.org/uy95jll1' no és una paraula, potser volies dir:
+http://opzcxe.org/uy95jll1orguyjll
+Temps per l'autocompletat: 214.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1918.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://tdztdshitg.com/806484sq' no és una paraula, potser volies dir:
+https://tdztdshitg.com/806484sqcomsq
+Temps per l'autocompletat: 261.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 707.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://kbaxdohjrs.net/6zy5lu0r' no és una paraula, potser volies dir:
+http://kbaxdohjrs.net/6zy5lu0rnetzylur
+Temps per l'autocompletat: 256.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 953.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://uoduxd.io/yzhczin9' no és una paraula, potser volies dir:
+https://uoduxd.io/yzhczin9ioyzhczin
+Temps per l'autocompletat: 242.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1089.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://hfgohmgat.dev/upbj97sf' no és una paraula, potser volies dir:
+http://hfgohmgat.dev/upbj97sfdevupbjsf
+Temps per l'autocompletat: 243.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 718.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://ntiavgyr.org/ochcd5bq' no és una paraula, potser volies dir:
+http://ntiavgyr.org/ochcd5bqorgochcdbq
+Temps per l'autocompletat: 276.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 921.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://cxzzlkl.com/9ogt1rtf' no és una paraula, potser volies dir:
+https://cxzzlkl.com/9ogt1rtflklcomogtrtf
+Temps per l'autocompletat: 250.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 874.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://gfydztyeo.xyz/zqtkd3v6' no és una paraula, potser volies dir:
+https://gfydztyeo.xyz/zqtkd3v6ztyeoxyzzqtkdv
+Temps per l'autocompletat: 249.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 11313.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://yqwukikwk.org/kcpxguf8' no és una paraula, potser volies dir:
+http://yqwukikwk.org/kcpxguf8kikwkorgkcpxguf
+Temps per l'autocompletat: 289.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 811.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://nvynuk.net/0x6w1qgs' no és una paraula, potser volies dir:
+https://nvynuk.net/0x6w1qgsuknetxwqgs
+Temps per l'autocompletat: 265.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 784.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://cmysjhpsq.net/mdq2jsnk' no és una paraula, potser volies dir:
+https://cmysjhpsq.net/mdq2jsnkjhpsqnetmdqjsnk
+Temps per l'autocompletat: 264.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1064.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://aohctxumf.net/ke1c2pic' no és una paraula, potser volies dir:
+https://aohctxumf.net/ke1c2picxumfnetkecpic
+Temps per l'autocompletat: 258.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1002.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://ppioqya.com/aro1dg3b' no és una paraula, potser volies dir:
+http://ppioqya.com/aro1dg3bqyacomarodgb
+Temps per l'autocompletat: 250.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 730.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://suhsylf.dev/kewlsqpi' no és una paraula, potser volies dir:
+http://suhsylf.dev/kewlsqpidevkewlsqpi
+Temps per l'autocompletat: 220.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 755.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://djurhqvkot.dev/9u9sp7wu' no és una paraula, potser volies dir:
+http://djurhqvkot.dev/9u9sp7wudevuspwu
+Temps per l'autocompletat: 247.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 838.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://hwycoo.org/b2tnyoam' no és una paraula, potser volies dir:
+http://hwycoo.org/b2tnyoamorgbtnyoam
+Temps per l'autocompletat: 227.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 849.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://fhaukqa.net/n0i230xc' no és una paraula, potser volies dir:
+http://fhaukqa.net/n0i230xcnetnixc
+Temps per l'autocompletat: 210.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 14110.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://honotbqqap.dev/elqxqfzm' no és una paraula, potser volies dir:
+http://honotbqqap.dev/elqxqfzmdevelqxqfzm
+Temps per l'autocompletat: 270.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 907.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://oqfedc.org/6cg2ink9' no és una paraula, potser volies dir:
+https://oqfedc.org/6cg2ink9orgcgink
+Temps per l'autocompletat: 233.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 817.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ellcaoaokx.xyz/49bysh99' no és una paraula, potser volies dir:
+https://ellcaoaokx.xyz/49bysh99xyzbysh
+Temps per l'autocompletat: 252.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 733.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://rdtzl.net/jgb8w50o' no és una paraula, potser volies dir:
+https://rdtzl.net/jgb8w50onetjgbwo
+Temps per l'autocompletat: 235.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 714.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://wbecq.org/7hh7eh9z' no és una paraula, potser volies dir:
+https://wbecq.org/7hh7eh9zorghhehz
+Temps per l'autocompletat: 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 817.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://uvsnvnx.net/w0wzm3b9' no és una paraula, potser volies dir:
+http://uvsnvnx.net/w0wzm3b9netwwzmb
+Temps per l'autocompletat: 215.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 634.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://cjkvv.org/i7bjursk' no és una paraula, potser volies dir:
+https://cjkvv.org/i7bjurskorgibjursk
+Temps per l'autocompletat: 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 743.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://zoywxuqai.com/wie0ix6t' no és una paraula, potser volies dir:
+http://zoywxuqai.com/wie0ix6tuqaicomwieixt
+Temps per l'autocompletat: 264.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 10837.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://sbkkilpdo.org/k6et4rlr' no és una paraula, potser volies dir:
+https://sbkkilpdo.org/k6et4rlrilpdoorgketrlr
+Temps per l'autocompletat: 257.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 771.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://varjl.org/mvamgu2q' no és una paraula, potser volies dir:
+http://varjl.org/mvamgu2qorgmvamguq
+Temps per l'autocompletat: 239.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 837.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://iiecpdfxip.dev/mpy9ls0u' no és una paraula, potser volies dir:
+http://iiecpdfxip.dev/mpy9ls0udevmpylsu
+Temps per l'autocompletat: 249.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 732.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://bitjgwl.dev/dbhpb1j8' no és una paraula, potser volies dir:
+http://bitjgwl.dev/dbhpb1j8devdbhpbj
+Temps per l'autocompletat: 225.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 594.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://hvfgv.com/b99mp8nr' no és una paraula, potser volies dir:
+https://hvfgv.com/b99mp8nrcombmpnr
+Temps per l'autocompletat: 214.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 659.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://kxyrkev.dev/bkxk87th' no és una paraula, potser volies dir:
+https://kxyrkev.dev/bkxk87thdevbkxkth
+Temps per l'autocompletat: 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 778.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://dgwjdwhz.com/b55yy3a2' no és una paraula, potser volies dir:
+https://dgwjdwhz.com/b55yy3a2combyya
+Temps per l'autocompletat: 270.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 818.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://qrxhp.org/9x4ho7w0' no és una paraula, potser volies dir:
+http://qrxhp.org/9x4ho7w0porgxhow
+Temps per l'autocompletat: 245.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 865.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://gjawgpq.com/4rthq6v4' no és una paraula, potser volies dir:
+https://gjawgpq.com/4rthq6v4comrthqv
+Temps per l'autocompletat: 220.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 835.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://fjcgdmnbz.xyz/ihdqe2fg' no és una paraula, potser volies dir:
+http://fjcgdmnbz.xyz/ihdqe2fgdmnbzxyzihdqefg
+Temps per l'autocompletat: 267.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 6066.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ziphkjvrz.xyz/l97x9hd4' no és una paraula, potser volies dir:
+https://ziphkjvrz.xyz/l97x9hd4kjvrzxyzlxhd
+Temps per l'autocompletat: 239.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 982.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://mjgzomalsl.xyz/pt5e3wg7' no és una paraula, potser volies dir:
+https://mjgzomalsl.xyz/pt5e3wg7xyzptewg
+Temps per l'autocompletat: 246.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 741.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://trfetlm.xyz/350epscz' no és una paraula, potser volies dir:
+https://trfetlm.xyz/350epscztlmxyzepscz
+Temps per l'autocompletat: 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 840.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://cdbzmz.com/g1zh3b9a' no és una paraula, potser volies dir:
+http://cdbzmz.com/g1zh3b9amzcomgzhba
+Temps per l'autocompletat: 228.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 831.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ytmzafo.dev/3kr0xurv' no és una paraula, potser volies dir:
+https://ytmzafo.dev/3kr0xurvdevkrxurv
+Temps per l'autocompletat: 198.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 840.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://dkogsqits.net/68tb6aj3' no és una paraula, potser volies dir:
+https://dkogsqits.net/68tb6aj3nettbaj
+Temps per l'autocompletat: 217.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 13915.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://gxhryblcmx.net/udwoz4up' no és una paraula, potser volies dir:
+http://gxhryblcmx.net/udwoz4upnetudwozup
+Temps per l'autocompletat: 256.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 756.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://czxyvygvw.com/e3h8nce1' no és una paraula, potser volies dir:
+https://czxyvygvw.com/e3h8nce1comehnce
+Temps per l'autocompletat: 206.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 857.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://fbzhdo.xyz/mwofeoen' no és una paraula, potser volies dir:
+http://fbzhdo.xyz/mwofeoenxyzmwofeoen
+Temps per l'autocompletat: 213.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 752.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://haxjy.com/ml6f3fz1' no és una paraula, potser volies dir:
+http://haxjy.com/ml6f3fz1commlffz
+Temps per l'autocompletat: 237.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 760.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://mrmvhgrl.io/6bz2fz8y' no és una paraula, potser volies dir:
+http://mrmvhgrl.io/6bz2fz8yiobzfzy
+Temps per l'autocompletat: 242.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1038.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://aestdnt.com/bwpbqzo4' no és una paraula, potser volies dir:
+http://aestdnt.com/bwpbqzo4combwpbqzo
+Temps per l'autocompletat: 243.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 996.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://chtkcgmojy.com/juv4b1zm' no és una paraula, potser volies dir:
+http://chtkcgmojy.com/juv4b1zmcomjuvbzm
+Temps per l'autocompletat: 245.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 942.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://eivalbotv.io/01c8yxby' no és una paraula, potser volies dir:
+https://eivalbotv.io/01c8yxbyiocyxby
+Temps per l'autocompletat: 239.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 600.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://jqtzhxhh.xyz/6c9cp50r' no és una paraula, potser volies dir:
+https://jqtzhxhh.xyz/6c9cp50rhxhhxyzccpr
+Temps per l'autocompletat: 240.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1063.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://bcbwoihedi.io/trdztcfz' no és una paraula, potser volies dir:
+http://bcbwoihedi.io/trdztcfziotrdztcfz
+Temps per l'autocompletat: 222.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 14187.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://dnksukwo.com/ffqqdtd7' no és una paraula, potser volies dir:
+http://dnksukwo.com/ffqqdtd7comffqqdtd
+Temps per l'autocompletat: 232.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 750.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://vrvuzsfjz.io/221q00zw' no és una paraula, potser volies dir:
+https://vrvuzsfjz.io/221q00zwioqzw
+Temps per l'autocompletat: 215.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 958.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://yrtvqnuct.io/a5zopwrx' no és una paraula, potser volies dir:
+https://yrtvqnuct.io/a5zopwrxioazopwrx
+Temps per l'autocompletat: 234.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 874.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://gonstiy.xyz/xbfjz9mu' no és una paraula, potser volies dir:
+http://gonstiy.xyz/xbfjz9muxyzxbfjzmu
+Temps per l'autocompletat: 252.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2692.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://lagwyapnr.net/5d88df9j' no és una paraula, potser volies dir:
+http://lagwyapnr.net/5d88df9jnetddfj
+Temps per l'autocompletat: 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 912.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://cbbyhhoe.net/e2zlvvde' no és una paraula, potser volies dir:
+https://cbbyhhoe.net/e2zlvvdenetezlvvde
+Temps per l'autocompletat: 230.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 924.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://erdzsdxz.org/6b2nz61k' no és una paraula, potser volies dir:
+https://erdzsdxz.org/6b2nz61ksdxzorgbnzk
+Temps per l'autocompletat: 224.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 728.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://qotnr.xyz/fc8ucrd7' no és una paraula, potser volies dir:
+http://qotnr.xyz/fc8ucrd7xyzfcucrd
+Temps per l'autocompletat: 212.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 7063.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://mwupda.net/dhzfytfj' no és una paraula, potser volies dir:
+http://mwupda.net/dhzfytfjnetdhzfytfj
+Temps per l'autocompletat: 261.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 817.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://alqdolxc.net/zeopivnn' no és una paraula, potser volies dir:
+http://alqdolxc.net/zeopivnnnetzeopivnn
+Temps per l'autocompletat: 257.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 776.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://qlswan.io/mr9gta05' no és una paraula, potser volies dir:
+http://qlswan.io/mr9gta05iomrgta
+Temps per l'autocompletat: 233.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 557.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://gmrebvu.xyz/vu2jnu10' no és una paraula, potser volies dir:
+http://gmrebvu.xyz/vu2jnu10xyzvujnu
+Temps per l'autocompletat: 214.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 890.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://phqek.com/y9k8t7xu' no és una paraula, potser volies dir:
+https://phqek.com/y9k8t7xucomyktxu
+Temps per l'autocompletat: 213.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1020.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://doscbcn.dev/sor8f9zw' no és una paraula, potser volies dir:
+http://doscbcn.dev/sor8f9zwdevsorfzw
+Temps per l'autocompletat: 203.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 811.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://whepauzor.org/j3xmgc8l' no és una paraula, potser volies dir:
+https://whepauzor.org/j3xmgc8lorgjxmgcl
+Temps per l'autocompletat: 254.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 12780.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://qjwec.org/vxzfchi9' no és una paraula, potser volies dir:
+https://qjwec.org/vxzfchi9orgvxzfchi
+Temps per l'autocompletat: 225.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 673.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://fpuygaeeri.net/w3g2h222' no és una paraula, potser volies dir:
+http://fpuygaeeri.net/w3g2h222netwgh
+Temps per l'autocompletat: 226.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 621.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ktwkra.dev/l020x5ky' no és una paraula, potser volies dir:
+https://ktwkra.dev/l020x5kyradevlxky
+Temps per l'autocompletat: 254.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 842.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://lsnlyjuhp.net/0rjtl65h' no és una paraula, potser volies dir:
+http://lsnlyjuhp.net/0rjtl65hyjuhpnetrjtlh
+Temps per l'autocompletat: 259.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 929.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://irdkmylwo.com/t76blrqk' no és una paraula, potser volies dir:
+http://irdkmylwo.com/t76blrqkmylwocomtblrqk
+Temps per l'autocompletat: 256.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 574.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://roynoid.org/7ex8dg2s' no és una paraula, potser volies dir:
+http://roynoid.org/7ex8dg2sorgexdgs
+Temps per l'autocompletat: 214.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 890.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://xootgkswe.org/kj2ex975' no és una paraula, potser volies dir:
+https://xootgkswe.org/kj2ex975orgkjex
+Temps per l'autocompletat: 243.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 770.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://pafhi.net/o9idd3il' no és una paraula, potser volies dir:
+http://pafhi.net/o9idd3ilnetoiddil
+Temps per l'autocompletat: 236.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1018.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://tauoziwhi.org/bhto6ugo' no és una paraula, potser volies dir:
+http://tauoziwhi.org/bhto6ugoziwhiorgbhtougo
+Temps per l'autocompletat: 277.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 989.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://kcsxwznpn.org/f9egob8p' no és una paraula, potser volies dir:
+https://kcsxwznpn.org/f9egob8porgfegobp
+Temps per l'autocompletat: 248.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 3902.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://brwlobzblx.io/a6ufpec5' no és una paraula, potser volies dir:
+https://brwlobzblx.io/a6ufpec5ioaufpec
+Temps per l'autocompletat: 218.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 894.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://jxaorkfapr.dev/dge4jvb9' no és una paraula, potser volies dir:
+https://jxaorkfapr.dev/dge4jvb9devdgejvb
+Temps per l'autocompletat: 249.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 7344.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://pvktsmdvx.net/fgvp7phg' no és una paraula, potser volies dir:
+https://pvktsmdvx.net/fgvp7phgsmdvxnetfgvpphg
+Temps per l'autocompletat: 284.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 642.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://chbbbhz.dev/9itwjjbp' no és una paraula, potser volies dir:
+http://chbbbhz.dev/9itwjjbpbhzdevitwjjbp
+Temps per l'autocompletat: 243.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 765.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://ocqvlzq.net/2kxmscky' no és una paraula, potser volies dir:
+http://ocqvlzq.net/2kxmsckynetkxmscky
+Temps per l'autocompletat: 229.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 887.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://ygfbh.dev/dms2mf8n' no és una paraula, potser volies dir:
+http://ygfbh.dev/dms2mf8ndevdmsmfn
+Temps per l'autocompletat: 217.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 708.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://tfkexdskdy.net/coddgqmj' no és una paraula, potser volies dir:
+https://tfkexdskdy.net/coddgqmjxdskdynetcoddgqmj
+Temps per l'autocompletat: 388.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 596.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://ljkdz.xyz/oogtisti' no és una paraula, potser volies dir:
+http://ljkdz.xyz/oogtistixyzoogtisti
+Temps per l'autocompletat: 214.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 736.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://ehbyh.net/l2y9pb3q' no és una paraula, potser volies dir:
+http://ehbyh.net/l2y9pb3qhnetlypbq
+Temps per l'autocompletat: 226.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 767.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://qvvynabu.io/6ruif82b' no és una paraula, potser volies dir:
+https://qvvynabu.io/6ruif82bioruifb
+Temps per l'autocompletat: 219.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 3375.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://gpggvqraxt.org/4y4jnxot' no és una paraula, potser volies dir:
+http://gpggvqraxt.org/4y4jnxotorgyjnxot
+Temps per l'autocompletat: 213.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1099.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://wnmxokx.com/yrwz5t5o' no és una paraula, potser volies dir:
+http://wnmxokx.com/yrwz5t5okxcomyrwzto
+Temps per l'autocompletat: 262.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 7536.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://bqoupws.net/i7dut6o0' no és una paraula, potser volies dir:
+http://bqoupws.net/i7dut6o0pwsnetiduto
+Temps per l'autocompletat: 250.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 731.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://wmxdsa.org/3sdm0elv' no és una paraula, potser volies dir:
+http://wmxdsa.org/3sdm0elvsaorgsdmelv
+Temps per l'autocompletat: 230.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 814.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ebdddu.dev/14omzngu' no és una paraula, potser volies dir:
+https://ebdddu.dev/14omzngududevomzngu
+Temps per l'autocompletat: 233.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1041.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://dtdkqhxzai.com/d0lqq6mv' no és una paraula, potser volies dir:
+https://dtdkqhxzai.com/d0lqq6mvcomdlqqmv
+Temps per l'autocompletat: 258.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 883.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://jtvxwikgi.xyz/iradpize' no és una paraula, potser volies dir:
+http://jtvxwikgi.xyz/iradpizewikgixyziradpize
+Temps per l'autocompletat: 314.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1040.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ipkuemeaj.io/ubk4a0wr' no és una paraula, potser volies dir:
+https://ipkuemeaj.io/ubk4a0wremeajioubkawr
+Temps per l'autocompletat: 239.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 769.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://cnvzisv.dev/8wjddmbm' no és una paraula, potser volies dir:
+https://cnvzisv.dev/8wjddmbmdevwjddmbm
+Temps per l'autocompletat: 228.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 605.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://svwygkubhr.xyz/825gorch' no és una paraula, potser volies dir:
+http://svwygkubhr.xyz/825gorchgkubhrxyzgorch
+Temps per l'autocompletat: 252.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 843.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://pqztkcefd.org/bld1lw24' no és una paraula, potser volies dir:
+https://pqztkcefd.org/bld1lw24orgbldlw
+Temps per l'autocompletat: 229.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 974.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://iyuxqubhku.com/wjv46aop' no és una paraula, potser volies dir:
+http://iyuxqubhku.com/wjv46aopcomwjvaop
+Temps per l'autocompletat: 219.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 736.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://euvgibmci.org/4sb4eibg' no és una paraula, potser volies dir:
+https://euvgibmci.org/4sb4eibgibmciorgsbeibg
+Temps per l'autocompletat: 258.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 864.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://lvuoznlag.net/plhqwf7h' no és una paraula, potser volies dir:
+http://lvuoznlag.net/plhqwf7hnetplhqwfh
+Temps per l'autocompletat: 268.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 916.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://dvxmzcfw.io/i0sdtkpk' no és una paraula, potser volies dir:
+https://dvxmzcfw.io/i0sdtkpkioisdtkpk
+Temps per l'autocompletat: 230.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1052.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://ycalconqfb.xyz/ga61x2ho' no és una paraula, potser volies dir:
+https://ycalconqfb.xyz/ga61x2hoxyzgaxho
+Temps per l'autocompletat: 240.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 911.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://mezextf.net/85m5w3r0' no és una paraula, potser volies dir:
+http://mezextf.net/85m5w3r0xtfnetmwr
+Temps per l'autocompletat: 268.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1044.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://ofxrmyuv.io/q8x74nzk' no és una paraula, potser volies dir:
+https://ofxrmyuv.io/q8x74nzkioqxnzk
+Temps per l'autocompletat: 230.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 674.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://xzogys.com/se1qyvlu' no és una paraula, potser volies dir:
+https://xzogys.com/se1qyvlucomseqyvlu
+Temps per l'autocompletat: 238.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1135.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://uuvunclx.xyz/79kv0bbj' no és una paraula, potser volies dir:
+https://uuvunclx.xyz/79kv0bbjxyzkvbbj
+Temps per l'autocompletat: 235.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 857.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://qsoncawa.net/b4qqxxcm' no és una paraula, potser volies dir:
+http://qsoncawa.net/b4qqxxcmawanetbqqxxcm
+Temps per l'autocompletat: 240.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 883.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://mrsjnj.io/z06fu9d0' no és una paraula, potser volies dir:
+https://mrsjnj.io/z06fu9d0iozfud
+Temps per l'autocompletat: 265.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 801.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://odmedgg.dev/f0v5i5co' no és una paraula, potser volies dir:
+http://odmedgg.dev/f0v5i5codggdevfvico
+Temps per l'autocompletat: 227.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 878.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://xulqmwpgkt.org/ix1atf97' no és una paraula, potser volies dir:
+https://xulqmwpgkt.org/ix1atf97orgixatf
+Temps per l'autocompletat: 268.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 936.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://cbafzbcauf.io/52704t66' no és una paraula, potser volies dir:
+http://cbafzbcauf.io/52704t66iot
+Temps per l'autocompletat: 306.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1009.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://butymtxtho.com/j4e1d9cu' no és una paraula, potser volies dir:
+http://butymtxtho.com/j4e1d9cucomjedcu
+Temps per l'autocompletat: 236.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 898.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://mfqfuomcx.xyz/3tdfkdch' no és una paraula, potser volies dir:
+http://mfqfuomcx.xyz/3tdfkdchuomcxxyztdfkdch
+Temps per l'autocompletat: 293.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 790.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://dleynjiu.org/vhc3dak4' no és una paraula, potser volies dir:
+http://dleynjiu.org/vhc3dak4orgvhcdak
+Temps per l'autocompletat: 227.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 732.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://slxldi.xyz/auiutrnc' no és una paraula, potser volies dir:
+http://slxldi.xyz/auiutrncxyzauiutrnc
+Temps per l'autocompletat: 244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 845.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://kqhrknunrv.dev/6mf3fzol' no és una paraula, potser volies dir:
+http://kqhrknunrv.dev/6mf3fzoldevmffzol
+Temps per l'autocompletat: 244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 742.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://sugnc.xyz/tzoh0jay' no és una paraula, potser volies dir:
+https://sugnc.xyz/tzoh0jayxyztzohjay
+Temps per l'autocompletat: 209.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 787.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://ugqwcvcm.xyz/k9hpi4pp' no és una paraula, potser volies dir:
+http://ugqwcvcm.xyz/k9hpi4ppxyzkhpipp
+Temps per l'autocompletat: 243.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 687.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://wxywmmahy.io/sp5zag8v' no és una paraula, potser volies dir:
+http://wxywmmahy.io/sp5zag8viospzagv
+Temps per l'autocompletat: 257.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 874.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://ftpbkam.io/b4s5c54c' no és una paraula, potser volies dir:
+https://ftpbkam.io/b4s5c54ciobscc
+Temps per l'autocompletat: 237.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 848.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://wochfwavy.net/jbu4fd9n' no és una paraula, potser volies dir:
+http://wochfwavy.net/jbu4fd9nnetjbufdn
+Temps per l'autocompletat: 241.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 611.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://vbgnvt.io/s5j0w7kf' no és una paraula, potser volies dir:
+https://vbgnvt.io/s5j0w7kfiosjwkf
+Temps per l'autocompletat: 244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 812.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://gvzwhzl.com/fon7o09i' no és una paraula, potser volies dir:
+http://gvzwhzl.com/fon7o09icomfonoi
+Temps per l'autocompletat: 235.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 677.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://cmtit.io/vz0weqo8' no és una paraula, potser volies dir:
+https://cmtit.io/vz0weqo8tiovzweqo
+Temps per l'autocompletat: 236.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1109.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.'https://quxusvey.xyz/is8jxbpo' no és una paraula, potser volies dir:
+https://quxusvey.xyz/is8jxbpoveyxyzisjxbpo
+Temps per l'autocompletat: 286.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 829.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'http://xpzded.net/191mutmt' no és una paraula, potser volies dir:
+http://xpzded.net/191mutmtdnetmutmt
+Temps per l'autocompletat: 260.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 894.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://sozgvxirlc.xyz/t1d0p700' no és una paraula, potser volies dir:
+https://sozgvxirlc.xyz/t1d0p700xyztdp
+Temps per l'autocompletat: 211.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 884.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://niotc.org/f74xikeh' no és una paraula, potser volies dir:
+https://niotc.org/f74xikehorgfxikeh
+Temps per l'autocompletat: 221.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 879.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://olhmvvap.net/hnirwoih' no és una paraula, potser volies dir:
+http://olhmvvap.net/hnirwoihnethnirwoih
+Temps per l'autocompletat: 251.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 787.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://bwhyvpts.dev/5ubqt7m0' no és una paraula, potser volies dir:
+https://bwhyvpts.dev/5ubqt7m0devubqtm
+Temps per l'autocompletat: 249.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 983.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://hsywcfbu.dev/4zhpuzn6' no és una paraula, potser volies dir:
+http://hsywcfbu.dev/4zhpuzn6devzhpuzn
+Temps per l'autocompletat: 222.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 646.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://lvpsh.org/tvottzb4' no és una paraula, potser volies dir:
+https://lvpsh.org/tvottzb4orgtvottzb
+Temps per l'autocompletat: 230.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 737.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://hvjkubzrwr.net/itsnrjgl' no és una paraula, potser volies dir:
+http://hvjkubzrwr.net/itsnrjglnetitsnrjgl
+Temps per l'autocompletat: 234.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 603.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://vbbrqbv.org/5qh74fo4' no és una paraula, potser volies dir:
+https://vbbrqbv.org/5qh74fo4qbvorgqhfo
+Temps per l'autocompletat: 251.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 683.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://xviuqt.io/yrxfrgh9' no és una paraula, potser volies dir:
+https://xviuqt.io/yrxfrgh9ioyrxfrgh
+Temps per l'autocompletat: 232.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 715.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.'http://duvzp.net/lol122oo' no és una paraula, potser volies dir:
+http://duvzp.net/lol122oonetloloo
+Temps per l'autocompletat: 210.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 7207.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.'https://hpnoj.xyz/6ukrhlxx' no és una paraula, potser volies dir:
+https://hpnoj.xyz/6ukrhlxxxyzukrhlxx
+Temps per l'autocompletat: 210.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 916.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path1' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 722.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path2' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 843.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path3' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 962.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path4' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 435.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path5' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 438.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path6' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 345.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path7' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 710.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path8' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 935.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path9' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 388.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path10' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 360.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path11' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 305.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path12' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 508.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path13' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 484.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path14' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 315.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path15' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 328.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path16' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 286.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path17' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 453.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path18' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 486.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path19' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 314.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path20' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 294.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path21' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 275.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path22' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 379.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path23' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 426.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path24' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 290.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path25' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 318.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path26' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path27' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 381.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path28' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 399.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path29' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 272.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path30' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 300.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path31' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path32' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 268.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path33' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 334.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path34' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 299.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path35' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 278.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path36' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path37' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 296.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path38' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 306.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path39' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 269.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path40' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 298.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path41' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 269.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path42' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 235.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path43' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 332.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path44' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path45' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 362.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path46' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 286.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path47' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 297.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path48' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 316.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path49' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 273.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path50' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path51' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 304.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path52' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 236.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path53' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 351.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path54' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 282.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path55' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 284.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path56' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 289.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path57' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 296.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path58' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 314.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path59' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 290.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path60' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 284.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path61' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path62' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 229.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path63' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 333.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path64' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path65' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 278.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path66' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 316.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path67' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 307.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path68' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path69' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 280.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path70' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 318.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path71' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 268.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path72' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 225.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path73' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 335.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path74' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 273.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path75' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 275.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path76' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 262.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path77' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 295.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path78' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 314.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path79' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 280.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path80' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path81' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 265.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path82' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 229.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path83' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 338.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path84' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path85' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 296.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path86' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 278.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path87' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 305.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path88' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path89' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 297.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path90' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 306.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path91' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 279.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path92' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path93' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 347.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path94' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 286.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path95' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 282.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path96' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path97' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 295.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path98' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 302.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path99' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 338.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path100' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 348.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path101' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 326.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path102' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 377.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path103' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 354.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path104' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 331.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path105' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 318.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path106' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 319.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path107' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 340.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path108' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 339.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path109' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 314.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path110' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 322.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path111' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 279.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path112' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 317.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path113' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 358.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path114' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path115' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 274.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path116' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 280.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path117' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 348.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path118' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 330.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path119' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 292.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path120' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 297.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path121' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path122' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 267.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path123' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 342.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path124' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 288.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path125' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 296.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path126' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 265.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path127' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 305.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path128' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 318.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path129' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 318.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path130' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 303.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path131' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 277.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path132' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 242.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path133' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 345.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path134' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 295.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path135' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path136' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 267.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path137' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 308.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path138' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 325.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path139' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 280.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.com/path140' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 306.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.org/path141' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 273.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.net/path142' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 247.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://test.com/path143' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 338.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://mysite.test/path144' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 296.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.com/path145' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 280.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'https://example.org/path146' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 282.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://example.net/path147' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 337.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'https://test.com/path148' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 317.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'http://mysite.test/path149' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+
+Nodes visitats de mitjana per operació: 6.418060
+Latència mitjana per operació: 1061.588629
+Profunditat (d) mitjana per operació: 6.418060

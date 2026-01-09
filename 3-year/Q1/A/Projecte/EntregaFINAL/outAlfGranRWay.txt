@@ -1,0 +1,1955 @@
+0: Exit
+1: Rway
+2: Radix
+Escull model Trie: 
+--RWayTrie--
+1: alice_in_wonderland.txt
+2: alpha_words.txt (alfabet gran)
+3: moby_dick.txt
+4: enwiki-latest-all-titles-in-ns0
+5: chimpanze-DNA.txt
+6: prova.txt
+7: altGrauPre.txt
+8: altGrauPre5mb.txt
+9: baixGrauPre.txt
+10: baixGrauPre5mb.txt
+11: DNA.txt (alfabet petit)
+12: DNA5mb.txt (alfabet petit)
+Escull un número: Arxiu CARGAT
+
+RWayTrie amb 1027810 nodes
+Cada node ocupa 128 bytes
+Amb profunditat màxima: 32 d
+Tot el RWayTrie ocupa en disc 131559680.000000 bytes, 131559.680000 kB, 131.559680 MB
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 18155.000000 ns
+Nodes nodes visitats: 2 nodes
+Profunditat de la cerca: 2 d
+S'han trobat 25417 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 200.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 28 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 159.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 59.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 320.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 89.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 72.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 4 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 223.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 154.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 88.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 59.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 132.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 722.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 209.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 485.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 460.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 184.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 154.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 5 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 375.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 334.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 199.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 621.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 384.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 189.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 82.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 56.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 727.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 184.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 64.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 1179 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1384.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 9 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 447.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 644.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 639.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 179.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 789.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 131.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 388.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 356.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 826.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 101.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 212.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 16 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 328.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 587.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 186.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 581.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 162.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 213.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 6 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 220.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1410.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 291.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 275.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 322.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 346.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 240.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1740.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 435.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 385.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 16 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 772.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 277.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 318.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 898.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 413.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 185.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 173.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 417.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 220.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 425.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 12603.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 98.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 793.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 99.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 82.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 83.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 83 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 74.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 5 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 885.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 613.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 898.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 651.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 210.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 486.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 465.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 10071.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 151.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 338.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 742.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 523.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 153.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 529.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 208.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 11 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2171.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 195.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 392.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 129.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 78.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 906.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 223.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 608.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 447.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 622.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 441.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 224.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 494.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 184.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 12 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 251.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 750.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 184.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 255.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 498.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 236.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 497.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 195.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 95.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 468.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 145.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 259.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1460.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 254.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 81.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 428.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 423.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1276.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 795.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 9941.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 350.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 5 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 219.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 473.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 213.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 128.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 309.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 199.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 93.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 308.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 263.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 178.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 418.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 79.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 8 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 437.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 5 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 262.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 184.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 379.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 454.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 203.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 488.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 115.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 428.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 546.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1519.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 425.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 274.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 597.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'asdfsfbestore' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 308.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 641.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'yiyuhgnbestove' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 164.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'bestvcxvow' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 532.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'bestowadsfsf67ble' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 435.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 224.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'bestowaçjkçñçl' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 576.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'bestowalfsfssfds' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 358.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'bestowesfsfsfd' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 529.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'bestowinjgfjg' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 529.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+No s'ha trobat 'bestowmenhfgdgt' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 294.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 541.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'bestrasfsdfddl32e' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 675.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 456.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 510.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1137.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'fgfdgbbestraught234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 421.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'yuytubestraw234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 671.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'hgjghjbestreak234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 388.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'bebvvxcfgstream234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 525.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'bengfngfstrew234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 322.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'bengsfnnstrewed234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 647.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'bngfnfgnestrewing234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 586.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'bessdfgtrtrewment234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 611.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'besfsdstnsrewn234234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 632.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'beasdfhhjjstrews234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1657.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'cledfsgññdfsññdfsññfsñññññfdsññññavingly234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 525.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'clñsdfñññdsfñññdsafññññdsfññññññññññech12234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'clafdssdfsfec2134' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 435.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'csffleasfchy234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 599.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'casdfladsfeadfck234' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 430.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'clasfdeadfafsdfdgñ' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 394.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'cletyutyiddesdfñ' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 666.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'clytueuytdgeSLÑKFD' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 196.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'cltyuutedgyçdsfñ' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 454.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'cluytyuedotyunismçdñdd' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 190.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'cluytetuádsflñk' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 217.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'cltyueectyuhçaĺñja' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'cltyueekiuiuerkdf' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 407.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'cleghjgjeked45gtrf' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 532.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'cleAky239084' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 619.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 488.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'c345gjhñleeks' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 695.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat '123yçñclef' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 788.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'opñclefs' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 672.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'sdjf45cleft' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 342.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+No s'ha trobat 'qwertyclefted' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 128.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+No s'ha trobat 'zxcvclefts' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 116.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'asdfcleg' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 631.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'ghkjcleidagra' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 462.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'yuiocleidarthritis' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1008.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 814.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 239.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'ñopcleidohyoid' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1085.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'holaquemirascleidoic' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1223.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'comohasencontradoestocleidomancy' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1086.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'buenashymenotomy' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 912.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'meaburrohymenotomies' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 881.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'odioalgorismiahymens' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 632.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'putaespanyahymettian' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 876.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'viscalaterrahymettic' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 596.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'ielscargolshimyaric' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 593.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'olakasehimyarite' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 949.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'adioshimyaritic' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 690.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'mejorparoyahimming' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 650.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'onohymn' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 524.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'osihymnal' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 882.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'launitieneefectosecundarioshymnals' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 394.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'adsfsdfhymnary' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1174.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 260.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 205.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'çñadsfhymnarium' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1127.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'lamineyamalbalondeorohymnariunaria' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 658.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'eufareihymnbook' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 767.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'nyomhymnbooks' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 333.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'adfshimne' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 980.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'pro2hymned' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 140.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'pro1hymner' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 501.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'edahymnic' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 536.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'idihymning' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 665.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 2 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 638.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'ñdsofhymnists' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 690.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'hysadfmnless' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 197.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'hymnfglike' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 333.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'hymnohjkde' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 289.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1313.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'nonclasdfosely' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 726.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 663.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 456.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+No s'ha trobat 'aiudanoncoagulability' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 229.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'asdfnoncoagulable' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 376.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'noasdfncoagulating' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 646.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'noncotryagulation' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 639.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'noncoagtryulative' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 695.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+No s'ha trobat 'noncoalesiucence' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 265.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'noncoalescdcent' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 439.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'noncoalescadsfing' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 147.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'noncoasdck' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 368.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'noncodasdfified' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 757.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+No s'ha trobat 'noncoercijykble' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 417.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 312.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 3 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 353.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+No s'ha trobat 'noncoercifdgnvely' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 419.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'noncoercivnfdfneness' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 289.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'noncogfdsggency' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 157.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'noncogytutryent' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 399.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'noncogenretytly' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 473.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'nonsfdacognaqerte' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 536.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'noncadfognvcbnition' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 237.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'noncfdognisfgtive' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 313.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'noncadsfognisfdgzable' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'noncfadognisfgzably' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 269.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'noncfdasogsfgdfgsdfgnizance' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'noncdfaogn346456456456izant' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 771.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'nondfcognizpoiuytrefnantly' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 531.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+No s'ha trobat 'nondfsacodfhabifastat234234ion' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1922.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'reinflathgjgjgjion' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 351.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'reinflijjjct' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 339.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'reinflijjjjjjjjction' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 610.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'reinflueiiiiiiince' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 493.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+No s'ha trobat 'reinflueniiiiiiced' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 596.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+No s'ha trobat 'reinfluencioooooong' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 404.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'reinforpppppce' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 792.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 395.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1207.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'reinforcemrtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttent' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1305.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+No s'ha trobat 'reinforcemeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDnts' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1165.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'reinforcerasdfsafmeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeentttttttttttttttttttttttttttttttt' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 571.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+No s'ha trobat 'reinforcersasfasfsaf' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 2183.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'reinforcessdfasfafADFEFGREYHTUJ7ISIYFOAÑAÑAÑAÑÑAÑÑAÑÑAÑA' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1055.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+No s'ha trobat 'reinforcingSAFASFASFSFSF' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'reinformZASCA' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 459.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'reinformedBOOM' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 769.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+No s'ha trobat 'reinformingWOOFWOOF' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+No s'ha trobat 'reinformsMIAU' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 800.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'reinfundvandosisecaeeldelmedio' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 478.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+No s'ha trobat 'reinfusejajajajjaj' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 499.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+No s'ha trobat 'reinfusednotfunny' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 265.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'reinadfdsfuses' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 193.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'reinfusdfsfsing' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 158.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+No s'ha trobat 'reinfussfsdfion' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 436.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+No s'ha trobat 'reingr435gfgaft' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 868.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+No s'ha trobat 'reingratiasfsdfte' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 540.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 247.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+No s'ha trobat 'reinhsdfsdfabit' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 700.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+No s'ha trobat 'finreinhabitation' al text. 
+
+
+Introdueix la paraula/frase que vols buscar: 
+
+Nodes visitats de mitjana per operació: 8.360000
+Latència mitjana per operació: 642.410000
+Profunditat (d) mitjana per operació: 8.360000

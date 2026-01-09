@@ -1,0 +1,3337 @@
+0: Exit
+1: Rway
+2: Radix
+Escull model Trie: 
+--RWayTrie--
+1: alice_in_wonderland.txt
+2: alpha_words.txt (alfabet gran)
+3: moby_dick.txt
+4: enwiki-latest-all-titles-in-ns0
+5: chimpanze-DNA.txt
+6: prova.txt
+7: altGrauPre.txt
+8: altGrauPre5mb.txt
+9: baixGrauPre.txt
+10: baixGrauPre5mb.txt
+11: DNA.txt (alfabet petit)
+12: DNA5mb.txt (alfabet petit)
+Escull un número: Arxiu CARGAT
+
+RWayTrie amb 2630873 nodes
+Cada node ocupa 128 bytes
+Amb profunditat màxima: 27 d
+Tot el RWayTrie ocupa en disc 336751744.000000 bytes, 336751.744000 kB, 336.751744 MB
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 14054.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://bzjer' no és una paraula, potser volies dir:
+http://bzjercomdczyd
+Temps fins prefix: 14054.000000 ns
+Temps després prefix 2490.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 490.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://ynzq' no és una paraula, potser volies dir:
+https://ynzqfdevhtki
+Temps fins prefix: 490.000000 ns
+Temps després prefix 2530.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 612.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://kbaxdo' no és una paraula, potser volies dir:
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 612.000000 ns
+Temps després prefix 3837.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 174.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 150 coincidències.'https://xy' no és una paraula, potser volies dir:
+https://xyaiotyxyzqfjp
+https://xyardsnetsilij
+https://xybezuwvtcomjkvmo
+https://xybodkihmcomazgmgy
+https://xybrmcomswhjzc
+Temps fins prefix: 174.000000 ns
+Temps després prefix 35990.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 909.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://xwfwwufeb.i' no és una paraula, potser volies dir:
+https://xwfwwufeb.iogfhpx
+Temps fins prefix: 909.000000 ns
+Temps després prefix 2353.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 552.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://yqwukik' no és una paraula, potser volies dir:
+http://yqwukikwkorgkcpxguf
+Temps fins prefix: 552.000000 ns
+Temps després prefix 3282.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1000.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://hfgohmgat.' no és una paraula, potser volies dir:
+http://hfgohmgat.devupbjsf
+Temps fins prefix: 1000.000000 ns
+Temps després prefix 2639.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 216.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 7 coincidències.'http://zvp' no és una paraula, potser volies dir:
+http://zvpfruomkfcombkikot
+http://zvpfycfkzcomtnxzf
+http://zvpiwshdorcomkcutg
+http://zvpjwbeozedevlbpyilk
+http://zvpuftxyzocryetg
+Temps fins prefix: 216.000000 ns
+Temps després prefix 30156.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 262.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://ynzqf.' no és una paraula, potser volies dir:
+https://ynzqf.devhtki
+Temps fins prefix: 262.000000 ns
+Temps després prefix 2064.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 291.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://hpzp' no és una paraula, potser volies dir:
+http://hpzpsckornettdncwnq
+Temps fins prefix: 291.000000 ns
+Temps després prefix 3926.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 356.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://gfyd' no és una paraula, potser volies dir:
+https://gfydztyeoxyzzqtkdv
+Temps fins prefix: 356.000000 ns
+Temps després prefix 3986.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1212.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://mighsxxdn' no és una paraula, potser volies dir:
+https://mighsxxdnxyzumjtwa
+Temps fins prefix: 1212.000000 ns
+Temps després prefix 2490.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 993.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://nnmodudv.or' no és una paraula, potser volies dir:
+http://nnmodudv.orgjhgado
+Temps fins prefix: 993.000000 ns
+Temps després prefix 2441.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 687.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://cmysjh' no és una paraula, potser volies dir:
+https://cmysjhpsqnetmdqjsnk
+Temps fins prefix: 687.000000 ns
+Temps després prefix 4090.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 769.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://fvhuor.o' no és una paraula, potser volies dir:
+http://fvhuor.orgbiliw
+Temps fins prefix: 769.000000 ns
+Temps després prefix 2166.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 173.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 10 coincidències.'https://gfy' no és una paraula, potser volies dir:
+https://gfydztyeoxyzzqtkdv
+https://gfygglcioxitssbcr
+https://gfylanhgahiokbskgr
+https://gfyrxrcomxpjgwym
+https://gfyrzukmwhiotwbdpuf
+Temps fins prefix: 173.000000 ns
+Temps després prefix 27814.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 329.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 3 coincidències.'http://jgh' no és una paraula, potser volies dir:
+http://jghggzioiqsoahda
+http://jghiycomhwtikya
+http://jghwiksfiophdx
+Temps fins prefix: 329.000000 ns
+Temps després prefix 15425.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 177.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 152 coincidències.'https://xw' no és una paraula, potser volies dir:
+https://xwaiumorgvvlbomtw
+https://xwakqaorgwkppcj
+https://xwamsbfxyzdcuble
+https://xwavcdevhdoqgj
+https://xwbfctbguxyzqtptz
+Temps fins prefix: 177.000000 ns
+Temps després prefix 25767.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 388.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://fnwg' no és una paraula, potser volies dir:
+https://fnwghdiokndxtt
+Temps fins prefix: 388.000000 ns
+Temps després prefix 3146.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1314.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://ntiavgyr.org' no és una paraula, potser volies dir:
+http://ntiavgyr.orgochcdbq
+Temps fins prefix: 1314.000000 ns
+Temps després prefix 2395.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 416.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://zvpzevj' no és una paraula, potser volies dir:
+http://zvpzevjrdevqwqeicx
+Temps fins prefix: 416.000000 ns
+Temps després prefix 3064.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 505.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://ynzqf.dev/' no és una paraula, potser volies dir:
+https://ynzqf.dev/htki
+Temps fins prefix: 505.000000 ns
+Temps després prefix 1349.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 164.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 4031 coincidències.'https://f' no és una paraula, potser volies dir:
+https://faaaammulcomvesrou
+https://faahbdevzeqoqf
+https://faahdlcjlxyzhsfborn
+https://faaipifiobhxif
+https://faanxnorgcuzjpn
+Temps fins prefix: 164.000000 ns
+Temps després prefix 27216.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 203.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.'https://cmy' no és una paraula, potser volies dir:
+https://cmyjczorguptzffwk
+https://cmysjhpsqnetmdqjsnk
+Temps fins prefix: 203.000000 ns
+Temps després prefix 10738.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 881.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://nvynuk.net' no és una paraula, potser volies dir:
+https://nvynuk.netxwqgs
+Temps fins prefix: 881.000000 ns
+Temps després prefix 1638.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1383.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://opzcxe.org/u' no és una paraula, potser volies dir:
+http://opzcxe.org/uyjll
+Temps fins prefix: 1383.000000 ns
+Temps després prefix 1322.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 319.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://jghg' no és una paraula, potser volies dir:
+http://jghggzioiqsoahda
+Temps fins prefix: 319.000000 ns
+Temps després prefix 3493.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 150.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 103664 coincidències.'https:' no és una paraula, potser volies dir:
+https:aaabpdpuenetvfshgji
+https:aaacborggibyfc
+https:aaakwemzxorgzerqwv
+https:aaamhfrdevphfxk
+https:aaamzbxmucomczryqba
+Temps fins prefix: 150.000000 ns
+Temps després prefix 26254.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 163.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 6 coincidències.'https://nvy' no és una paraula, potser volies dir:
+https://nvybwahxyzzuoq
+https://nvyfdxdcuorgjguyv
+https://nvyhmjreioluzrz
+https://nvynuknetxwqgs
+https://nvypgvpiozcllzp
+Temps fins prefix: 163.000000 ns
+Temps després prefix 23207.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 177.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 191 coincidències.'https://uo' no és una paraula, potser volies dir:
+https://uoaawvdevxyuzd
+https://uoacovoblgxyzfc
+https://uoaegiordscb
+https://uoaffwghnetisnt
+https://uoarijgbamorghugmzhn
+Temps fins prefix: 177.000000 ns
+Temps després prefix 22869.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 245.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://fnwgh' no és una paraula, potser volies dir:
+https://fnwghdiokndxtt
+Temps fins prefix: 245.000000 ns
+Temps després prefix 2771.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 153.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 136 coincidències.'https://yn' no és una paraula, potser volies dir:
+https://ynadccyjniozcysmu
+https://ynamuzlexyzokjaox
+https://ynatintdexxyzplrbh
+https://ynbdklbzgdevvuinlwq
+https://ynbgkrhnfnnetmbrmi
+Temps fins prefix: 153.000000 ns
+Temps després prefix 29463.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 479.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://kbaxdoh' no és una paraula, potser volies dir:
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 479.000000 ns
+Temps després prefix 3351.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1006.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://nnmodudv.org/' no és una paraula, potser volies dir:
+http://nnmodudv.org/jhgado
+Temps fins prefix: 1006.000000 ns
+Temps després prefix 1960.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 140.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3965 coincidències.'http://h' no és una paraula, potser volies dir:
+http://haaiscxyzwdeg
+http://haajatvzorggmrvc
+http://haajwpcomaztvnlu
+http://haankccvwioyivdqj
+http://haazvobyorgcmntmvg
+Temps fins prefix: 140.000000 ns
+Temps després prefix 25771.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 264.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.'http://hfgo' no és una paraula, potser volies dir:
+http://hfgohmgatdevupbjsf
+http://hfgomyvenetlaclyivw
+Temps fins prefix: 264.000000 ns
+Temps després prefix 10886.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 243.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://hfgohmgat.d' no és una paraula, potser volies dir:
+http://hfgohmgat.devupbjsf
+Temps fins prefix: 243.000000 ns
+Temps després prefix 2480.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 379.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://nvynuk.net/0' no és una paraula, potser volies dir:
+https://nvynuk.net/0xwqgs
+Temps fins prefix: 379.000000 ns
+Temps després prefix 1690.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 636.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://hpzpsckor.n' no és una paraula, potser volies dir:
+http://hpzpsckor.nettdncwnq
+Temps fins prefix: 636.000000 ns
+Temps després prefix 2802.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 214.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://hpzpsckor.' no és una paraula, potser volies dir:
+http://hpzpsckor.nettdncwnq
+Temps fins prefix: 214.000000 ns
+Temps després prefix 2661.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://nnmodud' no és una paraula, potser volies dir:
+http://nnmodudvorgjhgado
+Temps fins prefix: 238.000000 ns
+Temps després prefix 2962.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 732.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://ntiavgyr.org/' no és una paraula, potser volies dir:
+http://ntiavgyr.org/ochcdbq
+Temps fins prefix: 732.000000 ns
+Temps després prefix 2182.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1912.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'https://mighsxxdn.xy' no és una paraula, potser volies dir:
+https://mighsxxdn.xyzumjtwa
+Temps fins prefix: 1912.000000 ns
+Temps després prefix 2048.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 425.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://fvhuo' no és una paraula, potser volies dir:
+http://fvhuororgbiliw
+Temps fins prefix: 425.000000 ns
+Temps després prefix 2765.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 158.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3897 coincidències.'http://z' no és una paraula, potser volies dir:
+http://zaabbprcomluoywq
+http://zaaloreuhnetjhiwjph
+http://zaanhzplixorgcaodgi
+http://zaavzioaqaeg
+http://zablpdrorgzkqskv
+Temps fins prefix: 158.000000 ns
+Temps després prefix 27122.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 223.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://ntiavg' no és una paraula, potser volies dir:
+http://ntiavgyrorgochcdbq
+Temps fins prefix: 223.000000 ns
+Temps després prefix 3274.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 265.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://fvhuor.org/' no és una paraula, potser volies dir:
+http://fvhuor.org/biliw
+Temps fins prefix: 265.000000 ns
+Temps després prefix 1743.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 197.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://kbax' no és una paraula, potser volies dir:
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 197.000000 ns
+Temps després prefix 3567.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1088.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'http://hfgohmgat.dev' no és una paraula, potser volies dir:
+http://hfgohmgat.devupbjsf
+Temps fins prefix: 1088.000000 ns
+Temps després prefix 1803.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 344.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://ynzqf.de' no és una paraula, potser volies dir:
+https://ynzqf.devhtki
+Temps fins prefix: 344.000000 ns
+Temps després prefix 1553.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 296.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://mighsxx' no és una paraula, potser volies dir:
+https://mighsxxdnxyzumjtwa
+Temps fins prefix: 296.000000 ns
+Temps després prefix 3080.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 922.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'https://gfydztyeo.xy' no és una paraula, potser volies dir:
+https://gfydztyeo.xyzzqtkdv
+Temps fins prefix: 922.000000 ns
+Temps després prefix 2077.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 748.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://cxzzlkl.c' no és una paraula, potser volies dir:
+https://cxzzlkl.comogtrtf
+Temps fins prefix: 748.000000 ns
+Temps després prefix 2690.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 324.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://opzcxe.o' no és una paraula, potser volies dir:
+http://opzcxe.orguyjll
+Temps fins prefix: 324.000000 ns
+Temps després prefix 2026.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 248.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://ntiavgyr.or' no és una paraula, potser volies dir:
+http://ntiavgyr.orgochcdbq
+Temps fins prefix: 248.000000 ns
+Temps després prefix 2272.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 155.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 6 coincidències.'https://ynz' no és una paraula, potser volies dir:
+https://ynzeedevqhykia
+https://ynzhkvxudorgbmra
+https://ynzhvzddiotiwgnz
+https://ynzmagserxdevcpbxu
+https://ynzqfdevhtki
+Temps fins prefix: 155.000000 ns
+Temps després prefix 23944.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 244.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://hfgohmga' no és una paraula, potser volies dir:
+http://hfgohmgatdevupbjsf
+Temps fins prefix: 244.000000 ns
+Temps després prefix 2709.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 162.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 6 coincidències.'http://opz' no és una paraula, potser volies dir:
+http://opzcxeorguyjll
+http://opzelkesorggxvpwdq
+http://opzfporgyaosxff
+http://opzhmkwviexyzyhmsft
+http://opznaoeznetjavqsp
+Temps fins prefix: 162.000000 ns
+Temps després prefix 28436.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 271.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://kbaxdohj' no és una paraula, potser volies dir:
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 271.000000 ns
+Temps després prefix 2643.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 463.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://yqwuki' no és una paraula, potser volies dir:
+http://yqwukikwkorgkcpxguf
+Temps fins prefix: 463.000000 ns
+Temps després prefix 3973.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 284.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://uodu' no és una paraula, potser volies dir:
+https://uoduxdioyzhczin
+Temps fins prefix: 284.000000 ns
+Temps després prefix 2979.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 1017.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://lhvqhibgbx' no és una paraula, potser volies dir:
+http://lhvqhibgbxiokejql
+Temps fins prefix: 1017.000000 ns
+Temps després prefix 2366.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 187.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 7 coincidències.'https://tdz' no és una paraula, potser volies dir:
+https://tdzbgxyzqoqmflr
+https://tdzhhytcomzctnne
+https://tdzkrssxyzwzypdy
+https://tdzqohznetvbxzo
+https://tdzrwvpznetbkucttha
+Temps fins prefix: 187.000000 ns
+Temps després prefix 25305.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 373.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://gfydztyeo.' no és una paraula, potser volies dir:
+https://gfydztyeo.xyzzqtkdv
+Temps fins prefix: 373.000000 ns
+Temps després prefix 2385.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 214.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://uoduxd' no és una paraula, potser volies dir:
+https://uoduxdioyzhczin
+Temps fins prefix: 214.000000 ns
+Temps després prefix 2405.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 87.000000 ns
+Nodes nodes visitats: 2 nodes
+Profunditat de la cerca: 2 d
+S'han trobat 200000 coincidències.'h' no és una paraula, potser volies dir:
+httpaaaiqhckcpnetehtzxv
+httpaaajtbxorggichbvrs
+httpaaaolocbrtorgtukuufu
+httpaaargcomcbyrwv
+httpaaavuudevctjzaa
+Temps fins prefix: 87.000000 ns
+Temps després prefix 28323.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 183.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 9 coincidències.'https://fnw' no és una paraula, potser volies dir:
+https://fnwacqcorgrkskvl
+https://fnwfkihnetomvygrx
+https://fnwghdiokndxtt
+https://fnwpmjorgygsohu
+https://fnwqbxyzxoeszdeq
+Temps fins prefix: 183.000000 ns
+Temps després prefix 24133.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 290.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://nvynuk.' no és una paraula, potser volies dir:
+https://nvynuk.netxwqgs
+Temps fins prefix: 290.000000 ns
+Temps després prefix 2255.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 334.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://hfgohmgat' no és una paraula, potser volies dir:
+http://hfgohmgatdevupbjsf
+Temps fins prefix: 334.000000 ns
+Temps després prefix 2474.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 997.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://pqsydsjadc.n' no és una paraula, potser volies dir:
+http://pqsydsjadc.netkyyg
+Temps fins prefix: 997.000000 ns
+Temps després prefix 1927.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 410.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://ynzqf.dev/h0' no és una paraula, potser volies dir:
+https://ynzqf.dev/h0tki
+Temps fins prefix: 410.000000 ns
+Temps després prefix 1117.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 233.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://nnmodu' no és una paraula, potser volies dir:
+http://nnmodudvorgjhgado
+Temps fins prefix: 233.000000 ns
+Temps després prefix 2950.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 336.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://fnwghd.io/kn' no és una paraula, potser volies dir:
+https://fnwghd.io/kndxtt
+Temps fins prefix: 336.000000 ns
+Temps després prefix 1313.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 144.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 129 coincidències.'https://fn' no és una paraula, potser volies dir:
+https://fnajatybcxyzzag
+https://fnategxyzgthox
+https://fnauestpxyzzbsyw
+https://fnbdvzwhanetbitpwd
+https://fnbmgisiioyixs
+Temps fins prefix: 144.000000 ns
+Temps després prefix 25930.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 256.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://fnwghd.i' no és una paraula, potser volies dir:
+https://fnwghd.iokndxtt
+Temps fins prefix: 256.000000 ns
+Temps després prefix 2112.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 142.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 158 coincidències.'http://op' no és una paraula, potser volies dir:
+http://oparfplxedevaqzoko
+http://opavtkcqrnetjsmyex
+http://opazgcomksyvi
+http://opbaphorgbnlndgt
+http://opblrdevwnv
+Temps fins prefix: 142.000000 ns
+Temps després prefix 25051.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 255.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://ntiav' no és una paraula, potser volies dir:
+http://ntiavgyrorgochcdbq
+Temps fins prefix: 255.000000 ns
+Temps després prefix 3459.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 569.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://lhvqhib' no és una paraula, potser volies dir:
+http://lhvqhibgbxiokejql
+Temps fins prefix: 569.000000 ns
+Temps després prefix 2811.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://pqsydsjad' no és una paraula, potser volies dir:
+http://pqsydsjadcnetkyyg
+Temps fins prefix: 266.000000 ns
+Temps després prefix 2236.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 125.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 160 coincidències.'http://nt' no és una paraula, potser volies dir:
+http://ntaaaswcomvqwxml
+http://ntaappaaiofgnkth
+http://ntacgpcomlcpxcr
+http://ntaizporgpvkktm
+http://ntangcbttnetvarnjht
+Temps fins prefix: 125.000000 ns
+Temps després prefix 24875.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 239.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://hfgoh' no és una paraula, potser volies dir:
+http://hfgohmgatdevupbjsf
+Temps fins prefix: 239.000000 ns
+Temps després prefix 3407.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 661.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://cmysjhpsq.' no és una paraula, potser volies dir:
+https://cmysjhpsq.netmdqjsnk
+Temps fins prefix: 661.000000 ns
+Temps després prefix 2736.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 216.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://zvpz' no és una paraula, potser volies dir:
+http://zvpzevjrdevqwqeicx
+Temps fins prefix: 216.000000 ns
+Temps després prefix 3630.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 303.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://opzcxe.or' no és una paraula, potser volies dir:
+http://opzcxe.orguyjll
+Temps fins prefix: 303.000000 ns
+Temps després prefix 1850.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 243.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://nvynu' no és una paraula, potser volies dir:
+https://nvynuknetxwqgs
+Temps fins prefix: 243.000000 ns
+Temps després prefix 2475.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 239.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://ntiavgyr' no és una paraula, potser volies dir:
+http://ntiavgyrorgochcdbq
+Temps fins prefix: 239.000000 ns
+Temps després prefix 2729.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 289.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://cmysjhpsq' no és una paraula, potser volies dir:
+https://cmysjhpsqnetmdqjsnk
+Temps fins prefix: 289.000000 ns
+Temps després prefix 2696.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 316.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://kbaxdohjr' no és una paraula, potser volies dir:
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 316.000000 ns
+Temps després prefix 2381.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 151.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 200000 coincidències.'http:' no és una paraula, potser volies dir:
+http:aaaiqhckcpnetehtzxv
+http:aaajtbxorggichbvrs
+http:aaaolocbrtorgtukuufu
+http:aaargcomcbyrwv
+http:aaavuudevctjzaa
+Temps fins prefix: 151.000000 ns
+Temps després prefix 25456.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 389.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://yqwukikwk.or' no és una paraula, potser volies dir:
+http://yqwukikwk.orgkcpxguf
+Temps fins prefix: 389.000000 ns
+Temps després prefix 2260.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 190.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 10 coincidències.'https://uod' no és una paraula, potser volies dir:
+https://uodcysdevhhdddk
+https://uodjdygnetosq
+https://uodltdevqaufyun
+https://uodmrwbzqorgfaufdpyt
+https://uoduxdioyzhczin
+Temps fins prefix: 190.000000 ns
+Temps després prefix 24596.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 219.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://migh' no és una paraula, potser volies dir:
+https://mighsxxdnxyzumjtwa
+Temps fins prefix: 219.000000 ns
+Temps després prefix 3546.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://gfydztye' no és una paraula, potser volies dir:
+https://gfydztyeoxyzzqtkdv
+Temps fins prefix: 311.000000 ns
+Temps després prefix 2650.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 338.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://fnwghd.io' no és una paraula, potser volies dir:
+https://fnwghd.iokndxtt
+Temps fins prefix: 338.000000 ns
+Temps després prefix 1752.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 143.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 139 coincidències.'https://mi' no és una paraula, potser volies dir:
+https://miafxlyblxyzylvwph
+https://miamefawpiofgssxh
+https://miapmnetwsaqpf
+https://miaviqpgdevwwpij
+https://miavvorgejygjyfs
+Temps fins prefix: 143.000000 ns
+Temps després prefix 25943.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 236.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://yqwuk' no és una paraula, potser volies dir:
+http://yqwukikwkorgkcpxguf
+Temps fins prefix: 236.000000 ns
+Temps després prefix 3969.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 129.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3886 coincidències.'http://l' no és una paraula, potser volies dir:
+http://laaeyoqxyzfuehqi
+http://laaijbukvcdevdpsy
+http://laalpcomqopkqli
+http://laaoyrgdcdevlfsqv
+http://laaunliocwcdh
+Temps fins prefix: 129.000000 ns
+Temps després prefix 26015.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 769.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://bzjer.com/d3c' no és una paraula, potser volies dir:
+http://bzjer.com/d3czyd
+Temps fins prefix: 769.000000 ns
+Temps després prefix 1155.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 371.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://tdztd' no és una paraula, potser volies dir:
+https://tdztdshitgcomsq
+Temps fins prefix: 371.000000 ns
+Temps després prefix 3037.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 231.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://yqwukikw' no és una paraula, potser volies dir:
+http://yqwukikwkorgkcpxguf
+Temps fins prefix: 231.000000 ns
+Temps després prefix 2905.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 388.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://nnmodudv.org' no és una paraula, potser volies dir:
+http://nnmodudv.orgjhgado
+Temps fins prefix: 388.000000 ns
+Temps després prefix 2024.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 151.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 156 coincidències.'http://fv' no és una paraula, potser volies dir:
+http://fvaeqqsvioeboosef
+http://fvaghpkxyzesgyxntu
+http://fvagptdyorgjbjxc
+http://fvaptcomemwwk
+http://fvaristiorhxqld
+Temps fins prefix: 151.000000 ns
+Temps després prefix 23485.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 125.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3741 coincidències.'http://b' no és una paraula, potser volies dir:
+http://baaofsspdenetgodxd
+http://baarunetpcsg
+http://baawfzxyzpnfqqcz
+http://baayrhzrdevqvnlqxv
+http://babcocrqkcxyzquvjt
+Temps fins prefix: 125.000000 ns
+Temps després prefix 27052.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 781.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://jghggz.io/iqs' no és una paraula, potser volies dir:
+http://jghggz.io/iqsoahda
+Temps fins prefix: 781.000000 ns
+Temps després prefix 2021.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 193.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 8 coincidències.'http://pqs' no és una paraula, potser volies dir:
+http://pqsbuwdnorgoqixr
+http://pqsfyypcstdevicmtvb
+http://pqsgtecbtdevzijcadx
+http://pqshjxsquorgrmgchj
+http://pqsifczzkjnetnggno
+Temps fins prefix: 193.000000 ns
+Temps després prefix 28564.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 131.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 103664 coincidències.'https' no és una paraula, potser volies dir:
+httpsaaabpdpuenetvfshgji
+httpsaaacborggibyfc
+httpsaaakwemzxorgzerqwv
+httpsaaamhfrdevphfxk
+httpsaaamzbxmucomczryqba
+Temps fins prefix: 131.000000 ns
+Temps després prefix 24492.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 315.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://uoduxd.i' no és una paraula, potser volies dir:
+https://uoduxd.ioyzhczin
+Temps fins prefix: 315.000000 ns
+Temps després prefix 2223.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 140.000000 ns
+Nodes nodes visitats: 4 nodes
+Profunditat de la cerca: 4 d
+S'han trobat 200000 coincidències.'htt' no és una paraula, potser volies dir:
+httpaaaiqhckcpnetehtzxv
+httpaaajtbxorggichbvrs
+httpaaaolocbrtorgtukuufu
+httpaaargcomcbyrwv
+httpaaavuudevctjzaa
+Temps fins prefix: 140.000000 ns
+Temps després prefix 24345.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 191.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://nnmo' no és una paraula, potser volies dir:
+http://nnmodudvorgjhgado
+Temps fins prefix: 191.000000 ns
+Temps després prefix 3445.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 363.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://hpzpsckor.ne' no és una paraula, potser volies dir:
+http://hpzpsckor.nettdncwnq
+Temps fins prefix: 363.000000 ns
+Temps després prefix 2435.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 334.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://yqwukikwk.o' no és una paraula, potser volies dir:
+http://yqwukikwk.orgkcpxguf
+Temps fins prefix: 334.000000 ns
+Temps després prefix 2578.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 639.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://xyvfqlz' no és una paraula, potser volies dir:
+https://xyvfqlzsbxyzlkxunus
+Temps fins prefix: 639.000000 ns
+Temps després prefix 3541.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 177.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://pqsy' no és una paraula, potser volies dir:
+http://pqsydsjadcnetkyyg
+Temps fins prefix: 177.000000 ns
+Temps després prefix 3367.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 246.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://uoduxd.' no és una paraula, potser volies dir:
+https://uoduxd.ioyzhczin
+Temps fins prefix: 246.000000 ns
+Temps després prefix 2442.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 145.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 8 coincidències.'http://hpz' no és una paraula, potser volies dir:
+http://hpzafhneticurihi
+http://hpzhwmrbuxxyztkxilcu
+http://hpzivwcrxorgqcyth
+http://hpzkoojiwpnetlmguyf
+http://hpzmtiozzihj
+Temps fins prefix: 145.000000 ns
+Temps després prefix 28539.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 258.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://cmysj' no és una paraula, potser volies dir:
+https://cmysjhpsqnetmdqjsnk
+Temps fins prefix: 258.000000 ns
+Temps després prefix 3689.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 326.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://xyvfqlzsb.x' no és una paraula, potser volies dir:
+https://xyvfqlzsb.xyzlkxunus
+Temps fins prefix: 326.000000 ns
+Temps després prefix 2555.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 168.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 5 coincidències.'http://kba' no és una paraula, potser volies dir:
+http://kbaftknetyvdlx
+http://kbahpcomgdozsl
+http://kbaingiobionw
+http://kbanovvipvnetqwciyzv
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 168.000000 ns
+Temps després prefix 24331.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 247.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://pqsydsja' no és una paraula, potser volies dir:
+http://pqsydsjadcnetkyyg
+Temps fins prefix: 247.000000 ns
+Temps després prefix 2494.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 131.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 151 coincidències.'http://kb' no és una paraula, potser volies dir:
+http://kbaftknetyvdlx
+http://kbahpcomgdozsl
+http://kbaingiobionw
+http://kbanovvipvnetqwciyzv
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 131.000000 ns
+Temps després prefix 20862.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 150.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3963 coincidències.'https://n' no és una paraula, potser volies dir:
+https://naaestxhoorgousvhc
+https://naagytvihdorgtwqmt
+https://naalspndevtjdvcio
+https://naaocvedevamfo
+https://naaplkhuftxyzdzkqj
+Temps fins prefix: 150.000000 ns
+Temps després prefix 26851.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 123.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3833 coincidències.'http://k' no és una paraula, potser volies dir:
+http://kaagjzxyzshqih
+http://kaakpcommpd
+http://kaamoayioxawpti
+http://kaaqeaujxyzpzagh
+http://kaaqnpaxyznhyvl
+Temps fins prefix: 123.000000 ns
+Temps després prefix 21907.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 696.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'http://kbaxdohjrs.ne' no és una paraula, potser volies dir:
+http://kbaxdohjrs.netzylur
+Temps fins prefix: 696.000000 ns
+Temps després prefix 1909.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 227.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://kbaxdohjrs.' no és una paraula, potser volies dir:
+http://kbaxdohjrs.netzylur
+Temps fins prefix: 227.000000 ns
+Temps després prefix 2506.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 246.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://jghggz' no és una paraula, potser volies dir:
+http://jghggzioiqsoahda
+Temps fins prefix: 246.000000 ns
+Temps després prefix 2735.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 916.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'https://xwfwwufeb.io' no és una paraula, potser volies dir:
+https://xwfwwufeb.iogfhpx
+Temps fins prefix: 916.000000 ns
+Temps després prefix 1718.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 198.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://xyvfq' no és una paraula, potser volies dir:
+https://xyvfqlzsbxyzlkxunus
+Temps fins prefix: 198.000000 ns
+Temps després prefix 3535.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 231.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://xwfwwufeb' no és una paraula, potser volies dir:
+https://xwfwwufebiogfhpx
+Temps fins prefix: 231.000000 ns
+Temps després prefix 2138.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 245.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://jghggz.io/' no és una paraula, potser volies dir:
+http://jghggz.io/iqsoahda
+Temps fins prefix: 245.000000 ns
+Temps després prefix 2255.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 116.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3960 coincidències.'http://n' no és una paraula, potser volies dir:
+http://naabegmoccomkcvlvpf
+http://naacayqsyecomquftlxa
+http://naadymugorgrbvsy
+http://naaigowlgioycsu
+http://naakvwioqjpxgflv
+Temps fins prefix: 116.000000 ns
+Temps després prefix 27105.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 344.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://fnwghd.io/' no és una paraula, potser volies dir:
+https://fnwghd.io/kndxtt
+Temps fins prefix: 344.000000 ns
+Temps després prefix 2015.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 174.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 103664 coincidències.'https:/' no és una paraula, potser volies dir:
+https:/aaabpdpuenetvfshgji
+https:/aaacborggibyfc
+https:/aaakwemzxorgzerqwv
+https:/aaamhfrdevphfxk
+https:/aaamzbxmucomczryqba
+Temps fins prefix: 174.000000 ns
+Temps després prefix 21916.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://jghggz.i' no és una paraula, potser volies dir:
+http://jghggz.ioiqsoahda
+Temps fins prefix: 232.000000 ns
+Temps després prefix 2516.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 248.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://pqsyds' no és una paraula, potser volies dir:
+http://pqsydsjadcnetkyyg
+Temps fins prefix: 248.000000 ns
+Temps després prefix 3034.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 331.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://lhvqhibg' no és una paraula, potser volies dir:
+http://lhvqhibgbxiokejql
+Temps fins prefix: 331.000000 ns
+Temps després prefix 2462.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 316.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://ntiavgyr.o' no és una paraula, potser volies dir:
+http://ntiavgyr.orgochcdbq
+Temps fins prefix: 316.000000 ns
+Temps després prefix 2575.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://xyvfql' no és una paraula, potser volies dir:
+https://xyvfqlzsbxyzlkxunus
+Temps fins prefix: 232.000000 ns
+Temps després prefix 3354.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 184.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 7 coincidències.'http://hfg' no és una paraula, potser volies dir:
+http://hfgfcacombeunct
+http://hfghqruokiooodgcuu
+http://hfgohmgatdevupbjsf
+http://hfgomyvenetlaclyivw
+http://hfgtbsymwccomeelpr
+Temps fins prefix: 184.000000 ns
+Temps després prefix 28991.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 126.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3813 coincidències.'http://y' no és una paraula, potser volies dir:
+http://yaacjllpnethsseva
+http://yaajvioqlpfavl
+http://yaalkxxyzrwgvztk
+http://yaasydzicomyehlpos
+http://yaatbgklnorgmkherm
+Temps fins prefix: 126.000000 ns
+Temps després prefix 25772.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 288.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://xyvfqlzsb.' no és una paraula, potser volies dir:
+https://xyvfqlzsb.xyzlkxunus
+Temps fins prefix: 288.000000 ns
+Temps després prefix 2613.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 218.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://tdzt' no és una paraula, potser volies dir:
+https://tdztdshitgcomsq
+Temps fins prefix: 218.000000 ns
+Temps després prefix 2982.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 180.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 13 coincidències.'http://nnm' no és una paraula, potser volies dir:
+http://nnmcrmbdevxp
+http://nnmcyccnetetyxlc
+http://nnmhnwnetwenlgl
+http://nnmigmiorwgfec
+http://nnmilvszbiopouzmlf
+Temps fins prefix: 180.000000 ns
+Temps després prefix 22546.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 228.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://lhvqh' no és una paraula, potser volies dir:
+http://lhvqhibgbxiokejql
+Temps fins prefix: 228.000000 ns
+Temps després prefix 3207.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 148.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 165 coincidències.'https://td' no és una paraula, potser volies dir:
+https://tdadsflcynetwrafipz
+https://tdaepxxqacomxii
+https://tdaggxyzoxpsql
+https://tdaherxddevrwrqxb
+https://tdakrdcomopsyhs
+Temps fins prefix: 148.000000 ns
+Temps després prefix 25784.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 472.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://fvhuor.org/5' no és una paraula, potser volies dir:
+http://fvhuor.org/5biliw
+Temps fins prefix: 472.000000 ns
+Temps després prefix 1755.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 254.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://jghggz.' no és una paraula, potser volies dir:
+http://jghggz.ioiqsoahda
+Temps fins prefix: 254.000000 ns
+Temps després prefix 2808.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 388.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://mighsxxdn.x' no és una paraula, potser volies dir:
+https://mighsxxdn.xyzumjtwa
+Temps fins prefix: 388.000000 ns
+Temps després prefix 2172.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 308.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://nnmodudv.o' no és una paraula, potser volies dir:
+http://nnmodudv.orgjhgado
+Temps fins prefix: 308.000000 ns
+Temps després prefix 2268.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 113.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3755 coincidències.'http://o' no és una paraula, potser volies dir:
+http://oaagbfhbxyorgakory
+http://oaagsanxyzflysb
+http://oaamstuoiaorgclddgt
+http://oabgtwncomwundxr
+http://oabhyccqnetszxvcqr
+Temps fins prefix: 113.000000 ns
+Temps després prefix 26552.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 384.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://ynzqf.dev' no és una paraula, potser volies dir:
+https://ynzqf.devhtki
+Temps fins prefix: 384.000000 ns
+Temps després prefix 1361.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 322.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://tdztdshitg' no és una paraula, potser volies dir:
+https://tdztdshitgcomsq
+Temps fins prefix: 322.000000 ns
+Temps després prefix 1570.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 141.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 144 coincidències.'http://zv' no és una paraula, potser volies dir:
+http://zvbixwkdevxdbzqz
+http://zvbjkiomord
+http://zvblnbxivxcomyvxpjiqb
+http://zvbnfrirpxyzzedfg
+http://zvbosadevesouc
+Temps fins prefix: 141.000000 ns
+Temps després prefix 25344.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 273.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://cxzzlk' no és una paraula, potser volies dir:
+https://cxzzlklcomogtrtf
+Temps fins prefix: 273.000000 ns
+Temps després prefix 2820.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 263.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://fnwghd' no és una paraula, potser volies dir:
+https://fnwghdiokndxtt
+Temps fins prefix: 263.000000 ns
+Temps després prefix 2516.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 226.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://xwfww' no és una paraula, potser volies dir:
+https://xwfwwufebiogfhpx
+Temps fins prefix: 226.000000 ns
+Temps després prefix 3010.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 290.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://hfgohmg' no és una paraula, potser volies dir:
+http://hfgohmgatdevupbjsf
+Temps fins prefix: 290.000000 ns
+Temps després prefix 3040.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 237.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://cxzzlkl.' no és una paraula, potser volies dir:
+https://cxzzlkl.comogtrtf
+Temps fins prefix: 237.000000 ns
+Temps després prefix 2525.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 373.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://bzjer.com/' no és una paraula, potser volies dir:
+http://bzjer.com/dczyd
+Temps fins prefix: 373.000000 ns
+Temps després prefix 1890.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 382.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://opzcxe.org/uy' no és una paraula, potser volies dir:
+http://opzcxe.org/uyjll
+Temps fins prefix: 382.000000 ns
+Temps després prefix 1105.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 288.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://xyvfqlzsb' no és una paraula, potser volies dir:
+https://xyvfqlzsbxyzlkxunus
+Temps fins prefix: 288.000000 ns
+Temps després prefix 2805.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 256.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://nvynuk' no és una paraula, potser volies dir:
+https://nvynuknetxwqgs
+Temps fins prefix: 256.000000 ns
+Temps després prefix 2407.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 220.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://zvpze' no és una paraula, potser volies dir:
+http://zvpzevjrdevqwqeicx
+Temps fins prefix: 220.000000 ns
+Temps després prefix 3373.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 217.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://gfydz' no és una paraula, potser volies dir:
+https://gfydztyeoxyzzqtkdv
+Temps fins prefix: 217.000000 ns
+Temps després prefix 3291.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 132.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 134 coincidències.'http://jg' no és una paraula, potser volies dir:
+http://jgaannetafijgu
+http://jgacbkorgcfq
+http://jgajbycomknydlzp
+http://jgarzktxyzholcxq
+http://jgatcxyzqdat
+Temps fins prefix: 132.000000 ns
+Temps després prefix 22023.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 652.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'http://pqsydsjadc.ne' no és una paraula, potser volies dir:
+http://pqsydsjadc.netkyyg
+Temps fins prefix: 652.000000 ns
+Temps després prefix 1552.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 570.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'https://tdztdshitg.c' no és una paraula, potser volies dir:
+https://tdztdshitg.comsq
+Temps fins prefix: 570.000000 ns
+Temps després prefix 1298.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 205.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://tdztdshit' no és una paraula, potser volies dir:
+https://tdztdshitgcomsq
+Temps fins prefix: 205.000000 ns
+Temps després prefix 1875.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 144.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 4025 coincidències.'https://u' no és una paraula, potser volies dir:
+https://uaaajcomoixle
+https://uaakuiozvfgo
+https://uaalwgkwkcomnlqrc
+https://uaamkaozorgnlvn
+https://uaavlikjhiotoafbg
+Temps fins prefix: 144.000000 ns
+Temps després prefix 22671.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 215.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://xwfwwu' no és una paraula, potser volies dir:
+https://xwfwwufebiogfhpx
+Temps fins prefix: 215.000000 ns
+Temps després prefix 2750.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 198.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://bzje' no és una paraula, potser volies dir:
+http://bzjercomdczyd
+Temps fins prefix: 198.000000 ns
+Temps després prefix 2506.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 226.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://bzjer.com' no és una paraula, potser volies dir:
+http://bzjer.comdczyd
+Temps fins prefix: 226.000000 ns
+Temps després prefix 1554.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 256.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://cxzzlkl' no és una paraula, potser volies dir:
+https://cxzzlklcomogtrtf
+Temps fins prefix: 256.000000 ns
+Temps després prefix 2448.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 205.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://cmys' no és una paraula, potser volies dir:
+https://cmysjhpsqnetmdqjsnk
+Temps fins prefix: 205.000000 ns
+Temps després prefix 3811.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 168.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 2 coincidències.'https://xwfw' no és una paraula, potser volies dir:
+https://xwfwddrpiotbrwci
+https://xwfwwufebiogfhpx
+Temps fins prefix: 168.000000 ns
+Temps després prefix 8499.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 151.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 157 coincidències.'http://yq' no és una paraula, potser volies dir:
+http://yqaauuxyzikrop
+http://yqadsymlnetdkocdi
+http://yqagatpqtcomdrluceq
+http://yqaisvdevpyyhc
+http://yqardzwbvorgpfut
+Temps fins prefix: 151.000000 ns
+Temps després prefix 25860.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 273.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://bzjer.co' no és una paraula, potser volies dir:
+http://bzjer.comdczyd
+Temps fins prefix: 273.000000 ns
+Temps després prefix 1861.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 223.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://bzjer.com/d3' no és una paraula, potser volies dir:
+http://bzjer.com/d3czyd
+Temps fins prefix: 223.000000 ns
+Temps després prefix 1318.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 159.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 190 coincidències.'http://nn' no és una paraula, potser volies dir:
+http://nnacodaspxyzvtzvyd
+http://nnahxohtgdevnuvoxeb
+http://nnaqfgwodevgpkgs
+http://nnarfotnknetxsmisun
+http://nnazrlqorgbxh
+Temps fins prefix: 159.000000 ns
+Temps després prefix 27228.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 212.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 7 coincidències.'https://mig' no és una paraula, potser volies dir:
+https://mighsxxdnxyzumjtwa
+https://migqkxbdxyzsazggs
+https://migqsxorglxwzaj
+https://migscdokxyzsa
+https://migwgpjoorgimqs
+Temps fins prefix: 212.000000 ns
+Temps després prefix 23517.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 233.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://mighsxxd' no és una paraula, potser volies dir:
+https://mighsxxdnxyzumjtwa
+Temps fins prefix: 233.000000 ns
+Temps després prefix 2629.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 290.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://cmysjhp' no és una paraula, potser volies dir:
+https://cmysjhpsqnetmdqjsnk
+Temps fins prefix: 290.000000 ns
+Temps després prefix 3331.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 341.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://pqsydsjadc.' no és una paraula, potser volies dir:
+http://pqsydsjadc.netkyyg
+Temps fins prefix: 341.000000 ns
+Temps després prefix 2077.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 254.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://bzjer.c' no és una paraula, potser volies dir:
+http://bzjer.comdczyd
+Temps fins prefix: 254.000000 ns
+Temps després prefix 2002.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 134.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 7 coincidències.'http://bzj' no és una paraula, potser volies dir:
+http://bzjcyhlydevgkexz
+http://bzjercomdczyd
+http://bzjoalepzxyzjgfgnlp
+http://bzjopwnetyehdlg
+http://bzjwscomdohfpe
+Temps fins prefix: 134.000000 ns
+Temps després prefix 23098.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 394.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://ynzqf.dev/h' no és una paraula, potser volies dir:
+https://ynzqf.dev/htki
+Temps fins prefix: 394.000000 ns
+Temps després prefix 1106.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 256.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://fvhuor.' no és una paraula, potser volies dir:
+http://fvhuor.orgbiliw
+Temps fins prefix: 256.000000 ns
+Temps després prefix 2386.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 251.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://xwfwwufe' no és una paraula, potser volies dir:
+https://xwfwwufebiogfhpx
+Temps fins prefix: 251.000000 ns
+Temps després prefix 2248.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 202.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://nnmod' no és una paraula, potser volies dir:
+http://nnmodudvorgjhgado
+Temps fins prefix: 202.000000 ns
+Temps després prefix 3173.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 243.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://nnmodudv.' no és una paraula, potser volies dir:
+http://nnmodudv.orgjhgado
+Temps fins prefix: 243.000000 ns
+Temps després prefix 2575.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 360.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://tdztdshitg.' no és una paraula, potser volies dir:
+https://tdztdshitg.comsq
+Temps fins prefix: 360.000000 ns
+Temps després prefix 1557.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 139.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3978 coincidències.'https://c' no és una paraula, potser volies dir:
+https://caaauioojnmw
+https://caafrugorgfpojehh
+https://caaibnycomhgantrt
+https://caajzsbviedevmeuylo
+https://caavjydevsebtg
+Temps fins prefix: 139.000000 ns
+Temps després prefix 27114.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 267.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://hpzpsc' no és una paraula, potser volies dir:
+http://hpzpsckornettdncwnq
+Temps fins prefix: 267.000000 ns
+Temps després prefix 3434.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 276.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://gfydzty' no és una paraula, potser volies dir:
+https://gfydztyeoxyzzqtkdv
+Temps fins prefix: 276.000000 ns
+Temps després prefix 2919.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 336.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://pqsydsjadc' no és una paraula, potser volies dir:
+http://pqsydsjadcnetkyyg
+Temps fins prefix: 336.000000 ns
+Temps després prefix 2051.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 174.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://ntia' no és una paraula, potser volies dir:
+http://ntiavgyrorgochcdbq
+Temps fins prefix: 174.000000 ns
+Temps després prefix 3673.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 203.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://fvhuor' no és una paraula, potser volies dir:
+http://fvhuororgbiliw
+Temps fins prefix: 203.000000 ns
+Temps després prefix 2244.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 356.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://zvpzevjr.dev/' no és una paraula, potser volies dir:
+http://zvpzevjr.dev/qwqeicx
+Temps fins prefix: 356.000000 ns
+Temps després prefix 3414.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 546.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://zvpzevjr.d' no és una paraula, potser volies dir:
+http://zvpzevjr.devqwqeicx
+Temps fins prefix: 546.000000 ns
+Temps després prefix 2519.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 240.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://hpzpsck' no és una paraula, potser volies dir:
+http://hpzpsckornettdncwnq
+Temps fins prefix: 240.000000 ns
+Temps després prefix 3269.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 121.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3860 coincidències.'http://p' no és una paraula, potser volies dir:
+http://paakebnetktgak
+http://paaluigxyzezme
+http://paardcomrjgcedt
+http://paasdbaiojfqgwgr
+http://paasxioneuca
+Temps fins prefix: 121.000000 ns
+Temps després prefix 30574.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 304.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://yqwukikwk.' no és una paraula, potser volies dir:
+http://yqwukikwk.orgkcpxguf
+Temps fins prefix: 304.000000 ns
+Temps després prefix 2969.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 336.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://cmysjhps' no és una paraula, potser volies dir:
+https://cmysjhpsqnetmdqjsnk
+Temps fins prefix: 336.000000 ns
+Temps després prefix 2907.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 232.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://uodux' no és una paraula, potser volies dir:
+https://uoduxdioyzhczin
+Temps fins prefix: 232.000000 ns
+Temps després prefix 2707.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 122.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://yqwu' no és una paraula, potser volies dir:
+http://yqwukikwkorgkcpxguf
+Temps fins prefix: 122.000000 ns
+Temps després prefix 3804.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 249.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://fnwghd.' no és una paraula, potser volies dir:
+https://fnwghd.iokndxtt
+Temps fins prefix: 249.000000 ns
+Temps després prefix 2263.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 341.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://jghggz.io/iq' no és una paraula, potser volies dir:
+http://jghggz.io/iqsoahda
+Temps fins prefix: 341.000000 ns
+Temps després prefix 1961.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 165.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://hpzps' no és una paraula, potser volies dir:
+http://hpzpsckornettdncwnq
+Temps fins prefix: 165.000000 ns
+Temps després prefix 3689.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 126.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 139 coincidències.'http://lh' no és una paraula, potser volies dir:
+http://lhaglxiorggyrlap
+http://lhahchzanfdevhop
+http://lhambxlacomvkamen
+http://lhammjxiooopie
+http://lhaovibhmuxyzknhqs
+Temps fins prefix: 126.000000 ns
+Temps després prefix 24670.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 169.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 6 coincidències.'https://cxz' no és una paraula, potser volies dir:
+https://cxzioodnmkioqcqjg
+https://cxzkyxyzjyjjdk
+https://cxzujsotopcommygslyim
+https://cxzvewxyzybzcavf
+https://cxzypxnetoemum
+Temps fins prefix: 169.000000 ns
+Temps després prefix 26228.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 257.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://mighsx' no és una paraula, potser volies dir:
+https://mighsxxdnxyzumjtwa
+Temps fins prefix: 257.000000 ns
+Temps després prefix 3078.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 234.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://opzcxe' no és una paraula, potser volies dir:
+http://opzcxeorguyjll
+Temps fins prefix: 234.000000 ns
+Temps després prefix 2289.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 261.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://jghggz.io' no és una paraula, potser volies dir:
+http://jghggz.ioiqsoahda
+Temps fins prefix: 261.000000 ns
+Temps després prefix 2283.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 176.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 3 coincidències.'http://yqw' no és una paraula, potser volies dir:
+http://yqwannixorgakuxrnw
+http://yqwkosnetuvfvl
+http://yqwukikwkorgkcpxguf
+Temps fins prefix: 176.000000 ns
+Temps després prefix 16574.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 125.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 144 coincidències.'http://hp' no és una paraula, potser volies dir:
+http://hpagrhojiolckkzk
+http://hpaqwcnetqptnp
+http://hpaqwdevpocomfsqg
+http://hpavyhcomlkoaf
+http://hpbqhxyzmwdwodj
+Temps fins prefix: 125.000000 ns
+Temps després prefix 23928.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 288.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://ynzqf.d' no és una paraula, potser volies dir:
+https://ynzqf.devhtki
+Temps fins prefix: 288.000000 ns
+Temps després prefix 1826.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 124.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 152 coincidències.'http://bz' no és una paraula, potser volies dir:
+http://bzaettforgcfqniy
+http://bzafemoorgrovzw
+http://bzakoukcomgotmtcl
+http://bzakzjiorgbntprvj
+http://bzampzdriiokbekkxl
+Temps fins prefix: 124.000000 ns
+Temps després prefix 26252.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 284.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://bzjer.com/d' no és una paraula, potser volies dir:
+http://bzjer.com/dczyd
+Temps fins prefix: 284.000000 ns
+Temps després prefix 1343.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 311.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://lhvqhibgb' no és una paraula, potser volies dir:
+http://lhvqhibgbxiokejql
+Temps fins prefix: 311.000000 ns
+Temps després prefix 2248.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 161.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://fvhu' no és una paraula, potser volies dir:
+http://fvhuororgbiliw
+Temps fins prefix: 161.000000 ns
+Temps després prefix 2700.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 112.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 200000 coincidències.'http://' no és una paraula, potser volies dir:
+http://aaaiqhckcpnetehtzxv
+http://aaajtbxorggichbvrs
+http://aaaolocbrtorgtukuufu
+http://aaargcomcbyrwv
+http://aaavuudevctjzaa
+Temps fins prefix: 112.000000 ns
+Temps després prefix 23539.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 380.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://uoduxd.io/y' no és una paraula, potser volies dir:
+https://uoduxd.io/yzhczin
+Temps fins prefix: 380.000000 ns
+Temps després prefix 1808.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 115.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3811 coincidències.'http://f' no és una paraula, potser volies dir:
+http://faadkcomquwn
+http://faafaijhiokkhcoy
+http://faayhxaeonethtwx
+http://fabbcgjnetclwbpaia
+http://fabgzcomaqm
+Temps fins prefix: 115.000000 ns
+Temps després prefix 25651.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 191.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://xyvf' no és una paraula, potser volies dir:
+https://xyvfqlzsbxyzlkxunus
+Temps fins prefix: 191.000000 ns
+Temps després prefix 3826.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 677.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'https://cmysjhpsq.ne' no és una paraula, potser volies dir:
+https://cmysjhpsq.netmdqjsnk
+Temps fins prefix: 677.000000 ns
+Temps després prefix 2222.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 129.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 200000 coincidències.'http:/' no és una paraula, potser volies dir:
+http:/aaaiqhckcpnetehtzxv
+http:/aaajtbxorggichbvrs
+http:/aaaolocbrtorgtukuufu
+http:/aaargcomcbyrwv
+http:/aaavuudevctjzaa
+Temps fins prefix: 129.000000 ns
+Temps després prefix 24862.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 320.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://gfydztyeo.x' no és una paraula, potser volies dir:
+https://gfydztyeo.xyzzqtkdv
+Temps fins prefix: 320.000000 ns
+Temps després prefix 2203.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 348.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://cxzzlkl.com' no és una paraula, potser volies dir:
+https://cxzzlkl.comogtrtf
+Temps fins prefix: 348.000000 ns
+Temps després prefix 1975.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 229.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://hfgohm' no és una paraula, potser volies dir:
+http://hfgohmgatdevupbjsf
+Temps fins prefix: 229.000000 ns
+Temps després prefix 3153.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 502.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'http://lhvqhibgbx.io' no és una paraula, potser volies dir:
+http://lhvqhibgbx.iokejql
+Temps fins prefix: 502.000000 ns
+Temps després prefix 1577.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 291.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://nvynuk.n' no és una paraula, potser volies dir:
+https://nvynuk.netxwqgs
+Temps fins prefix: 291.000000 ns
+Temps després prefix 2224.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 216.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://ynzqf' no és una paraula, potser volies dir:
+https://ynzqfdevhtki
+Temps fins prefix: 216.000000 ns
+Temps després prefix 2146.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 265.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://ntiavgy' no és una paraula, potser volies dir:
+http://ntiavgyrorgochcdbq
+Temps fins prefix: 265.000000 ns
+Temps després prefix 2956.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 320.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://opzcxe.org/' no és una paraula, potser volies dir:
+http://opzcxe.org/uyjll
+Temps fins prefix: 320.000000 ns
+Temps després prefix 1529.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 343.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://mighsxxdn.' no és una paraula, potser volies dir:
+https://mighsxxdn.xyzumjtwa
+Temps fins prefix: 343.000000 ns
+Temps després prefix 2386.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 122.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3923 coincidències.'https://x' no és una paraula, potser volies dir:
+https://xaacnrorgbzymszlf
+https://xaaddjfkorgspiigo
+https://xaahbjhorgwjqsd
+https://xaaiydevbbcxwqs
+https://xaatdxsxttioijcsom
+Temps fins prefix: 122.000000 ns
+Temps després prefix 25065.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 333.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://lhvqhibgbx.i' no és una paraula, potser volies dir:
+http://lhvqhibgbx.iokejql
+Temps fins prefix: 333.000000 ns
+Temps després prefix 1996.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 579.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'https://xyvfqlzsb.xy' no és una paraula, potser volies dir:
+https://xyvfqlzsb.xyzlkxunus
+Temps fins prefix: 579.000000 ns
+Temps després prefix 2141.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 288.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://fvhuor.or' no és una paraula, potser volies dir:
+http://fvhuor.orgbiliw
+Temps fins prefix: 288.000000 ns
+Temps després prefix 2030.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 238.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://gfydzt' no és una paraula, potser volies dir:
+https://gfydztyeoxyzzqtkdv
+Temps fins prefix: 238.000000 ns
+Temps després prefix 3076.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 534.000000 ns
+Nodes nodes visitats: 17 nodes
+Profunditat de la cerca: 17 d
+S'han trobat 1 coincidències.'http://hpzpsckor.net' no és una paraula, potser volies dir:
+http://hpzpsckor.nettdncwnq
+Temps fins prefix: 534.000000 ns
+Temps després prefix 2024.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 150.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 4009 coincidències.'https://m' no és una paraula, potser volies dir:
+https://maacbrfldevhuwkatp
+https://maahwphxcfnetxdygaj
+https://maajcygxyzsjhauptv
+https://maalidevlalzlb
+https://maappkwdevbkvyt
+Temps fins prefix: 150.000000 ns
+Temps després prefix 27657.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 319.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://yqwukikwk' no és una paraula, potser volies dir:
+http://yqwukikwkorgkcpxguf
+Temps fins prefix: 319.000000 ns
+Temps després prefix 2690.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 275.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://fvhuor.org/55' no és una paraula, potser volies dir:
+http://fvhuor.org/55biliw
+Temps fins prefix: 275.000000 ns
+Temps després prefix 1564.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 397.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://uoduxd.io/yz' no és una paraula, potser volies dir:
+https://uoduxd.io/yzhczin
+Temps fins prefix: 397.000000 ns
+Temps després prefix 1686.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 111.000000 ns
+Nodes nodes visitats: 3 nodes
+Profunditat de la cerca: 3 d
+S'han trobat 200000 coincidències.'ht' no és una paraula, potser volies dir:
+httpaaaiqhckcpnetehtzxv
+httpaaajtbxorggichbvrs
+httpaaaolocbrtorgtukuufu
+httpaaargcomcbyrwv
+httpaaavuudevctjzaa
+Temps fins prefix: 111.000000 ns
+Temps després prefix 24728.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 193.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://cxzz' no és una paraula, potser volies dir:
+https://cxzzlklcomogtrtf
+Temps fins prefix: 193.000000 ns
+Temps després prefix 3285.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 95.000000 ns
+Nodes nodes visitats: 5 nodes
+Profunditat de la cerca: 5 d
+S'han trobat 200000 coincidències.'http' no és una paraula, potser volies dir:
+httpaaaiqhckcpnetehtzxv
+httpaaajtbxorggichbvrs
+httpaaaolocbrtorgtukuufu
+httpaaargcomcbyrwv
+httpaaavuudevctjzaa
+Temps fins prefix: 95.000000 ns
+Temps després prefix 23268.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 292.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://nnmodudv' no és una paraula, potser volies dir:
+http://nnmodudvorgjhgado
+Temps fins prefix: 292.000000 ns
+Temps després prefix 2599.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 127.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 148 coincidències.'http://hf' no és una paraula, potser volies dir:
+http://hfadkwwdevbkajy
+http://hfahlnetaqlpedwq
+http://hfaidpxyzjoerq
+http://hfaixxygfwdevdvvoig
+http://hfapkknnqdevxwzhw
+Temps fins prefix: 127.000000 ns
+Temps després prefix 25645.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 337.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://opzcxe.org' no és una paraula, potser volies dir:
+http://opzcxe.orguyjll
+Temps fins prefix: 337.000000 ns
+Temps després prefix 1548.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 223.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://kbaxd' no és una paraula, potser volies dir:
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 223.000000 ns
+Temps després prefix 3588.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 137.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 6 coincidències.'http://nti' no és una paraula, potser volies dir:
+http://ntiavgyrorgochcdbq
+http://ntiofjorgdnskunb
+http://ntiokzcomgufj
+http://ntisvbxoseioiwckn
+http://ntitthjuzinetbij
+Temps fins prefix: 137.000000 ns
+Temps després prefix 24548.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 221.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://bzjer.' no és una paraula, potser volies dir:
+http://bzjer.comdczyd
+Temps fins prefix: 221.000000 ns
+Temps després prefix 2342.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 167.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 8 coincidències.'https://xyv' no és una paraula, potser volies dir:
+https://xyvbbgiolpiwj
+https://xyvfqlzsbxyzlkxunus
+https://xyvgxorgvvzxud
+https://xyvlgkjkcdevmgqkwu
+https://xyvuoxetcombqlhq
+Temps fins prefix: 167.000000 ns
+Temps després prefix 24659.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 296.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://tdztdshi' no és una paraula, potser volies dir:
+https://tdztdshitgcomsq
+Temps fins prefix: 296.000000 ns
+Temps després prefix 2030.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 290.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://kbaxdohjrs' no és una paraula, potser volies dir:
+http://kbaxdohjrsnetzylur
+Temps fins prefix: 290.000000 ns
+Temps després prefix 2484.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 241.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'http://pqsydsj' no és una paraula, potser volies dir:
+http://pqsydsjadcnetkyyg
+Temps fins prefix: 241.000000 ns
+Temps després prefix 2698.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 129.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3906 coincidències.'https://t' no és una paraula, potser volies dir:
+https://taaaekziucomrfyzi
+https://taawdftvcombjtaxy
+https://tabargvfionvgusfj
+https://tabdixyznrfrj
+https://tabdtbucorgwfczmr
+Temps fins prefix: 129.000000 ns
+Temps després prefix 25093.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 207.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://jghgg' no és una paraula, potser volies dir:
+http://jghggzioiqsoahda
+Temps fins prefix: 207.000000 ns
+Temps després prefix 2933.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 180.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 1 coincidències.'http://opzc' no és una paraula, potser volies dir:
+http://opzcxeorguyjll
+Temps fins prefix: 180.000000 ns
+Temps després prefix 2763.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 99.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 3880 coincidències.'http://j' no és una paraula, potser volies dir:
+http://jaaaqhpxiowmenhz
+http://jaaccioeljxyzrauknr
+http://jaagigucomgemyarz
+http://jaarqoofixyzcmbddhtc
+http://jaatkznetbavkgd
+Temps fins prefix: 99.000000 ns
+Temps després prefix 28798.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 335.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://nvynuk.net/' no és una paraula, potser volies dir:
+https://nvynuk.net/xwqgs
+Temps fins prefix: 335.000000 ns
+Temps després prefix 1554.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 323.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://xwfwwufeb.' no és una paraula, potser volies dir:
+https://xwfwwufeb.iogfhpx
+Temps fins prefix: 323.000000 ns
+Temps després prefix 2187.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 138.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'https://nvyn' no és una paraula, potser volies dir:
+https://nvynuknetxwqgs
+Temps fins prefix: 138.000000 ns
+Temps després prefix 2665.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 138.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 168 coincidències.'https://cx' no és una paraula, potser volies dir:
+https://cxafudevloxfzwyy
+https://cxallpdevzaklptt
+https://cxantxyzcr
+https://cxaxkyeufnetuuttvs
+https://cxbaojorgyanabgbz
+Temps fins prefix: 138.000000 ns
+Temps després prefix 23974.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 250.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://hpzpscko' no és una paraula, potser volies dir:
+http://hpzpsckornettdncwnq
+Temps fins prefix: 250.000000 ns
+Temps després prefix 3067.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 134.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 168 coincidències.'https://gf' no és una paraula, potser volies dir:
+https://gfacgkitvioruzperf
+https://gfajokrnetkpkdwsc
+https://gfappvcsxnetrtard
+https://gfarrpacomvmljio
+https://gfaudciocrvkx
+Temps fins prefix: 134.000000 ns
+Temps després prefix 25773.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 270.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://zvpzevjr' no és una paraula, potser volies dir:
+http://zvpzevjrdevqwqeicx
+Temps fins prefix: 270.000000 ns
+Temps després prefix 2724.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 204.000000 ns
+Nodes nodes visitats: 9 nodes
+Profunditat de la cerca: 9 d
+S'han trobat 2 coincidències.'http://lhvq' no és una paraula, potser volies dir:
+http://lhvqeeorgldilakk
+http://lhvqhibgbxiokejql
+Temps fins prefix: 204.000000 ns
+Temps després prefix 8922.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 215.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'https://mighs' no és una paraula, potser volies dir:
+https://mighsxxdnxyzumjtwa
+Temps fins prefix: 215.000000 ns
+Temps després prefix 3291.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 384.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://hfgohmgat.de' no és una paraula, potser volies dir:
+http://hfgohmgat.devupbjsf
+Temps fins prefix: 384.000000 ns
+Temps després prefix 2023.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 337.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://uoduxd.io' no és una paraula, potser volies dir:
+https://uoduxd.ioyzhczin
+Temps fins prefix: 337.000000 ns
+Temps després prefix 1987.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 233.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://hpzpsckor' no és una paraula, potser volies dir:
+http://hpzpsckornettdncwnq
+Temps fins prefix: 233.000000 ns
+Temps després prefix 2669.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 267.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://zvpzevjr.de' no és una paraula, potser volies dir:
+http://zvpzevjr.devqwqeicx
+Temps fins prefix: 267.000000 ns
+Temps després prefix 2321.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 192.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://zvpzevjr.' no és una paraula, potser volies dir:
+http://zvpzevjr.devqwqeicx
+Temps fins prefix: 192.000000 ns
+Temps després prefix 2674.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 136.000000 ns
+Nodes nodes visitats: 6 nodes
+Profunditat de la cerca: 6 d
+S'han trobat 103664 coincidències.'https://' no és una paraula, potser volies dir:
+https://aaabpdpuenetvfshgji
+https://aaacborggibyfc
+https://aaakwemzxorgzerqwv
+https://aaamhfrdevphfxk
+https://aaamzbxmucomczryqba
+Temps fins prefix: 136.000000 ns
+Temps després prefix 23052.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 292.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://gfydztyeo' no és una paraula, potser volies dir:
+https://gfydztyeoxyzzqtkdv
+Temps fins prefix: 292.000000 ns
+Temps després prefix 2388.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 266.000000 ns
+Nodes nodes visitats: 12 nodes
+Profunditat de la cerca: 12 d
+S'han trobat 1 coincidències.'https://tdztds' no és una paraula, potser volies dir:
+https://tdztdshitgcomsq
+Temps fins prefix: 266.000000 ns
+Temps després prefix 2445.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 287.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://jghggz.io/i' no és una paraula, potser volies dir:
+http://jghggz.io/iqsoahda
+Temps fins prefix: 287.000000 ns
+Temps després prefix 2265.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 356.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://fnwghd.io/k' no és una paraula, potser volies dir:
+https://fnwghd.io/kndxtt
+Temps fins prefix: 356.000000 ns
+Temps després prefix 1545.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 314.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'http://fvhuor.org' no és una paraula, potser volies dir:
+http://fvhuor.orgbiliw
+Temps fins prefix: 314.000000 ns
+Temps després prefix 1561.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 215.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://lhvqhi' no és una paraula, potser volies dir:
+http://lhvqhibgbxiokejql
+Temps fins prefix: 215.000000 ns
+Temps després prefix 2937.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 113.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 7 coincidències.'http://lhv' no és una paraula, potser volies dir:
+http://lhvanfxyzjlcnw
+http://lhvdgchcombevdqd
+http://lhvjqlljxyzwutbhiu
+http://lhvmsbiozsoiqcof
+http://lhvoqgbcomryuezg
+Temps fins prefix: 113.000000 ns
+Temps després prefix 25135.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 281.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://nvynuk.ne' no és una paraula, potser volies dir:
+https://nvynuk.netxwqgs
+Temps fins prefix: 281.000000 ns
+Temps després prefix 1757.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 262.000000 ns
+Nodes nodes visitats: 11 nodes
+Profunditat de la cerca: 11 d
+S'han trobat 1 coincidències.'http://opzcxe.' no és una paraula, potser volies dir:
+http://opzcxe.orguyjll
+Temps fins prefix: 262.000000 ns
+Temps després prefix 2469.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 227.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'http://lhvqhibgbx.' no és una paraula, potser volies dir:
+http://lhvqhibgbx.iokejql
+Temps fins prefix: 227.000000 ns
+Temps després prefix 2058.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 390.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://cmysjhpsq.n' no és una paraula, potser volies dir:
+https://cmysjhpsq.netmdqjsnk
+Temps fins prefix: 390.000000 ns
+Temps després prefix 2608.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 206.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://tdztdsh' no és una paraula, potser volies dir:
+https://tdztdshitgcomsq
+Temps fins prefix: 206.000000 ns
+Temps després prefix 2269.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 312.000000 ns
+Nodes nodes visitats: 15 nodes
+Profunditat de la cerca: 15 d
+S'han trobat 1 coincidències.'https://cxzzlkl.co' no és una paraula, potser volies dir:
+https://cxzzlkl.comogtrtf
+Temps fins prefix: 312.000000 ns
+Temps després prefix 2195.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 149.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 160 coincidències.'https://nv' no és una paraula, potser volies dir:
+https://nvaazfrnetknhzsa
+https://nvafmmdevpcfiyqf
+https://nvakniouilwf
+https://nvasvqlotorghezins
+https://nvauyxynyqxyzianwhj
+Temps fins prefix: 149.000000 ns
+Temps després prefix 24393.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 331.000000 ns
+Nodes nodes visitats: 14 nodes
+Profunditat de la cerca: 14 d
+S'han trobat 1 coincidències.'https://uoduxd.io/' no és una paraula, potser volies dir:
+https://uoduxd.io/yzhczin
+Temps fins prefix: 331.000000 ns
+Temps després prefix 2202.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 235.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'https://xwfwwuf' no és una paraula, potser volies dir:
+https://xwfwwufebiogfhpx
+Temps fins prefix: 235.000000 ns
+Temps després prefix 2818.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 119.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 3993 coincidències.'https://y' no és una paraula, potser volies dir:
+https://yaacnzlndevwige
+https://yaaektxyzrgb
+https://yaahbrpjpaorgpkvqml
+https://yaajddeekiotuaidx
+https://yaapgrbkcomhhzpoeg
+Temps fins prefix: 119.000000 ns
+Temps després prefix 25492.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 134.000000 ns
+Nodes nodes visitats: 7 nodes
+Profunditat de la cerca: 7 d
+S'han trobat 154 coincidències.'http://pq' no és una paraula, potser volies dir:
+http://pqacznetjerssiix
+http://pqadsddevjiyf
+http://pqahntorgrvov
+http://pqaoyjkcwxyzizy
+http://pqapzsmnetwtlal
+Temps fins prefix: 134.000000 ns
+Temps després prefix 21462.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 440.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'http://zvpzevjr.dev' no és una paraula, potser volies dir:
+http://zvpzevjr.devqwqeicx
+Temps fins prefix: 440.000000 ns
+Temps després prefix 2072.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 359.000000 ns
+Nodes nodes visitats: 16 nodes
+Profunditat de la cerca: 16 d
+S'han trobat 1 coincidències.'https://cxzzlkl.com/' no és una paraula, potser volies dir:
+https://cxzzlkl.com/ogtrtf
+Temps fins prefix: 359.000000 ns
+Temps després prefix 1958.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 292.000000 ns
+Nodes nodes visitats: 13 nodes
+Profunditat de la cerca: 13 d
+S'han trobat 1 coincidències.'http://ntiavgyr.' no és una paraula, potser volies dir:
+http://ntiavgyr.orgochcdbq
+Temps fins prefix: 292.000000 ns
+Temps després prefix 2720.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 178.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 7 coincidències.'http://fvh' no és una paraula, potser volies dir:
+http://fvhdvzgldpxyzchybj
+http://fvhgfushddevuslvosx
+http://fvhlzcddevdvbrsz
+http://fvhtnehdiicomjznnhe
+http://fvhuororgbiliw
+Temps fins prefix: 178.000000 ns
+Temps després prefix 27925.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 199.000000 ns
+Nodes nodes visitats: 10 nodes
+Profunditat de la cerca: 10 d
+S'han trobat 1 coincidències.'http://opzcx' no és una paraula, potser volies dir:
+http://opzcxeorguyjll
+Temps fins prefix: 199.000000 ns
+Temps després prefix 2480.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+Temps per la cerca: 122.000000 ns
+Nodes nodes visitats: 8 nodes
+Profunditat de la cerca: 8 d
+S'han trobat 143 coincidències.'https://cm' no és una paraula, potser volies dir:
+https://cmaaugqiomksoukfd
+https://cmafsovmhacomyjfxwj
+https://cmarbedevpgdzm
+https://cmavhnetpzcmv
+https://cmavrhdevvrbgw
+Temps fins prefix: 122.000000 ns
+Temps després prefix 22603.000000 ns
+
+
+Introdueix la paraula/frase que vols buscar: 
+
+Nodes visitats de mitjana per operació: 11.540000
+===========Cas 1 o 2==========
+Latència mitjana per operació: 356.513333
+Profunditat (d) mitjana per operació: 11.540000
+============Cas 3=============
+Latència mitjana després del prefix: 8371.583333
+Nodes de mitjana després del prefix: 23.563333
