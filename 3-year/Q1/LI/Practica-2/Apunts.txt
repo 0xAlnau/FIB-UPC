@@ -1,0 +1,22 @@
+Per executar:
+    - swipl
+    - [nom_arxiu]. (carrega el fitxer)
+    - halt. (surt)
+
+Tenim predicats amb els quals fem fets!!
+Prolog va mirant predicats i consulta
+
+Regles -> mes_gros(xy) :- mes_gros(xz), mes_gros(zy) (x es cert si passa y i z)
+(recursio) mGros(xy) :- mes_gros(xy)
+           mGros(xy) :- mes_gros(xz), mGros(zy)
+
+, es la conjuncio
+
+segon([_,X | _],X).
+      el principi de la llista em dona igual, despres va X i la resta de la cua em dona igual, retorna x
+
++ es entrada
+- es sortida
+? pot ser les dues
+
+Les entrades les podem posar en el propi programa
