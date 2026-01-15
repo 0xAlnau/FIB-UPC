@@ -1,0 +1,5 @@
+Passos per optimització:
+
+1- A partir d'ara usarem per tot el MaxX, per exemple per escollir una hora H, i això ho fem fent between(1,MaxX, H
+
+2- NO cal relacionar tot, les restriccions per separat no han de saber res de la resta
