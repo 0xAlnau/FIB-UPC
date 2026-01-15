@@ -1,0 +1,658 @@
+
+------------------
+vars-100-01.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              209                1.30 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-02.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                               47                1.68 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-03.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             1500                1.13 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-100-04.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             1185                1.24 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-100-05.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              372                1.13 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-06.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              590                1.37 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-07.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              201                1.18 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-08.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              205                1.21 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-100-09.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             1070                1.13 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-100-10.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             1037                1.23 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-150-01.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              732                1.21 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-02.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             1699                1.22 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-03.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             3738                1.37 per conflict
+c warming_decisions:                       20               20.00 per walk
+0 s
+misat:
+SATISFIABLE
+1 s
+
+------------------
+vars-150-04.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             2005                1.27 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-05.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             5834                1.25 per conflict
+c warming_decisions:                       21               21.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-150-06.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             1074                1.25 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-07.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                             5132                1.23 per conflict
+c warming_decisions:                       20               20.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-150-08.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             3450                1.22 per conflict
+c warming_decisions:                       28               28.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-09.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             2261                1.25 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-150-10.cnf
+KisSAT:
+UNSATISFIABLE
+c decisions:                            10246                1.20 per conflict
+c warming_decisions:                       23               23.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-200-01.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c decisions:                            26942                1.30 per conflict
+c warming_decisions:                       29               29.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+1 s
+
+------------------
+vars-200-02.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             3474                1.25 per conflict
+c warming_decisions:                       28               28.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-03.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c decisions:                            30550                1.33 per conflict
+c warming_decisions:                       25               25.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+1 s
+
+------------------
+vars-200-04.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c decisions:                            14209                1.28 per conflict
+c warming_decisions:                       22               22.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-200-05.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c decisions:                            24019                1.44 per conflict
+c warming_decisions:                       24               24.00 per walk
+0 s
+misat:
+UNSATISFIABLE
+1 s
+
+------------------
+vars-200-06.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             3855                1.37 per conflict
+c warming_decisions:                       22               22.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-07.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c decisions:                            54909                1.49 per conflict
+c warming_decisions:                       45               22.50 per walk
+1 s
+misat:
+UNSATISFIABLE
+1 s
+
+------------------
+vars-200-08.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             3456                1.27 per conflict
+c warming_decisions:                       31               31.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-09.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                              757                1.85 per conflict
+c warming_decisions:                        0                0.00 per walk
+0 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-200-10.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c decisions:                            39405                1.43 per conflict
+c warming_decisions:                       46               23.00 per walk
+1 s
+misat:
+UNSATISFIABLE
+0 s
+
+------------------
+vars-250-01.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in focused search mode
+c [reorder-4] reordered decisions in stable search mode
+c decisions:                           175642                1.62 per conflict
+c warming_decisions:                       96               32.00 per walk
+2 s
+misat:
+UNSATISFIABLE
+4 s
+
+------------------
+vars-250-02.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in focused search mode
+c [reorder-4] reordered decisions in focused search mode
+c [reorder-5] reordered decisions in focused search mode
+c decisions:                           224728                1.59 per conflict
+c warming_decisions:                      106               26.50 per walk
+3 s
+misat:
+UNSATISFIABLE
+5 s
+
+------------------
+vars-250-03.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             3627                1.30 per conflict
+c warming_decisions:                       23               23.00 per walk
+0 s
+misat:
+SATISFIABLE
+3 s
+
+------------------
+vars-250-04.cnf
+KisSAT:
+SATISFIABLE
+c [reorder-1] reordered decisions in stable search mode
+c [reorder-2] reordered decisions in stable search mode
+c decisions:                            63827                1.54 per conflict
+c warming_decisions:                       49               24.50 per walk
+1 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-250-05.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in focused search mode
+c [reorder-4] reordered decisions in stable search mode
+c [reorder-5] reordered decisions in stable search mode
+c decisions:                           206901                1.55 per conflict
+c warming_decisions:                       88               22.00 per walk
+3 s
+misat:
+UNSATISFIABLE
+5 s
+
+------------------
+vars-250-06.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in stable search mode
+c [reorder-4] reordered decisions in stable search mode
+c [reorder-5] reordered decisions in focused search mode
+c [reorder-6] reordered decisions in focused search mode
+c decisions:                           261899                1.51 per conflict
+c warming_decisions:                       96               24.00 per walk
+3 s
+misat:
+UNSATISFIABLE
+10 s
+
+------------------
+vars-250-07.cnf
+KisSAT:
+SATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in stable search mode
+c decisions:                           138328                1.74 per conflict
+c warming_decisions:                       96               32.00 per walk
+1 s
+misat:
+SATISFIABLE
+2 s
+
+------------------
+vars-250-08.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in stable search mode
+c [reorder-4] reordered decisions in stable search mode
+c [reorder-5] reordered decisions in focused search mode
+c decisions:                           211659                1.53 per conflict
+c warming_decisions:                      103               25.75 per walk
+2 s
+misat:
+UNSATISFIABLE
+6 s
+
+------------------
+vars-250-09.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             4597                1.64 per conflict
+c warming_decisions:                       32               32.00 per walk
+1 s
+misat:
+SATISFIABLE
+1 s
+
+------------------
+vars-250-10.cnf
+KisSAT:
+SATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c decisions:                            43142                1.83 per conflict
+c warming_decisions:                       52               26.00 per walk
+1 s
+misat:
+SATISFIABLE
+0 s
+
+------------------
+vars-300-01.cnf
+KisSAT:
+SATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in stable search mode
+c decisions:                           111735                1.63 per conflict
+c warming_decisions:                       92               30.67 per walk
+2 s
+misat:
+SATISFIABLE
+1 s
+
+------------------
+vars-300-02.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in stable search mode
+c [reorder-4] reordered decisions in stable search mode
+c [reorder-5] reordered decisions in focused search mode
+c [reorder-6] reordered decisions in focused search mode
+c [reorder-7] reordered decisions in focused search mode
+c [reorder-8] reordered decisions in focused search mode
+c [reorder-9] reordered decisions in stable search mode
+c [reorder-10] reordered decisions in focused search mode
+c [reorder-11] reordered decisions in stable search mode
+c [reorder-12] reordered decisions in stable search mode
+c [reorder-13] reordered decisions in stable search mode
+c [reorder-14] reordered decisions in stable search mode
+c decisions:                          1529595                1.55 per conflict
+c warming_decisions:                      227               28.38 per walk
+24 s
+misat:
+UNSATISFIABLE
+71 s
+
+------------------
+vars-300-03.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in stable search mode
+c [reorder-4] reordered decisions in stable search mode
+c [reorder-5] reordered decisions in focused search mode
+c [reorder-6] reordered decisions in focused search mode
+c [reorder-7] reordered decisions in focused search mode
+c [reorder-8] reordered decisions in focused search mode
+c [reorder-9] reordered decisions in focused search mode
+c [reorder-10] reordered decisions in focused search mode
+c decisions:                           780677                1.52 per conflict
+c warming_decisions:                      183               30.50 per walk
+11 s
+misat:
+UNSATISFIABLE
+29 s
+
+------------------
+vars-300-04.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in focused search mode
+c [reorder-4] reordered decisions in focused search mode
+c [reorder-5] reordered decisions in focused search mode
+c [reorder-6] reordered decisions in focused search mode
+c [reorder-7] reordered decisions in focused search mode
+c [reorder-8] reordered decisions in focused search mode
+c [reorder-9] reordered decisions in focused search mode
+c [reorder-10] reordered decisions in focused search mode
+c [reorder-11] reordered decisions in focused search mode
+c [reorder-12] reordered decisions in focused search mode
+c decisions:                          1123138                1.54 per conflict
+c warming_decisions:                      196               28.00 per walk
+16 s
+misat:
+UNSATISFIABLE
+68 s
+
+------------------
+vars-300-05.cnf
+KisSAT:
+SATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c decisions:                            49906                1.73 per conflict
+c warming_decisions:                       75               37.50 per walk
+0 s
+misat:
+SATISFIABLE
+64 s
+
+------------------
+vars-300-06.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in stable search mode
+c [reorder-4] reordered decisions in focused search mode
+c [reorder-5] reordered decisions in focused search mode
+c [reorder-6] reordered decisions in focused search mode
+c [reorder-7] reordered decisions in focused search mode
+c [reorder-8] reordered decisions in focused search mode
+c [reorder-9] reordered decisions in focused search mode
+c [reorder-10] reordered decisions in focused search mode
+c decisions:                           804202                1.56 per conflict
+c warming_decisions:                      161               23.00 per walk
+11 s
+misat:
+UNSATISFIABLE
+41 s
+
+------------------
+vars-300-07.cnf
+KisSAT:
+SATISFIABLE
+c decisions:                             4143                1.46 per conflict
+c warming_decisions:                       37               37.00 per walk
+0 s
+misat:
+SATISFIABLE
+3 s
+
+------------------
+vars-300-08.cnf
+KisSAT:
+UNSATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c [reorder-3] reordered decisions in focused search mode
+c [reorder-4] reordered decisions in focused search mode
+c [reorder-5] reordered decisions in focused search mode
+c [reorder-6] reordered decisions in focused search mode
+c [reorder-7] reordered decisions in focused search mode
+c [reorder-8] reordered decisions in focused search mode
+c [reorder-9] reordered decisions in focused search mode
+c [reorder-10] reordered decisions in focused search mode
+c [reorder-11] reordered decisions in focused search mode
+c [reorder-12] reordered decisions in stable search mode
+c [reorder-13] reordered decisions in focused search mode
+c decisions:                          1452371                1.55 per conflict
+c warming_decisions:                      211               26.38 per walk
+23 s
+misat:
+UNSATISFIABLE
+73 s
+
+------------------
+vars-300-09.cnf
+KisSAT:
+SATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c [reorder-2] reordered decisions in focused search mode
+c decisions:                            49080                1.99 per conflict
+c warming_decisions:                       74               37.00 per walk
+0 s
+misat:
+SATISFIABLE
+14 s
+
+------------------
+vars-300-10.cnf
+KisSAT:
+SATISFIABLE
+c [reorder-1] reordered decisions in focused search mode
+c decisions:                            22881                1.59 per conflict
+c warming_decisions:                       36               36.00 per walk
+0 s
+misat:
+SATISFIABLE
+11 s
