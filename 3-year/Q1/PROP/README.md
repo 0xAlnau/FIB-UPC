@@ -5,10 +5,9 @@
 | Projectes de Programació | PROP | 6 |    7/10    |       10/10      | 
 
 ## Petita Descripció:
-Última assignatura que es fa sobre l'especialitat en Enginyeria de Computadors. La podem resumir com una ampliació gran d'EC.
-Comencen explicant uns fonaments, on es veu com calcular potència, speed-up i saber quants microxips es poden treure d'una "oblea"; es veu com programar amb x86 de 32 bits i fer subrutines i usar la pila; es veu la cache bàsica un altre cop i també la memòria virtual; després passem a cache avançada; memòria RAM i RAM avançada; seguidament trobem emmagatzematge; instruccions; i acabem amb conceptes avançats.
+Assignatura orientada cap a l'Enginyeria del Software. Et donen una idea d'aplicatiu i s'ha de desenvolupar en grups de 4 o 5 durant tot el qudrimestre. Durant el transcurs de l'assignatura s'ensenya: com funciona el llenguatge de programació Java; com fer excepcions i errors personalitzats; com fer drivers i unit tests; l'arquitectura en 3 capes (domini, persistència, presentació); com fer cada capa.
 
 ## Opinió Personal:
-- L'assignatura es pot treure fàcil si es fa bé el primer parcial. (s'ha de saber programar bé en x86).
-- Ocupa molt de temps, ja que cada setmana has de fer els problemes, els previs i els exercicis del lab (perquè no dona temps a fer-ho amb només 1 hora) i veure els vídeos de teoria.
-- No recomano deixar d'anar a les classes de teoria, poden anar bé per refrescar els vídeos vists abans.
+- No deixar fins a l'últim moment la primera entrega, són moltíssimes coses que es demanen i no dona temps a fer-les bé en 2 o 3 dies.
+- Requereix molt de temps, ja que s'ha de planificar reunions amb els companys, corregir errors, afegir coses noves, canviar el disseny, etc...
+- Les classes de teoria no són molt útils, es poden saltar fàcilment.
