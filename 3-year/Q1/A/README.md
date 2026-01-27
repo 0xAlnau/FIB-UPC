@@ -11,3 +11,4 @@ Aquesta és una assignatura estrella de l'especialitat en Computació. Hi ha qua
 - Assignatura molt interessant i que proporciona unes bases molt bones per desenvolupar algorimes basats en problemes de la vida real.
 - És l'assignatura més complicada que he fet durant la carrera, demana un rigor matemàtic molt alt, una capacitat d'abstracció elevada i constància durant tot el curs.
 - La principal dificultat resideix en treure un 7 o més sumant la puntuació dels dos parcials que té l'assignatura.
+- Molt recomenable anar a les classes de problemes del Santiago Marco, explica molt bé i fa les classes interessants.
