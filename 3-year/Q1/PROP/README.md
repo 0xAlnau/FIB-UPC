@@ -11,3 +11,4 @@ Assignatura orientada cap a l'Enginyeria del Software. Et donen una idea d'aplic
 - No deixar fins a l'últim moment la primera entrega, són moltíssimes coses que es demanen i no dona temps a fer-les bé en 2 o 3 dies.
 - Requereix molt de temps, ja que s'ha de planificar reunions amb els companys, corregir errors, afegir coses noves, canviar el disseny, etc...
 - Les classes de teoria no són molt útils, es poden saltar fàcilment.
+- Menció honorífica a Ignasi Gómez, un grande sempre.
