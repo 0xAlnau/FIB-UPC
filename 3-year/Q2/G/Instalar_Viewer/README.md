@@ -55,33 +55,33 @@ Completar la instal.lació:
 
 5. Descarregar models, textures i fitxers de test:
 
-  http://www.cs.upc.edu/~virtual/G/index.php?dir=2.%20Laboratori/viewer/
-   -> models.tgz
-   -> tests.tgz
-   -> Textures.tgz
+  http://www.cs.upc.edu/~virtual/G/index.php?dir=2.%20Laboratori/viewer/  
+   -> models.tgz  
+   -> tests.tgz  
+   -> Textures.tgz  
 
- Descomprimir els fitxers anteriors (models, textures i tests), en els directoris
+ Descomprimir els fitxers anteriors (models, textures i tests), en els directoris  
+  
+   /assig/grau-g/models  
+   /assig/grau-g/tests  
+   /assig/grau-g/Textures  
 
-   /assig/grau-g/models
-   /assig/grau-g/tests
-   /assig/grau-g/Textures
+o bé penjant de NewViewer_******:  
+  
+   NewViewer_*******/models  
+   NewViewer_*******/tests  
+   NewViewer_*******/Textures  
+  
+Nota: la versions més actualitzades dels models, tests i textures les podeu copiar (ex. tar) directament dels laboratoris de la FIB ~/assig/grau-g/{models, Textures, tests}  
 
-o bé penjant de NewViewer_******:
+  
+6. Compilar el viewer  
+  
+  cd NewViewer_*******   ## (el codi pot variar segons la versió)  
+  qmake6                 ## o qmake-qt5 segons la versió  
+  make -j  
+  
+7. Executar viewer  
 
-   NewViewer_*******/models
-   NewViewer_*******/tests
-   NewViewer_*******/Textures
-
-Nota: la versions més actualitzades dels models, tests i textures les podeu copiar (ex. tar) directament dels laboratoris de la FIB ~/assig/grau-g/{models, Textures, tests}
-
-
-6. Compilar el viewer
-
-  cd NewViewer_*******   ## (el codi pot variar segons la versió)
-  qmake6                 ## o qmake-qt5 segons la versió
-  make -j
-
-7. Executar viewer
-
-  ./GLarenaSL (per provar shaders; primera part del curs)
-  ./GLarenaPL (per provar plugins; segona part del curs)
+  ./GLarenaSL (per provar shaders; primera part del curs)  
+  ./GLarenaPL (per provar plugins; segona part del curs)  
