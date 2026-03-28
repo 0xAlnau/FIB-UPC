@@ -31,7 +31,7 @@ Recomanació:
 
 3. Instal.lar Qt (canvieu el que calgui segons la versió que hagueu descarregat)  
 
-chmod +x qt-unified-linux-x64-3.0.6-online.run; sudo ./qt-unified-linux-x64-3.0.6-online.run  
+`chmod +x qt-unified-linux-x64-3.0.6-online.run; sudo ./qt-unified-linux-x64-3.0.6-online.run`  
 
 Si en executar la comanda dona error per carregar les llibreries libxcb-xinerama0 o libxcb-cursor0, s'han d'instal·lar les dependències:  
 
@@ -44,7 +44,7 @@ Completar la instal.lació:
 
  Opcional: editar ~/.bashrc i afegir la linia (5.15.1 és un exemple)  
 
-       `alias qmake-qt5='/opt/Qt/5.15.1/gcc_64/bin/qmake`  
+       alias qmake-qt5='/opt/Qt/5.15.1/gcc_64/bin/qmake  
 
 4. Descarregar i descomprimir la darrera versió del viewer.  
 
