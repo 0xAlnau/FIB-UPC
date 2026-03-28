@@ -8,16 +8,12 @@ Si volueu treballar amb el viewer (GLarena) fora dels laboratoris, el podeu inst
 
 Si per qualsevol motiu haguèssiu de fer els controls de forma no presencial, us serà imprescindible tenir el viewer instal·lat a casa. Per tant, és molt recomanable que l'instal·leu durant les primeres setmanes de curs.
 
-A. Instal.lació en Ubuntu (recomanada)
-B. Instal.lació en Windows (via VirtualBox)
-C. Instal.lació en MacOS (sense suport)
-
 A. Instal.lació en Ubuntu
 --------------------------------------
 
 1. Instal.lar requeriments previs de Qt, OpenGL i GLU:
 
-  sudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev
+  `sudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev`
 
 2. Descarregar Qt 5 o bé Qt 6
 
