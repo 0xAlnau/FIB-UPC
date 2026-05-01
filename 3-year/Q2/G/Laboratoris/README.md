@@ -1,1 +1,0 @@
-# Laboratoris Resolts de Gràfics

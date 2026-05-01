@@ -1,1 +1,0 @@
-# Teoria Oficial de Gràfics
