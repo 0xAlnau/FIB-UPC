@@ -1,0 +1,23 @@
+#ifndef _MODELINFO_H
+#define _MODELINFO_H
+
+#include "plugin.h" 
+
+class ModelInfo: public QObject, public Plugin
+{
+	Q_OBJECT
+	Q_PLUGIN_METADATA(IID "Plugin") 
+	Q_INTERFACES(Plugin)
+
+  public:
+	 void onPluginLoad();
+	 void preFrame();
+  private:
+	// add private methods and attributes here
+	int num_obj;
+	int num_pol = 0;
+	int num_ver = 0;
+	int num_tri = 0;
+};
+
+#endif
