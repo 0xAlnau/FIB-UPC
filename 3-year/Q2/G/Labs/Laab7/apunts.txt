@@ -1,0 +1,6 @@
+- està entre vertex shader i fragment shader
+- rep i dona primitives, les envia a primitives assembler
+- out del vertex va cap al geometry, i del geometry pot anar al fragment
+- sortida del geometry en clipping, el vertex pot calcular el que vulgui
+
+- donem valor, emitVert(), donem valor
