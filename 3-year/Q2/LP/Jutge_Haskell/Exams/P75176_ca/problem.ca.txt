@@ -1,0 +1,59 @@
+Haskell — Fraccions egípcies
+
+Els antics egipcis tenien una codificació curiosa per als nombres
+racionals: consideraven que les fraccions havíen de ser unitaries, és a
+dir, amb un 1 al numerador. Quan havíen de codificar una d’aquestes
+fraccions ho feien com a sumes de fraccions unitàries. Per exemple, la
+fracció $\frac23$ l’escrivien com a $\tfrac12+\tfrac16$. Encara avui dia
+hi ha llibres de matemàtiques que anomenen fraccions vulgars les que no
+són unitàries.
+
+El nostre amic Fibonacci va dissenyar un algorisme per convertir
+fraccions vulgars a notació egipcia (com a suma de fraccions unitàries):
+
+$$\text{egypt}\left(\frac{x}{y}\right)=\frac{1}{\lceil\frac{y}{x}\rceil}+\text{egypt}(r) \\
+$$
+
+on
+
+$$r=\frac{-y \mod x}{y \times \lceil\frac{y}{x}\rceil} \\
+$$
+
+Fixeu-vos que a la fórmula apareix el residu de la divisió (mod) i la
+funció ceiling.
+
+Per treballar amb nombres racionals en Haskell heu d’afegir aquest
+import al principi del programa:
+
+        import Data.Ratio
+
+El nombres racionals es codifiquen amb el símbol de tant per cent: Per
+exemple, $\tfrac12$ és 1%2 i $\tfrac34$ és 3%4. Les funcions numerator i
+denominator ens permeten accedir als dos components del nombre racional.
+
+Es demana:
+
+1.  Implementeu (usant funcionds d’ordre superior i sense usar
+    recursivitat ni la funció estàndard until) una funció
+    myUntil :: (a -> Bool) -> (a -> a) -> a -> a que, donat un predicat
+    p, una funció f i un valor x, calculi la llista
+    [x, f x, f (f x),  ...] fins es que sa­tis­fà el predicat p. Per
+    exemple, myUntil (>100) (*2) 1 val 128.
+
+2.  Feu una funció egypt :: Rational -> [Rational] que, utilitzant
+    myUntil, implementi l’algo­risme de Fibonacci per codificar fraccions
+    a la egípcia. Per exemple, egypt (2%3) ha de retornar [1 % 2,1 % 6]
+    i egypt (21%50) ha de retornar [1 % 3,1 % 12,1 % 300]. L’ordre dels
+    termes ve donat per la definició de l’algorisme.
+
+3.  Feu un programa que llegeixi una fracció per línia i, per a
+    cadscuna, escrigui el seu equivalent egicpi.
+
+Informació del problema
+
+Autoria: Gerard Escudero
+
+Generació: 2026-02-03T17:03:28.303Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org

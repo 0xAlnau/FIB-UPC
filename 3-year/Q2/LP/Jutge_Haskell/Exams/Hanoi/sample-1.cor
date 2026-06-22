@@ -1,0 +1,7 @@
+pegA -> pegB
+pegA -> pegC
+pegB -> pegC
+pegA -> pegB
+pegC -> pegA
+pegC -> pegB
+pegA -> pegB

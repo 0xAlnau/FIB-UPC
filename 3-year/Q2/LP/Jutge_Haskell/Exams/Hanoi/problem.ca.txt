@@ -1,0 +1,39 @@
+Torres de Hanoi monàdiques
+
+Escriviu un programa que resolgui el problema de les Torres de Hanoi.
+
+[image]
+
+Les torres de Hanoi és un trencaclosques o joc matemàtic. Consisteix en
+tres pius verticals i un nombre indeterminat de discs de mides diferents
+escalonades que poden inserir-se a les varetes lliscant-hi lliurement.
+
+A l’inici, els discs estan col·locats de més gran a més petit en el
+primer piu formant una estructura cònica. El joc consisteix a passar
+tots els discs a la tercera vareta tenint en compte les regles següents:
+
+- Cada moviment consisteix a agafar un dels discos superiors d’una de
+  les torres i situar-lo a una de les altres torres.
+
+- Els discs petits han d’estar sempre situats sobre els grans.
+
+Entrada
+
+L’entrada conté una línia amb quatre dades: el nombre de discos a moure
+i els noms dels pius (orígen, destí i auxiliar). El nombre és un natural
+i els noms dels pius són una paraula cadascún.
+
+Sortida
+
+Escriviu els moviments per moure els discos des del piu d’orígen fins al
+piu de destí seguint el format dels exemples. Heu de donar una solució
+amb el mínim nombre de moviments possibles.
+
+Informació del problema
+
+Autoria: Edelmira Pasarella, Jordi Petit
+
+Generació: 2026-02-03T17:03:41.765Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org

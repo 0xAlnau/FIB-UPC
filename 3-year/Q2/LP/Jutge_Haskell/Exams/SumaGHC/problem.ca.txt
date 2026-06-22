@@ -1,0 +1,24 @@
+Haskell — P1 Parcial 2019-11-04
+
+Escriviu un programa complet en Haskell que llegeixi una seqüència
+d’enters i escrigui la seva suma.
+
+Procureu que l’E/S estigui tan desacoplada com sigui possible de la
+lògica.
+
+Us poden anar bé les funcions words, show, read i les accions
+getContents i putStrLn.
+
+Observació
+
+A l’hora de corregir es tindrà en compte la correcció, senzillesa,
+elegància i eficiència de la solució proposada.
+
+Informació del problema
+
+Autoria: Jordi Petit
+
+Generació: 2026-02-03T17:05:59.666Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org

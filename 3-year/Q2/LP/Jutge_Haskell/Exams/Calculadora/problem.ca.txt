@@ -1,0 +1,25 @@
+Haskell — Calculadora postfixa
+
+Escriviu un programa en Haskell que avalui expressions escrites en
+notació postfixa sota la presència de possibles errors.
+
+Cada expressió es troba escrita en una línia i és sintàcticament
+correcta. Una expressió està formada per una seqüència de paraules que
+poden ser nombres naturals o operadors de suma, resta, producte i
+divisió.
+
+El resultat d’una expressió és de tipus @Either String Int@ i es
+correspon a un resultat natural o bé un error: Els nombres negatius
+resultants de restes porten a l’error @"neg"@, la divisió per zero porta
+a l’error @"div0"@ i els nombres no naturals resultants de divisions
+porten a @"divE"@. En el cas d’haver-hi més d’un error en una expressió,
+cal reportar el de més a l’esquerra.
+
+Informació del problema
+
+Autoria: Jordi Petit
+
+Generació: 2026-01-25T11:14:05.135Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org

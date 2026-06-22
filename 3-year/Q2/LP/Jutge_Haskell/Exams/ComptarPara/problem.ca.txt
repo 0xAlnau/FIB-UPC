@@ -1,0 +1,30 @@
+Haskell — Comptar paraules
+
+Feu un programa en Haskell que llegeixi un text i escrigui quants cops
+apareix cada paraula del text, en ordre alfabètic.
+
+Entrada
+
+L’entrada és una seqüència de paraules, totes formades per lletres
+minúscules.
+
+Sortida
+
+Per a cada paraula de l’entrada, en ordre alfabètic, cal escriure la
+paraula seguida del seu nombre d’aparicions al text.
+
+Observació
+
+El vostre programa ha de ser eficient i no pot utilitzar recursivitat.
+Podeu usar la funció sort que ordena llistes eficientment fent un import
+Data.List (sort) al principi del vostre programa. També us pot ser útil
+la funció words.
+
+Informació del problema
+
+Autoria: Jordi Petit
+
+Generació: 2026-02-03T17:01:03.032Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org
