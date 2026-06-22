@@ -1,0 +1,1 @@
+cat [file] | less (per poder fer scroll amb fletxes, sortir amb q)

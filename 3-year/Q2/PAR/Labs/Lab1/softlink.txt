@@ -1,0 +1,4 @@
+ mv per fer copies segures
+ cp per anar a la seg version
+ ln -sf 3diff_tarv1.c 3diff_tar.c (3diff_tar.c apunta a 3diff_tarv1.c)
+ podem fer tot com abans i agafara la versió que tinguem amb el soft link
