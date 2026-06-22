@@ -1,0 +1,28 @@
+Haskell — Hola maco/a!
+
+Write a program that reads a person’s name and greets them humorously.
+
+Input
+
+The input is a person’s name.
+
+Output
+
+If the name is masculine, you should write ‘Hola maco!’. If the name is
+feminine, you should write ‘Hola maca!’. Assume that all names that end
+with A are feminine.
+
+Observation
+
+To solve this problem in Haskell, write a function main and choose the
+compiler GHC.
+
+Problem information
+
+Author: Unknown
+Translator: Jordi Petit
+
+Generation: 2026-02-12T08:54:21.105Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org

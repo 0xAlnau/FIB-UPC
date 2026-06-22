@@ -1,0 +1,41 @@
+Haskell — Expressions
+
+We want to have a module to mainpulate and evaluate integer expressions
+with addition, substraction, multiplication and division operations. In
+order to do so, the following type is declared:
+
+        data Expr = Val Int | Add Expr Expr | Sub Expr Expr | Mul Expr Expr | Div Expr Expr
+
+For instance, Add (Val 3) (Div (Val 4) (Val 2)) represents 3 + 4/2,
+which evaluates to 5.
+
+1. Evaluation without errors (20 points)
+
+Using the Expr type, define a function eval1 :: Expr -> Int that, given
+an expression, returns its evaluation. You can assume there will never
+be divisions by zero.
+
+2. Evaluation with possible error (30 points)
+
+Using the Expr type, define a function eval2 :: Expr -> Maybe Int that,
+given an expression, returns its evaluationn as a Just value. In the
+case that some division by zero occurs, the result must be Nothing. You
+probably want to use the do notation over the Maybe a monad.
+
+3. Evaluation with error report (30 points)
+
+Using the Expr type, define a function
+eval3 :: Expr -> Either String Int that, given an expression, returns
+its evaluation as Right value. In the case that some division by zero
+occurs, the result must be Left "div0". You probably want to use the do
+notation over the Either a b monad.
+
+Problem information
+
+Author: Unknown
+Translator: Jordi Petit
+
+Generation: 2026-02-03T17:02:04.838Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org

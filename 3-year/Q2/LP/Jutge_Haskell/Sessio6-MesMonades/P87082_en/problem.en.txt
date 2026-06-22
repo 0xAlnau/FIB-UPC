@@ -1,0 +1,49 @@
+Haskell — Body Mass Index
+
+The Body Mass Index (BMI) is a number that allows evaluating a person’s
+corpulence by relating their mass to their height. It was developed by
+the Belgian Adolphe Quételet while elaborating his system of “social
+physics" between the years 1830 and 1850 and is also known as the
+Quételet Index. Its formula is
+$$\textit{BMI} = \frac{m}{h^2},$$
+where m is the person’s mass (in kilograms) and h their height (in
+meters).
+
+Its interpretation (applicable only to adults) is as follows:
+
+  BMI            Interpretation
+  -------------- -------------------
+  less than 18   underweight
+  18 to 25       normal corpulence
+  25 to 30       overweight
+  30 to 40       obesity
+  more than 40   morbid obesity
+
+Write a Haskell program to interpret the body mass index of different
+people.
+
+Input
+
+The input is organized by lines. Each line contains three elements
+separated by spaces: name, weight, and height. The last line is special
+and contains only an asterisk.
+
+Output
+
+For each input data, write their name and the interpretation of their
+BMI.
+
+Observation
+
+To solve this problem in Haskell, write a main function and choose the
+GHC compiler.
+
+Problem information
+
+Author: Unknown
+Translator: Jordi Petit
+
+Generation: 2026-02-12T08:52:29.897Z
+
+© Jutge.org, 2006–2026.
+https://jutge.org
