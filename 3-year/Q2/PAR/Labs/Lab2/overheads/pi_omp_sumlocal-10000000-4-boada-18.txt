@@ -1,0 +1,2 @@
+pi:3.141593
+Total execution time for 1 repetitions of pi, when executed with 10000000 iterations on 4 threads: 40644.0000 microseconds

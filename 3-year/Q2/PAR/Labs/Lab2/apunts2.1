@@ -1,0 +1,14 @@
+- pi_sequential 10⁷ iterations: 0.149052143 seconds
+- 4 threads and 10⁷ iterations, overheads:
+    · pi_omp_critical  -> 4293967.7500 microseconds
+    · pi_omp_atomic    -> 989224.5000 microseconds
+    · pi_omp_sumlocal  -> 40644.0000 microseconds
+    · pi_omp_reduction -> 40893.0000 microseconds
+
+- 1 thread and 10⁷ iterations, overheads:
+    · pi_omp_critical  -> 143145.0000 microseconds
+    · pi_omp_atomic    -> 90314.0000 microseconds
+    · pi_omp_sumlocal  -> not important
+    · pi_omp_reduction -> not important
+
+

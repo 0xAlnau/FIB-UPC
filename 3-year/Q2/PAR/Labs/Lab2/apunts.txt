@@ -1,0 +1,78 @@
+·Pregunta apartat 3: va malament perquè falta el omp single i entre tots crean 8 tasques (4 tasques i 4 tasques)
+·Pregunta apartat 4: dona 0.0000 perquè el thread que crea les tasques necessita un valor sincronitzat de 'sum'
+·pi.v11 taskgroup = diu que les tasques pertanyen a un mateix lloc, i el que les crea s'esperarà a que acabin totes
+        task_reduction = diu que ha de fer una reducció d'una variable que tractarà després del taskgroup
+        in_reduction = crear la reducció dins del taskgroup
+
+
+OVERHEADS OpenMP:
+        - parallell:
+        All overheads expressed in microseconds
+        Nthr    Overhead        Overhead per thread
+        2       1.6555          0.8277
+        3       1.4143          0.4714
+        4       1.6597          0.4149
+        5       1.6651          0.3330
+        6       1.7698          0.2950
+        7       1.8090          0.2584
+        8       2.1593          0.2699
+        9       2.2967          0.2552
+        10      2.4266          0.2427
+        11      2.3704          0.2155
+        12      2.6288          0.2191
+        13      2.6271          0.2021
+        14      2.7081          0.1934
+        15      2.6961          0.1797
+        16      2.8991          0.1812
+        17      2.9023          0.1707
+        18      3.1443          0.1747
+        19      3.1207          0.1642
+        20      3.0984          0.1549
+        21      3.2150          0.1531
+        22      3.3287          0.1513
+        23      3.3536          0.1458
+        24      3.5353          0.1473
+        25      3.6373          0.1455
+        26      3.7422          0.1439
+        27      3.7197          0.1378
+        28      3.8768          0.1385
+        29      4.0978          0.1413
+        30      4.1916          0.1397
+        31      4.1891          0.1351
+        32      4.2837          0.1339
+
+        - task:
+        All overheads expressed in microseconds
+        Ntasks  Overhead        Overhead per task
+        2       0.2136          0.1068
+        4       0.4223          0.1056
+        6       0.6512          0.1085
+        8       0.8712          0.1089
+        10      1.0908          0.1091
+        12      1.3103          0.1092
+        14      1.5244          0.1089
+        16      1.7401          0.1088
+        18      1.9531          0.1085
+        20      2.1669          0.1083
+        22      2.3798          0.1082
+        24      2.5914          0.1080
+        26      2.8231          0.1086
+        28      3.0397          0.1086
+        30      3.2543          0.1085
+        32      3.4573          0.1080
+        34      3.6768          0.1081
+        36      3.8837          0.1079
+        38      4.1037          0.1080
+        40      4.3197          0.1080
+        42      4.5249          0.1077
+        44      4.7570          0.1081
+        46      4.9799          0.1083
+        48      5.1900          0.1081
+        50      5.3992          0.1080
+        52      5.6187          0.1081
+        54      5.8442          0.1082
+        56      6.0391          0.1078
+        58      6.2564          0.1079
+        60      6.4736          0.1079
+        62      6.6814          0.1078
+        64      6.8908          0.1077

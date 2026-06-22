@@ -1,0 +1,47 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <omp.h>	/* OpenMP */
+#define N 12
+
+/* Execute multiple times before answering the questions below   */
+/* Q1: Which iterations of the loops are executed by each thread */ // grainsize fa 12/value iter
+	//seguides per un thread. num_tasks crea 4 taskes amb 3 iteracions random (no seguides)
+/*     for each task grainsize or num_tasks specified?           */
+/*     You may have to run several times to see more than two    */
+/*     threads executing iterations.                             */
+/* Q2: Change the value for grainsize and num_tasks to 5. How    */ //each thread (task) fa 6 iter o algo aixns.
+/*     many iterations is now each thread executing? How is the  */
+/*     number of iterations decided in each case?                */
+/*     You may have to run serveral times to see more than two   */
+/*     threads executing iterations.                             */
+/* Q3: Can grainsize and num_tasks be used at the same time in   */ //Nope
+/*     the same loop?                                            */
+/* Q4: What is happening with the execution of tasks if the      */ //amb nogroup els grainsize no han
+	//d'esperar-se entre sí i es junten amb les altres tasques del loop
+/*     nogroup clause is uncommented in the first loop? Why?     */
+
+#define VALUE 4
+
+int main()
+{
+    int i;
+
+    omp_set_num_threads(4);
+    #pragma omp parallel
+    #pragma omp single
+    {
+    	printf("Thread %d distributing %d iterations with grainsize(%d) ...\n", omp_get_thread_num(), N, VALUE);
+    	#pragma omp taskloop grainsize(VALUE) nogroup		//(12/4) (12/5)
+    	for (i=0; i < N; i++) {
+		printf("Loop 1: (%d) gets iteration %d\n", omp_get_thread_num(), i);
+    	}
+
+    	printf("Thread %d distributing %d iterations with num_tasks(%d) ...\n", omp_get_thread_num(), N, VALUE);
+    	#pragma omp taskloop num_tasks(VALUE)
+    	for (i=0; i < N; i++) {
+		printf("Loop 2: (%d) gets iteration %d\n", omp_get_thread_num(), i);
+    	}
+    }
+
+    return 0;
+}
