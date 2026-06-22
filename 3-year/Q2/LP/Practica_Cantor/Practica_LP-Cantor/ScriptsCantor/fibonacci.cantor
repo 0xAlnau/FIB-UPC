@@ -1,0 +1,44 @@
+# fibonacci.cantor
+main fibonacci
+extended
+
+import relacionals
+
+define sub_tupla
+    [retorna s(i-2)]
+    comp snd snd
+
+define tercer
+    [3r]
+    comp fst sub_tupla
+
+define segon
+    [2on]
+    comp fst snd
+
+define step
+    [recursiu fib]
+    compair add segon tercer
+
+
+define cas_base
+    [retorna 0 si <x.y> = 0 o retorna 1 si <x.y> = 1]
+    comp signe id
+
+
+define k_0
+    [retorna 0]
+    compair diff k_1 k_1
+
+define ant_0
+    [donat x retorna <anteriorDeX.0>]
+    pair anterior k_0
+
+define is_base
+    [retorna 1 si <x.y> = 0 o 1]
+    comp eq ant_0
+
+
+define fibonacci
+    [donat <x.y> retorna el nombre de fibonacci <x.y>]
+    primrec is_base cas_base step

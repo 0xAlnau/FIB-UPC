@@ -1,0 +1,28 @@
+# relacionals.cantor
+main eq
+extended
+import booleans
+
+
+define swapDiff
+    [donats <x.y> retorna la diferencia y - x]
+    compair diff snd fst
+
+define lt
+    [donat <x.y> retorna 1 si x < y]
+    comp signe swapDiff
+
+
+define gt
+    [donat <x.y> retorna 1 si x > y]
+    comp signe diff
+
+
+define neq
+    [donat <x.y> retorna 1 si x != y]
+    compair signe lt gt
+
+
+define eq
+    [donat <x.y> retorna 1 si x == y]
+    comp not neq

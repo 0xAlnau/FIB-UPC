@@ -1,0 +1,63 @@
+# maxmincond.cantor
+main cond
+
+import signe1
+
+# entrada 26 8 = <1.5>.8
+# entrada 20 8 = <0.5>.8
+
+define p2
+    [donat <x.y> retorna signe(diff<x.y>)]
+    comp signe diff
+
+define pa2
+    [donat <x.y> retorna <p.a>]
+    pair p2 fst
+
+define pairedCond
+    [donat <x.y> retorna <<p.a>.b> on p = signe(diff<x.y>>), a = x, b = y]
+    pair pa2 snd
+
+define max2
+    [donat <x.y> retorna el max(x,y)]
+    comp cond pairedCond
+
+
+define p
+    [donat <<p.a>.b> retorna p]
+    comp fst fst
+
+define 1_p
+    [donat <<p.a>.b> retorna <1.p>]
+    pair k_1 p
+
+define 1p
+    [donat <<p.a>.b> retorna 1-p]
+    comp diff 1_p
+
+define 1pb
+    [donat <<p.a>.b> retorna <(1-p).b>]
+    pair 1p snd
+
+define mulpb
+    [donat <<p.a>.b> retorna (1-p)*b]
+    comp mul 1pb
+
+
+define pa
+    [donat <<p.a>.b> retorna <p.a>]
+    comp id fst
+
+define mulpa
+    [donat <<p.a>.b> retorna p*a]
+    comp mul pa
+
+
+define form
+    [donat <<p.a>.b> retorna <(p*a). (1-p)*b>]
+    pair mulpa mulpb
+
+define cond
+    [donat <<p.a>.b> llavors 'cond p a b' vol dir: if p then a else b, p es un valor 0 o 1]
+    [usarem la formula: (p * a) + (1 - p) * b]
+    comp add form

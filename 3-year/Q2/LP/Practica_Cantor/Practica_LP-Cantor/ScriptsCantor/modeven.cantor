@@ -1,0 +1,33 @@
+# modeven.cantor
+main even
+extended
+import div
+
+define yDiv2
+    [donat <x.y> retorna <y.Divsio>]
+    pair snd div
+
+define yDiv
+    [donat <x.y> retorn y*Divsio]
+    comp mul yDiv2
+
+define xDiv
+    [donat <x.y> retorna <x.y*Divisio>  la divisió entre x / y]
+    pair fst yDiv
+
+define mod
+    [donat <x.y> retorna x % y,     sabent que x = y * div + residu]
+    comp diff xDiv
+
+
+define dos
+    [retorna el nombre 2]
+    compair add k_1 k_1
+
+define modul2
+    [donat <x.y> retorna <x.y> % 2]
+    compair mod id dos
+
+define even
+    [donat <x.y> retorna 1 si <x.y> és parell (si <x.y> % 2 == 0)]
+    comp not modul2

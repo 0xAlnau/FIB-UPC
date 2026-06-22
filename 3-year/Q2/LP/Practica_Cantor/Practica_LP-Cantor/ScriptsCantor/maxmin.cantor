@@ -1,0 +1,13 @@
+# maxmin.cantor
+main max
+extended
+
+define max
+    [donat <x.y> retorna max(x,y) = y + (0 o x-y)]
+    compair add snd diff
+
+
+define min
+    [donat <x.y> retorna min(x,y) = x - (0 o x-y)]
+    compair diff fst diff
+

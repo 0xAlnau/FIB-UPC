@@ -1,0 +1,18 @@
+# això és un comentari
+main signe  # funció main
+
+define aparella_1
+    [Aparella l'entrada x amb 1: <x.1> ]
+    pair id k_1
+
+define anterior
+    [Anterior amb limit 0]
+    comp diff aparella_1
+
+define aparella_ant
+    [Aparella x amb el seu predecessor]
+    pair id anterior
+
+define signe
+    [Signe: 0 -> 0, resta -> 1]
+    comp diff aparella_ant

@@ -1,0 +1,26 @@
+# booleans.cantor
+main and
+
+import signe1
+
+define zero
+    [retorna 0]
+    comp not k_1
+
+define or
+    [ <x.y> -> x or y, on      <0.0> = 0, <0.1> = 2, <1.0> = 1, <1.1.> = 4 ]
+    comp signe add
+
+
+define and
+    [ <x.y> -> x and y,    on      <0.0> = 0, <0.1> = 2, <1.0> = 1, <1.1.> = 4 ]
+    comp mul id
+
+
+define ux
+    [ x -> <1.x> ]
+    pair k_1 id
+
+define not
+    [ 0 -> 1, 1 -> 0 ]
+    comp diff ux
