@@ -1,0 +1,9 @@
+function sm(x, y)
+    return x + y
+end
+
+main
+    a := 1 + 2
+    b := a * 2
+    write sm(a, b)
+end
