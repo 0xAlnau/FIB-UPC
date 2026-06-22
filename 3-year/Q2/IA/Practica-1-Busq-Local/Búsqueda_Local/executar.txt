@@ -1,0 +1,5 @@
+Per compilar tot el projecte:
+    · javac -cp "AIMA.jar:Desastres.jar" src/desastres/*.java
+
+Per executar tot el projecte:
+    · java -cp "src:AIMA.jar:Desastres.jar" desastres.Main
