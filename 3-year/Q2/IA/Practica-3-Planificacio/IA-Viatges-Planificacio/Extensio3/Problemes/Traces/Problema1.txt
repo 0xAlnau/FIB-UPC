@@ -1,0 +1,60 @@
+
+ff: parsing domain file
+domain 'VIATGES' defined
+ ... done.
+ff: parsing problem file
+problem 'VIATGESPROBLEMEXT3_A' defined
+ ... done.
+
+
+translating negated cond for predicate USUARI_A
+translating negated cond for predicate VISITADA
+translating negated cond for predicate RUTA_INICIADA
+warning: numeric precondition. turning cost-minimizing relaxed plans OFF.
+
+ff: search configuration is Enforced Hill-Climbing, then A*epsilon with weight 5.
+Metric is ((1.00*[RF7](COSTTOTAL)) - () + 0.00)
+COST MINIMIZATION DONE (WITHOUT cost-minimizing relaxed plans).
+
+Cueing down from goal distance:   22 into depth [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1][2]
+                                  10            [1]
+                                   9            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+step    0: INICIA_RUTA BARCELONA HOTEL_VELA
+        1: VISITAR BARCELONA HOTEL_VELA
+        2: VISITAR BARCELONA HOTEL_VELA
+        3: VISITAR BARCELONA HOTEL_VELA
+        4: VISITAR BARCELONA HOTEL_VELA
+        5: VOLA BARCELONA PARIS HOTEL_VELA HOTEL_EIFFEL
+        6: VISITAR PARIS HOTEL_EIFFEL
+        7: VISITAR PARIS HOTEL_EIFFEL
+        8: VOLA PARIS ROMA HOTEL_EIFFEL HOTEL_VATICA
+        9: VISITAR ROMA HOTEL_VATICA
+       10: VISITAR ROMA HOTEL_VATICA
+       11: VOLA ROMA BERLIN HOTEL_VATICA HOTEL_MUR
+       12: VISITAR BERLIN HOTEL_MUR
+       13: VISITAR BERLIN HOTEL_MUR
+       14: REACH-GOAL
+plan cost: 303.000000
+
+time spent:    0.00 seconds instantiating 444 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 38 facts and 508 actions
+               0.00 seconds creating final representation with 39 relevant facts, 16 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 27 states, to a max depth of 2
+               0.00 seconds total time
+

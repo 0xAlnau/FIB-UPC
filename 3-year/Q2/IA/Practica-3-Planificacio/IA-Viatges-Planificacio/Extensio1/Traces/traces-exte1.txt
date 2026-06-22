@@ -1,0 +1,155 @@
+==================================================================
+ Traça Metric-FF  ·  Extensió 1  ·  Problema 1 (exte1-1)
+ Comanda: ff -s 0 -o viatges-domini-exte1.pddl -f viatges-prob_exte1-1.pddl
+==================================================================
+
+ff: parsing domain file
+domain 'VIATGES' defined
+ ... done.
+ff: parsing problem file
+problem 'VIATGESPROBLEM' defined
+ ... done.
+
+
+translating negated cond for predicate POT_VOLAR
+translating negated cond for predicate VISITADA
+translating negated cond for predicate RUTA_INICIADA
+translating negated cond for predicate USUARI_A
+no metric specified.
+
+task contains conditional effects. turning off state domination.
+
+
+
+ff: search configuration is Enforced Hill-Climbing, if that fails then best-first search.
+Metric is plan length.
+NO COST MINIMIZATION (and no cost-minimizing relaxed plans).
+
+Cueing down from goal distance:   21 into depth [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1]
+                                   9            [1]
+                                   8            [1]
+                                   7            [1]
+                                   6            [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+step    0: INICIA_RUTA BERLIN
+        1: VISITA_MIN BERLIN
+        2: VISITA_MIN BERLIN
+        3: VOLA BERLIN STUTTGART HOTEL_CERVESA
+        4: VISITA_MIN STUTTGART
+        5: VISITA_MIN STUTTGART
+        6: VOLA STUTTGART FLORENCIA HOTEL_ART
+        7: VISITA_MIN FLORENCIA
+        8: VISITA_MIN FLORENCIA
+        9: VOLA FLORENCIA BARCELONA HOTEL_VELA
+       10: VISITA_MIN BARCELONA
+       11: VISITA_MIN BARCELONA
+       12: VOLA BARCELONA PARIS HOTEL_EIFFEL
+       13: VISITA_MIN PARIS
+       14: VISITA_MIN PARIS
+
+time spent:    0.00 seconds instantiating 32 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 28 facts and 32 actions
+               0.00 seconds creating final representation with 28 relevant facts, 6 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 16 states, to a max depth of 1
+               0.00 seconds total time
+
+
+
+==================================================================
+ Traça Metric-FF  ·  Extensió 1  ·  Problema 2 (exte1-2)
+ Comanda: ff -s 0 -o viatges-domini-exte1.pddl -f viatges-prob_exte1-2.pddl
+==================================================================
+
+ff: parsing domain file
+domain 'VIATGES' defined
+ ... done.
+ff: parsing problem file
+problem 'VIATGESPROBLEMCOMPLEX' defined
+ ... done.
+
+
+translating negated cond for predicate POT_VOLAR
+translating negated cond for predicate VISITADA
+translating negated cond for predicate RUTA_INICIADA
+translating negated cond for predicate USUARI_A
+no metric specified.
+
+task contains conditional effects. turning off state domination.
+
+
+
+ff: search configuration is Enforced Hill-Climbing, if that fails then best-first search.
+Metric is plan length.
+NO COST MINIMIZATION (and no cost-minimizing relaxed plans).
+
+Cueing down from goal distance:   33 into depth [1]
+                                  22            [1]
+                                  21            [1]
+                                  20            [1]
+                                  19            [1]
+                                  18            [1]
+                                  17            [1]
+                                  16            [1]
+                                  15            [1]
+                                  14            [1]
+                                  13            [1]
+                                  12            [1]
+                                  11            [1]
+                                  10            [1][2]
+                                   8            [1]
+                                   7            [1][2]
+                                   5            [1]
+                                   4            [1][2]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+step    0: INICIA_RUTA ROMA
+        1: VISITA_MIN ROMA
+        2: VISITA_MIN ROMA
+        3: VOLA ROMA FLORENCIA HOTEL_ART
+        4: VISITA_MIN FLORENCIA
+        5: VISITA_MIN FLORENCIA
+        6: VOLA FLORENCIA BARCELONA HOTEL_VELA
+        7: VISITA_MIN BARCELONA
+        8: VISITA_MIN BARCELONA
+        9: VISITA_MAX BARCELONA
+       10: VISITA_MAX BARCELONA
+       11: VOLA BARCELONA MADRID HOTEL_PRADO
+       12: VISITA_MIN MADRID
+       13: VISITA_MIN MADRID
+       14: VOLA MADRID PARIS HOTEL_EIFFEL
+       15: VISITA_MIN PARIS
+       16: VISITA_MIN PARIS
+       17: VOLA PARIS STUTTGART HOTEL_CERVESA
+       18: VISITA_MIN STUTTGART
+       19: VISITA_MIN STUTTGART
+       20: VOLA STUTTGART VIENA HOTEL_OPERA
+       21: VISITA_MIN VIENA
+       22: VISITA_MIN VIENA
+
+time spent:    0.00 seconds instantiating 52 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 44 facts and 52 actions
+               0.00 seconds creating final representation with 44 relevant facts, 6 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 26 states, to a max depth of 2
+               0.00 seconds total time
+
+
+

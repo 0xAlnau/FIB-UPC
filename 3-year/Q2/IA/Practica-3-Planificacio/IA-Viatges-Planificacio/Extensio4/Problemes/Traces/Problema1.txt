@@ -1,0 +1,37 @@
+ff: search configuration is  best-first on 1*g(s) + 5*h(s) where
+    metric is ((1.00*[RF7](COSTTOTAL)20.00*[RF6](INTERESTOTAL)) - () + 0.00)
+
+advancing to distance:   23
+                         14
+                         13
+                         12
+                         11
+                         10
+                          9
+                          8
+                          7
+                          6
+                          5
+                          4
+                          3
+                          2
+                          1
+                          0
+
+ff: found legal plan as follows
+
+step    0: INICIA_RUTA STUTTGART HOTEL_OKTOBERFEST
+        1: VISITAR STUTTGART HOTEL_OKTOBERFEST
+        2: VISITAR STUTTGART HOTEL_OKTOBERFEST
+        3: VISITAR STUTTGART HOTEL_OKTOBERFEST
+        4: VOLA STUTTGART BERLIN HOTEL_OKTOBERFEST HOTEL_BRANDENBURG
+        5: VISITAR BERLIN HOTEL_BRANDENBURG
+        6: VISITAR BERLIN HOTEL_BRANDENBURG
+        7: VISITAR BERLIN HOTEL_BRANDENBURG
+        8: VOLA BERLIN ROMA HOTEL_BRANDENBURG HOTEL_COLISEU
+        9: VISITAR ROMA HOTEL_COLISEU
+       10: VISITAR ROMA HOTEL_COLISEU
+       11: VOLA ROMA BARCELONA HOTEL_COLISEU HOTEL_W
+       12: VISITAR BARCELONA HOTEL_W
+       13: VISITAR BARCELONA HOTEL_W
+       14: REACH-GOAL

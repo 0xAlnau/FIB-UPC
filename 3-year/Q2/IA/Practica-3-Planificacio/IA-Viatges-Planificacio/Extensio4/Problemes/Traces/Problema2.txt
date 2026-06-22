@@ -1,0 +1,24 @@
+ff: search configuration is  best-first on 1*g(s) + 5*h(s) where
+    metric is ((10.00*[RF6](COSTTOTAL)1.00*[RF5](INTERESTOTAL)) - () + 0.00)
+
+advancing to distance:   10
+                          7
+                          6
+                          5
+                          4
+                          3
+                          2
+                          1
+                          0
+
+ff: found legal plan as follows
+
+step    0: INICIA_RUTA PRAGA H_PRA
+        1: VISITAR PRAGA H_PRA
+        2: VISITAR PRAGA H_PRA
+        3: VISITAR PRAGA H_PRA
+        4: VOLA PRAGA MADRID H_PRA H_MAD
+        5: VISITAR MADRID H_MAD
+        6: VOLA MADRID VIENA H_MAD H_VIE
+        7: VISITAR VIENA H_VIE
+        8: REACH-GOAL
